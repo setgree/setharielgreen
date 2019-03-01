@@ -1,1 +1,11 @@
+title: Seth Green's website
+author:
+  name: Seth Green
+  email : setgree@gmail.com
+  github: setgree
+  twitter: setgree
+
+production_url: setharielgreen.com
+
+markdown:kramdown
 theme: jekyll-theme-modernist
