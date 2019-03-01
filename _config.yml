@@ -5,7 +5,7 @@ author:
   github: setgree
   twitter: setgree
 
-production_url: setharielgreen.com
+# production_url: setharielgreen.com
 
 markdown: kramdown
 theme: jekyll-theme-modernist
