@@ -7,5 +7,6 @@ author:
 
 production_url: setharielgreen.com
 
-markdown: kramdown
+markdown:kramdown
+
 theme: jekyll-theme-modernist
