@@ -11,13 +11,14 @@ I have an apartment in New York. I don't currently reside there and will move ou
 
 So why aren't rental prices cheaper? 
 
-Browsing streeteasy, I get the sense that prices have fallen _slightly_  from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:
+Browsing [streeteasy](https://streeteasy.com/for-rent/nyc), I get the sense that prices have fallen _slightly_  from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:
 
 * the things that make it special (food, opera, whatever your thing is) are basically in complete abeyance;
-* everyday things like exiting and entering your building are much more fraught than they used to be;
-* if people are the ultimate amenity, a lot of them are gone. (My two best friends both left, one in March and one recently.)
+* the tradeoff you made to have a perfectly located apartment -- you get no direct sunlight but you're near your favorite ramen place and you spend most of your day out of the house anyway -- suddenly sucks;
+* everyday things like exiting and entering the building you share with elderly neighbors are much more fraught than they used to be;
+* if people are the ultimate amenity, a lot of them are gone
 
-So, if I didn't know better, I'd expect there to be a lot of broken leases, and suddenly available apartments, and for prices to reflect that. What gives? 
+So, if I didn't know better, I'd expect there to be a lot of broken leases, and suddenly available apartments, but for no commensurate uptick in demand for housing -- and for prices to reflect that. What gives? 
 
 My theory is that rent stabilization laws put a floor on how much much landlords are willing to let prices drop.
 
@@ -54,18 +55,14 @@ vs, in the second scenario:
 rent_calc(1500, 0.05, 10)
 ```
 
-So you're a litlte better off leaving the apartment vacant for the next two years vs. putting it on the market now for its true value.[^1]
+So you're a litlte better off leaving the apartment vacant for the next two years.
 
-You can play around with the numbers as you like, but I think you get the general point.
-
-I"ve played it fast and loose with the details here, and I know that rent-stabilization is complicated, applies to only certain buildings, etc. But if this story is basically right:
+I"ve played it fast and loose with the details here -- rent-stabilization is complicated, applies only to certain buildings, vacant units aren't costless, etc. But if this story is basically right:
 
 ### A prediction and a suggestion
 
 1) A lot of apartments will come on the market this year with perks like "3 months free," which effectively reduce rent by a lot, but, as far as I know, aren't typically covered by rent stabilization laws;
 
-2) If you are renewing your lease, and you have a good relationship with your landlord, you could strike a sweet deal here. For this hypothetical \$2000 apartment, tell them that you're willing to pay \$1000 a month, with the first 6 month upfront in cash, and you'll sign whatever deal they offer that puts the price of the apartment, on paper, at \$2,000 a month. If you really want to [tie your hands to the mast](https://spectacledavenger.blogspot.com/2010/08/jon-elster-ulysses-and-sirens.html), how about suggesting binding arbitration in the case of a dispute about any rent increase in a year's time? 
+2) If you're renewing a lease, and you have a good relationship with your landlord, you could strike a sweet deal here. For this hypothetical \$2,000 apartment, tell them that you're willing to pay \$1000 a month, with the first 6 month upfront in cash, and you'll sign whatever deal they offer that puts the price of the apartment, on paper, at \$2,000 a month. If you really want to [tie your hands to the mast](https://spectacledavenger.blogspot.com/2010/08/jon-elster-ulysses-and-sirens.html), how about suggesting binding arbitration in the case of a dispute about any rent increase in a year's time? 
 
 That's what I would do if I were renegotiating a lease.
-
-[^1]: This ignores some costs of having a vacant apartment (you still have to pay utilities) as well as some potential cost-savings (tenants don't damage anything).
