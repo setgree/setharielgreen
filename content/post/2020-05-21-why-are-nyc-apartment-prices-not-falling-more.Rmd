@@ -21,23 +21,23 @@ Browsing rentals on [StreetEasy](https://streeteasy.com/for-rent/nyc), I get the
 * everyday things like exiting and entering the building you share with elderly neighbors are much more fraught than they used to be;
 * if [people](http://www.arnoldkling.com/blog/city-inhabitants-as-amenities/) are the [ultimate](http://www.arnoldkling.com/blog/the-coordination-problem-and-winner-cities/) [amenity](http://www.arnoldkling.com/blog/expensive-cities-and-labor-immobility/), a lot of them are gone.
 
-[I was confused](https://www.rationality.org/resources/updates/2013/when-do-you-notice-confusion) about this. why haven't prices shifted to reflect (what I assume is) a pretty different supply-demand equillibrium. What gives?
+So what gives?
 
 My theory is that rent stabilization laws put a floor on how much much landlords are willing to let prices drop.
 
 ### Example:
 
 * About a million apartments in New York are rent-stabilized if not rent controlled. 
-* Let's say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for \$2000/month.
+* Let's say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for \$2,000/month.
 * The actual [market-clearing](https://en.wikipedia.org/wiki/Market_clearing) price for the apartment right now is \$1,500/month.
 * You estimate that, over the next 10 years, you'll only be able to raise the rent an average of 5% per year (you can't get a perfect estimate of this because legislation is liable to change the rate).
-* In 2 years time, you expect the apartment to be worth $2000/month again.
+* In 2 years time, you expect the apartment to be worth $2,000/month again.
 
 **What would you do?**
 
 On the one hand, you could leave the apartment up on StreetEasy for \$2,000/month, even though you think that it will stay vacant for two years. On paper, you're going to lose \$48,000 in that time -- but remember, the true, market-clearing price for the aparmtent is $1,500/month, so you're actually losing \$36,000. Two years from now, you expect to rent it for \$2,000/month and increase the rent by 5% every year for the following 8 years.
 
-On the other, you could reduce the price to $1500 and then aim to raise the price by 5% every year for the next ten years. 
+On the other, you could reduce the price to $1,500 and then aim to raise the price by 5% every year for the next ten years. 
 
 In the first scenario, your income for the 10 year period is:
 ```{r}
@@ -66,6 +66,6 @@ I"ve played it fast and loose with the details here -- rent-stabilization is com
 
 1) A lot of apartments will come on the market this year with perks like "3 months free," which effectively reduce rent by a lot, but, as far as I know, aren't typically covered by rent stabilization laws;
 
-2) If you're renewing a lease, and you have a good relationship with your landlord, you could strike a sweet deal. For this hypothetical \$2,000 apartment, tell them that you're willing to pay \$1000 a month, with the first 6 month upfront in cash, and you'll sign whatever deal they offer that puts the price of the apartment, on paper, at \$2,000 a month. If you really want to [tie your hands to the mast](https://spectacledavenger.blogspot.com/2010/08/jon-elster-ulysses-and-sirens.html), how about suggesting binding arbitration in the case of a dispute about any rent increase in a year's time?
+2) If you're renewing a lease, and you have a good relationship with your landlord, you could strike a sweet deal. For this hypothetical \$2,000 apartment, tell them that you're willing to pay \$1,000 a month, with the first 6 month upfront in cash, and you'll sign whatever deal they offer that puts the price of the apartment, on paper, at \$2,000 a month. If you really want to [tie your hands to the mast](https://spectacledavenger.blogspot.com/2010/08/jon-elster-ulysses-and-sirens.html), how about suggesting binding arbitration in the case of a dispute about any rent increase in a year's time?
 
 That's what I would do if I were renegotiating a lease.
