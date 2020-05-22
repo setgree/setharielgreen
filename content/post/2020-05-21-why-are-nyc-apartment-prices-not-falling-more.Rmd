@@ -46,20 +46,21 @@ rent_calc <- function(base_amount, increase_rate, years) {
   for(i in 1:(years-1)){
     rent <- rent + (base_amount * appreciation^i * 12)
   }
-  print(rent)
+  print(noquote(paste0("$", format(x = rent, big.mark = ',',
+                                   trim = F, digits = 8))))
 }
 
 rent_calc(2000, 0.05, 8)
 ```
-vs, in the second scenario:
 
+Alternatively:
 ```{r}
 rent_calc(1500, 0.05, 10)
 ```
 
 So you're a litlte better off leaving the apartment vacant for the next two years.
 
-I"ve played it fast and loose with the details here -- rent-stabilization is complicated, applies only to certain buildings, vacant units aren't costless, etc. But if this story is basically right:
+I've played it fast and loose with the details here -- rent-stabilization is complicated, applies only to certain buildings, vacant units aren't costless, etc. But if this story is basically right:
 
 ### A prediction and a suggestion
 

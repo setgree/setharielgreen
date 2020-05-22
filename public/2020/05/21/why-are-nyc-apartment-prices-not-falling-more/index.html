@@ -110,16 +110,17 @@
   for(i in 1:(years-1)){
     rent &lt;- rent + (base_amount * appreciation^i * 12)
   }
-  print(rent)
+  print(noquote(paste0(&quot;$&quot;, format(x = rent, big.mark = &#39;,&#39;,
+                                   trim = F, digits = 8))))
 }
 
 rent_calc(2000, 0.05, 8)</code></pre>
-<pre><code>## [1] 229178.6</code></pre>
-<p>vs, in the second scenario:</p>
+<pre><code>## [1] $229,178.61</code></pre>
+<p>Alternatively:</p>
 <pre class="r"><code>rent_calc(1500, 0.05, 10)</code></pre>
-<pre><code>## [1] 226402.1</code></pre>
+<pre><code>## [1] $226,402.07</code></pre>
 <p>So you’re a litlte better off leaving the apartment vacant for the next two years.</p>
-<p>I&quot;ve played it fast and loose with the details here – rent-stabilization is complicated, applies only to certain buildings, vacant units aren’t costless, etc. But if this story is basically right:</p>
+<p>I’ve played it fast and loose with the details here – rent-stabilization is complicated, applies only to certain buildings, vacant units aren’t costless, etc. But if this story is basically right:</p>
 </div>
 <div id="a-prediction-and-a-suggestion" class="section level3">
 <h3>A prediction and a suggestion</h3>
