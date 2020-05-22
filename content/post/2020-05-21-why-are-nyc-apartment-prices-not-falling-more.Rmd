@@ -30,7 +30,7 @@ My theory is that rent stabilization laws put a floor on how much much landlords
 * Let's say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for \$2,000/month.
 * The actual [market-clearing](https://en.wikipedia.org/wiki/Market_clearing) price for the apartment right now is \$1,500/month.
 * You estimate that, over the next 10 years, you'll only be able to raise the rent an average of 5% per year (you can't get a perfect estimate of this because legislation is liable to change the rate).
-* In 2 years time, you expect the apartment to be worth $2,000/month again.
+* Two years from now, you expect the apartment to be worth $2,000/month again.
 
 **What would you do?**
 
