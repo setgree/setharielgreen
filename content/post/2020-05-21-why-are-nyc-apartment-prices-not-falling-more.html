@@ -7,37 +7,35 @@ slug: why-are-nyc-apartment-prices-not-falling-more
 
 
 
-<p>(This is a test blogpost so I’m going to keep it short and sweet)</p>
-<div id="why-havent-prices-fallen" class="section level3">
-<h3>Why haven’t prices fallen?</h3>
-<p>I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). It seems that Manhattan is somewhere you wouldn’t want to be right now if you could be anywhere else.</p>
-<p>So why aren’t real estate prices cheaper?</p>
-<p>Browsing streeteasy, I get the sense that prices are reduced <em>slightly</em> from what they were three months ago, despite it being the epicenter of a pandemic, and therefore:</p>
+<div id="observations" class="section level3">
+<h3>Observations:</h3>
+<p>I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). It seems that Manhattan is somewhere you wouldn’t want to be right now if you could be somewhere ele. We know that there’s been something of an <a href="https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html">exodus from the city</a>.</p>
+<p>So why aren’t rental prices cheaper?</p>
+<p>Browsing <a href="https://streeteasy.com/for-rent/nyc">streeteasy</a>, I get the sense that prices have fallen <em>slightly</em> from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:</p>
 <ul>
-<li>the things that make New York special (food, opera, whatever your thing is) are basically completely in abeyance;</li>
-<li>everyday things like exiting and leaving your building are much more fraught than they used to be;</li>
-<li>if people are the ultimate amenity, a lot of them are gone.</li>
+<li>the things that make it special (food, opera, whatever your thing is) are basically in complete abeyance;</li>
+<li>the tradeoff you made to have a perfectly located apartment – you get no direct sunlight but you’re near your favorite ramen place and you spend most of your day out of the house anyway – suddenly sucks;</li>
+<li>everyday things like exiting and entering the building you share with elderly neighbors are much more fraught than they used to be;</li>
+<li>if people are the ultimate amenity, a lot of them are gone</li>
 </ul>
-<p>So, if I didn’t know better, I’d expect prices there to be a mass exodus of renters, and for prices to reflect the suddenly high supply-to-demand ratio. What gives?</p>
-<p>Possibly, prices might fall a lot in the summer (assuming lots of people, like me, end their leases and landlords find it difficult to replace them).</p>
-<p>Another possibility: rent stabilization laws put a floor on how much many landlords are willing to let prices drop.</p>
+<p>So, if I didn’t know better, I’d expect there to be a lot of broken leases, and suddenly available apartments, but for no commensurate uptick in demand for housing – and for prices to reflect that. What gives?</p>
+<p>My theory is that rent stabilization laws put a floor on how much much landlords are willing to let prices drop.</p>
 </div>
-<div id="working-through-a-simple-example" class="section level3">
-<h3>Working through a simple example:</h3>
+<div id="working-through-an-example" class="section level3">
+<h3>Working through an example:</h3>
 <ul>
 <li>About a million apartments in New York are rent-stabilized if not rent controlled.</li>
 <li>Let’s say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for $2000/month.</li>
-<li>The actual market-clearing price for the apartment during these weird times is $1000/month.</li>
+<li>The actual <a href="https://en.wikipedia.org/wiki/Market_clearing">market-clearing</a> price for the apartment right now is $1,500/month.</li>
 <li>You estimate that, over the next 10 years, you’ll only be able to raise the rent an average of 5% per year (you can’t get a perfect estimate of this because legislation is liable to change the rate).</li>
-<li>If an apartment is vacant, you can raise rents by up to 20%.</li>
 <li>In 2 years time, you expect the apartment to be worth $2000/month again.</li>
 </ul>
 </div>
 <div id="what-would-you-do" class="section level3">
 <h3>What would you do?</h3>
-<p>On the one hand, you could leave the apartment up on Streeteasy for $2000/month, even though you think that it will stay vacant for two years. On paper, you’re going to lose $48,000 in that time – but remember, the true, market-clearing price for the aparmtent is $1000/month, so you’re actually losing $24,000. In two years time, you expect to be able to rent it for $2000/month and increase the rent by 5% every year for the following 8 years.</p>
-<p>On the other, you could reduce the price to $1000 and then aim to raise the price by 5% every year for the next ten years.</p>
-<p>In the first scenario, your income for the 10 year period is (this is going to fast and loose, I’m sure there’s some <code>lapply</code> way to do it better):</p>
+<p>On the one hand, you could leave the apartment up on Streeteasy for $2,000/month, even though you think that it will stay vacant for two years. On paper, you’re going to lose $48,000 in that time – but remember, the true, market-clearing price for the aparmtent is $1,500/month, so you’re actually losing $36,000. In two years time, you expect to be able to rent it for $2,000/month and increase the rent by 5% every year for the following 8 years.</p>
+<p>On the other, you could reduce the price to $1500 and then aim to raise the price by 5% every year for the next ten years.</p>
+<p>In the first scenario, your income for the 10 year period is:</p>
 <pre class="r"><code>rent_calc &lt;- function(base_amount, increase_rate, years) {
   rent &lt;- (base_amount * 12)
   appreciation &lt;- 1 + increase_rate
@@ -50,24 +48,16 @@ slug: why-are-nyc-apartment-prices-not-falling-more
 rent_calc(2000, 0.05, 8)</code></pre>
 <pre><code>## [1] 229178.6</code></pre>
 <p>vs, in the second scenario:</p>
-<pre class="r"><code>rent_calc(1000, 0.05, 10)</code></pre>
-<pre><code>## [1] 150934.7</code></pre>
-<p>$150,934.7 – it’s not even close. You lose about $78,000 over the course of 10 years if you put the apartment on the market now.</p>
-<p>What if the maximum appreciation rate were 10%, and in 10 years time, you thought that the apartment would still be worth $2000?</p>
-<p>Putting it on the market for $1000 now, you’d get:</p>
-<pre class="r"><code>rent_calc(1000, .1, 10)</code></pre>
-<pre><code>## [1] 191249.1</code></pre>
-<p>Leaving it vacant and then charging $2000/month every year for the following 8:</p>
-<pre class="r"><code>2000 * 12 * 8</code></pre>
-<pre><code>## [1] 192000</code></pre>
-<p>You’re still slightly better off leaving it off the market.</p>
-<p>Am I right? I played a little fast and loose with the details here and I am not totally sure I got rent stabilization right :) But let’s say I’m right; if so:</p>
+<pre class="r"><code>rent_calc(1500, 0.05, 10)</code></pre>
+<pre><code>## [1] 226402.1</code></pre>
+<p>So you’re a litlte better off leaving the apartment vacant for the next two years.</p>
+<p>I&quot;ve played it fast and loose with the details here – rent-stabilization is complicated, applies only to certain buildings, vacant units aren’t costless, etc. But if this story is basically right:</p>
 </div>
 <div id="a-prediction-and-a-suggestion" class="section level3">
 <h3>A prediction and a suggestion</h3>
 <ol style="list-style-type: decimal">
-<li><p>A lot of apartments will come on the market this year with provisions like “3 months free” (effectively reducing the monthy rent by a lot, but, as far as I know, a provision not covered by typical rent stabilization provisions)</p></li>
-<li><p>If you like the looks of an apartment, and you have a good relationship with the landlord (or think you could develop one), you could strike a sweet deal here. For this hypothetical $2000 apartment, tell them that you’re willing to pay $1000 a month – one suspects that lanldords are feeling a little cash-strapped at the moment, so you could offer to pay 3 months upfront in cash – and you’ll sign whatever paperwork you need to, or agree to any contract, that gives the appearance that the actual rent on the place is $2000. Why not sweeten the deal and sign a stipulation saying that the landlord can charge you whatever she likes in a year and if you dispute it, the case gets automatically referred to a private arbitrator of the landlord’s choosing?</p></li>
+<li><p>A lot of apartments will come on the market this year with perks like “3 months free,” which effectively reduce rent by a lot, but, as far as I know, aren’t typically covered by rent stabilization laws;</p></li>
+<li><p>If you’re renewing a lease, and you have a good relationship with your landlord, you could strike a sweet deal here. For this hypothetical $2,000 apartment, tell them that you’re willing to pay $1000 a month, with the first 6 month upfront in cash, and you’ll sign whatever deal they offer that puts the price of the apartment, on paper, at $2,000 a month. If you really want to <a href="https://spectacledavenger.blogspot.com/2010/08/jon-elster-ulysses-and-sirens.html">tie your hands to the mast</a>, how about suggesting binding arbitration in the case of a dispute about any rent increase in a year’s time?</p></li>
 </ol>
-<p>That’s what I would do if I were you and it was time to renegotiate a lease.</p>
+<p>That’s what I would do if I were renegotiating a lease.</p>
 </div>
