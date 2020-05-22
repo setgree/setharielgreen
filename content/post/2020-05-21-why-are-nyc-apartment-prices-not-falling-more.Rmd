@@ -11,7 +11,7 @@ I have an apartment in New York. I don't currently reside there and will move ou
 
 So why aren't rental prices cheaper? 
 
-Browsing [streeteasy](https://streeteasy.com/for-rent/nyc), I get the sense that prices have fallen _slightly_  from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:
+Browsing [StreetEasy](https://streeteasy.com/for-rent/nyc), I get the sense that prices have fallen _slightly_  from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:
 
 * the things that make it special (food, opera, whatever your thing is) are basically in complete abeyance;
 * the tradeoff you made to have a perfectly located apartment -- you get no direct sunlight but you're near your favorite ramen place and you spend most of your day out of the house anyway -- suddenly sucks;
@@ -32,7 +32,7 @@ My theory is that rent stabilization laws put a floor on how much much landlords
 
 ### What would you do?
 
-On the one hand, you could leave the apartment up on Streeteasy for \$2,000/month, even though you think that it will stay vacant for two years. On paper, you're going to lose \$48,000 in that time -- but remember, the true, market-clearing price for the aparmtent is $1,500/month, so you're actually losing \$36,000. In two years time, you expect to be able to rent it for \$2,000/month and increase the rent by 5% every year for the following 8 years.
+On the one hand, you could leave the apartment up on StreetEasy for \$2,000/month, even though you think that it will stay vacant for two years. On paper, you're going to lose \$48,000 in that time -- but remember, the true, market-clearing price for the aparmtent is $1,500/month, so you're actually losing \$36,000. In two years time, you expect to be able to rent it for \$2,000/month and increase the rent by 5% every year for the following 8 years.
 
 On the other, you could reduce the price to $1500 and then aim to raise the price by 5% every year for the next ten years. 
 
