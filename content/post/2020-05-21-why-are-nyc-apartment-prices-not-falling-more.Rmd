@@ -7,9 +7,12 @@ slug: why-are-nyc-apartment-prices-not-falling-more
 
 ### Observations:
 
-I have an apartment in New York. I don't currently reside there and will move out when the lease ends (in about a month). It seems that Manhattan is somewhere you wouldn't want to be right now if you could be somewhere ele. We know that there's been something of an [exodus from the city](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html).
+* I have an apartment in New York. 
+* I don't currently reside there and will move out when the lease ends (in about a month).  
+* Manhattan is a weird place to be right now.
+* We know there's been something of an [exodus from the city](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html).
 
-So why aren't rental prices cheaper? 
+***So why aren't rental prices cheaper?**
 
 Browsing [StreetEasy](https://streeteasy.com/for-rent/nyc), I get the sense that prices have fallen _slightly_  from where they were three months ago, despite New York being the epicenter of a pandemic, and therefore:
 
@@ -22,7 +25,7 @@ So, if I didn't know better, I'd expect there to be a lot of broken leases, and 
 
 My theory is that rent stabilization laws put a floor on how much much landlords are willing to let prices drop.
 
-### Working through an example:
+### Example:
 
 * About a million apartments in New York are rent-stabilized if not rent controlled. 
 * Let's say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for \$2000/month.
@@ -30,7 +33,7 @@ My theory is that rent stabilization laws put a floor on how much much landlords
 * You estimate that, over the next 10 years, you'll only be able to raise the rent an average of 5% per year (you can't get a perfect estimate of this because legislation is liable to change the rate).
 * In 2 years time, you expect the apartment to be worth $2000/month again.
 
-### What would you do?
+**What would you do?**
 
 On the one hand, you could leave the apartment up on StreetEasy for \$2,000/month, even though you think that it will stay vacant for two years. On paper, you're going to lose \$48,000 in that time -- but remember, the true, market-clearing price for the aparmtent is $1,500/month, so you're actually losing \$36,000. In two years time, you expect to be able to rent it for \$2,000/month and increase the rent by 5% every year for the following 8 years.
 
