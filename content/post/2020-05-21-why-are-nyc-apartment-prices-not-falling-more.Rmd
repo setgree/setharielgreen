@@ -22,7 +22,7 @@ So, if I didn't know better, I'd expect there to be a lot of broken leases, and 
 
 My theory is that rent stabilization laws put a floor on how much much landlords are willing to let prices drop.
 
-### Working through a simplified example:
+### Working through an example:
 
 * About a million apartments in New York are rent-stabilized if not rent controlled. 
 * Let's say you (the landlord) have a rent-stabilized apartment that, in normal times, rents for \$2000/month.
