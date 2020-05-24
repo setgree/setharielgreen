@@ -58,7 +58,7 @@ Alternatively:
 rent_calc(1500, 0.05, 10)
 ```
 
-So you're a litlte better off leaving the apartment vacant for the next two years.
+So you're a little better off leaving the apartment vacant for the next two years.
 
 I've played it fast and loose with the details here -- rent-stabilization is complicated, applies only to certain buildings, vacant units aren't costless, etc. But if this story is basically right:
 
