@@ -11,7 +11,7 @@ slug: why-are-nyc-apartment-prices-not-falling-more
 * I don't currently reside there and will move out when the lease ends (in about a month).
 * Many people I know are in the same boat (and we know there's been something of an [exodus from the city](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)).
 
-But prices don't seem to reflect that.
+This feels like it should be a major supply-demand readjustment. But prices don't seem to reflect that.
 
 Browsing rentals on [StreetEasy](https://streeteasy.com/for-rent/nyc), prices seem to have fallen _slightly_ from where they were three months ago -- despite New York's being the epicenter of a pandemic, and therefore:
 
