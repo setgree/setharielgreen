@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://scholar.google.com/citations?user=66CRLeoAAAAJ"
 
 [params]
-    description = "I'm not Seth Green the actor (I am not sure what his middle name is) and here's some stuff I like and wrote"
+    description = "I am Seth Green not-the-actor and here you'll find some stuff I like and wrote"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
