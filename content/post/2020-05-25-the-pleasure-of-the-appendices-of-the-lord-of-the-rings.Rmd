@@ -6,7 +6,6 @@ tags:
   - fantasy-literature
   - lord-of-the-rings
 slug: the-pleasure-of-the-appendices-of-the-lord-of-the-rings
-draft: yes
 ---
 
 **Author's Note**: This post isn't going to make a lot of sense if you aren't already familiar with _LOTR_, _The Hobbit_, etc. 
@@ -15,9 +14,9 @@ In the foreword to the second edition of _The Lord of the Rings_, Tolkien writes
 
 > It is perhaps not possible in a long tale to please everybody at all points, nor to displease everybody at the same points; for I find from the letters that I have received that the passages or chapters that are to some a blemish are all by others specially approved.
 
-Allow me to cast a vote of special approval for Appendices A and B -- particularly the sections about the dwarves of the Lonely Mountain, the three Elven rings, and the elves of the Woodland Realm, Lothlórien, and what they were doing immediately before and during the [War of the Ring](https://lotr.fandom.com/wiki/War_of_the_Ring). These passages provide the all-too-rare (in literature and in life) pleasure of _context_.
+Allow me to cast a vote of special approval for Appendices A and B -- particularly the sections about the dwarves of the Lonely Mountain, the three elvin rings, and the elves of the Woodland Realm, Lothlórien, and what they were doing immediately before and during the [War of the Ring](https://lotr.fandom.com/wiki/War_of_the_Ring). These passages provide the all-too-rare (in literature and in life) pleasure of _context_.
 
-_LOTR_ covers a lot of territory -- in multiple senses, but here I mean just the [physical ground the characters cross](http://lotrproject.com/map/#zoom=3&lat=-1681.5&lon=1500&layers=BTTTTTTTT) to get from the Shire to Mount Doom -- but in the end, just about every (ininjured) main character converges on Mordor, either at its gate or its forge. The notable exceptions are the Elf-Lords introduced in _Fellowship_, and most of the main cast of the _Hobbit_ (and their descendants). Asking "what was my personal favorite character doing during the big battle??" is the kind of thing that keeps fantasy readers up at night (posting such questions on [r/SwordOfTruth](https://www.reddit.com/r/SwordOfTruth/) or equivalent). 
+_LOTR_ covers a lot of territory -- in multiple senses, but here I mean just the [physical ground the characters cross](http://lotrproject.com/map/#zoom=3&lat=-1681.5&lon=1500&layers=BTTTTTTTT) to get from the Shire to Mount Doom -- but in the end, just about every (uninjured) main character converges on Mordor, either at its gate or its forge. The notable exceptions are the Elf-Lords introduced in _Fellowship_, and most of the main cast of the _Hobbit_ (and their descendants). Asking "what was my personal favorite character doing during the big battle??" is the kind of thing that keeps fantasy readers up at night (posting such questions on [r/SwordOfTruth](https://www.reddit.com/r/SwordOfTruth/) or equivalent). 
 
 Tolkien provides. Galadriel, Celeborn and the Galadhrim were fending off three successive attacks on Lothlórien (appendix B, the on(e that's a timeline of events), King Brand of the Dale and Dáin II Ironfoot fall in the [Battle of Dale](https://lotr.fandom.com/wiki/Battle_of_Dale), but delay Sauron's forces in the North enough for the forces in the South to have something to return to after the [Battle of the Morannon](http://tolkiengateway.net/wiki/Battle_of_the_Morannon). As Gandalf says in _Appendix A: Annals of the Kings and Rulers, III: Durin's Folk_:
 
@@ -27,4 +26,10 @@ Tolkien has pulled off a marvelous trick here. He's answered questions about bro
 
 >We might now hope to return from the victory here to ruin and ash. But that has been averted — because I met Thorin Oakenshield one evening on the edge of spring in Bree. A chance-meeting, as we say in Middle-earth.
 
-Aha, you might think, reading this. So that's why _The Hobbit_ matters, and how it fits in. That's why Galadriel didn't send forces to 
+Aha, you might think, reading this. So that's why _The Hobbit_ matters, and how it fits in. That's why Galadriel and Thranduil didn't send forces to aid in Rohan or Gondor (Peter Jackson undoes this by having a squadron of Elvish archers show up for the Battle of Helm's Deep). And that's what happens to Dol Guldur after Sauron falls (Galadriel casts it down, we learn in Appendix B). Finally things make sense.
+
+I wish I experienced this more in my life. Sometimes investigative journalism moves in this direction -- The _Times_ article on ['the lost month' of Coronavirus testing'](https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html) is a little like this, except incomplete and infuriating. But Tolkien is a fantasy writer, and here the fantasy being spun is "there was a true story behind events, that coheres perfectly, and you can have it." As a reader, as a person, this might be my truest, deepest desire: to know, to have the missing context. 
+
+Back here in reality, context dies with people who never divulge it, or it never exists (there is no author, there is no one footnoting things with an eye to explaining). Alas.
+
+But to have it for a self-contained universe, to actually know -- that's what I love about the first two appendices of _The Lord of the Rings_.
