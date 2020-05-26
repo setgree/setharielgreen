@@ -6,10 +6,32 @@
     <description>Recent content on Seth Green&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis of Open Data and Computational Reproducibility in Registered Reports in Psychology</title>
+      <link>/2020/05/25/analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/25/analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology/</guid>
+      <description>was published last week, on which yours truly is a co-author.
+Its abstract (emphasis added):
+ Ongoing technological developments have made it easier than ever before for scientists to share their data, materials, and analysis code. Sharing data and analysis code makes it easier for other researchers to reuse or check published research. However, these benefits will emerge only if researchers can reproduce the analyses reported in published articles and if data are annotated well enough so that it is clear what all variable and value labels mean.</description>
+    </item>
+    
+    <item>
+      <title>The Pleasure of the Appendices of the Lord of the Rings</title>
+      <link>/2020/05/25/the-pleasure-of-the-appendices-of-the-lord-of-the-rings/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/25/the-pleasure-of-the-appendices-of-the-lord-of-the-rings/</guid>
+      <description>Author’s Note: This post isn’t going to make a lot of sense if you aren’t already familiar with LOTR, The Hobbit, etc.
+In the foreword to the second edition of The Lord of the Rings, Tolkien writes:
+ It is perhaps not possible in a long tale to please everybody at all points, nor to displease everybody at the same points; for I find from the letters that I have received that the passages or chapters that are to some a blemish are all by others specially approved.</description>
+    </item>
     
     <item>
       <title>Why are NYC apartment prices not falling more?</title>
@@ -17,7 +39,7 @@
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</guid>
-      <description>Observations:  I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). Many people I know are in the same boat (and we know there’s been something of an exodus from the city.)  But prices don’t seem to reflect that.
+      <description>Observations:  I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). Many people I know are in the same boat (and we know there’s been something of an exodus from the city).  This feels like it should be a major supply-demand readjustment. But prices don’t seem to reflect that.
 Browsing rentals on StreetEasy, prices seem to have fallen slightly from where they were three months ago – despite New York’s being the epicenter of a pandemic, and therefore:</description>
     </item>
     
@@ -27,7 +49,9 @@ Browsing rentals on StreetEasy, prices seem to have fallen slightly from where t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi I&amp;rsquo;m Seth and I&amp;rsquo;m starting a website. I will blog and put my resume here and maybe link to other projects.</description>
+      <description>Hi I&amp;rsquo;m Seth! I work as a research specialist in Betsy Levy Paluck&amp;rsquo;s lab at Princeton. I was formerly Developer Advocate at Code Ocean, and before that, I studied political science at Swarthmore (2006-2010) and Columbia (2013-2015).
+I like cartoons and animal sanctuaries and in quarantine-times I&amp;rsquo;ve been finding a lot of joy in Lambchop&amp;rsquo;s &amp;lsquo;The Hustle&amp;rsquo;.
+I write the content locally on Rstudio with blogdown, push its source code to https://github.</description>
     </item>
     
   </channel>
