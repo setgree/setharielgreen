@@ -1,0 +1,27 @@
+---
+title: Contra Robin Hanson and Jeff Kaufman on veganism
+author: Seth Green
+date: '2020-05-30'
+slug: contra-robin-hanson-and-jeff-kaufman-on-veganism
+draft: true
+categories:
+  - veganism
+---
+
+**Observations, and arguments worth responding to:**
+
+Michael Huemer observes -- in [Dialogues on Ethical Vegetarianism](https://books.google.com/books?hl=en&lr=&id=mPWODwAAQBAJ&oi=fnd&pg=PT10&dq=dialogues+on+ethical+vegetarianism&ots=fy_PWpCebw&sig=pAlFi9s6h1bqlvApmLTYt2k7W6M#v=onepage&q=dialogues%20on%20ethical%20vegetarianism&f=false), and in a recent Cato Unbound series on [What moral considerations do humans owe animals](https://www.cato-unbound.org/issues/february-2020/what-do-humans-owe-animals) -- three things that I agree with and think about a lot:
+
+* Eating meat is the worst thing that he has ever done (I think this is true for me as well);
+* Factory farming is at least a plausible contender for the most important ethical issue today;
+* "Given that nearly every person in America buys animal products from factory farms on a regular basis, it should be easy to find someone to defend the morality of that practice. [In fact, it is almost impossible to find anyone to do that](https://www.cato-unbound.org/2020/02/24/michael-huemer/replies-lamey-skoble-klein)." 
+
+I personally can think of three people whose writing I like, and whose ideas I take seriously, who have given reasons why they (or conditions under which they will) eat animal products:[^1] [Scott Alexander](https://slatestarcodex.com/2015/09/23/vegetarianism-for-meat-eaters/), [Robin Hanson](http://mason.gmu.edu/~rhanson/meat.html), and [Jeff Kaufman](https://www.jefftk.com/p/why-im-not-vegan).[^2] I'm going to skip over Scott's piece for now, because it's a little different than the other two, and respond to Robin and Jeff.
+
+I disagree with all three men, but for what it's worth, I'm glad they wrote about their thinking. It'd be a much worse state of affairs, much harder to push the needle, if people who eat meat refused to talk about it. Putting your reasons out there sets terms for conversation and possible persuasion. I'm reminded of a tumblr post (that I can't find right now) about parents of surly teenagers commenting: "look who finally decided to join us." If the thing you want is for the kid to join you, don't isolate or belittle them when they do![^3] Same principle applies here, I think. I believe that these guys are wrong, and what they're doing is bad, and when I read their arguments, I feel sad, thinking about all the miserable animals. But I want to live in a world where more people talk about this stuff, and I'm trying to do my part to make that happen. If I scream at the men when they voice their opinions, I don't think I'm helping. So, to them, and everyone who writes about the subject, thanks for sharing. Here's what I think.
+
+**Robin's argument:**
+
+[^1]: I know this is not quite the same thing as defending factory farming, but because so much of Americans' meat, dairy and cheese comes from factory farms, I'm eliding this nuance in my response.
+[^2]: Other posts by Kaufman suggest that he's been thinking about this question for a long time, e.g. https://www.jefftk.com/p/against-vegan-absolutism and https://www.jefftk.com/p/most-animal-friendly-diet.
+[^3]: Robin Hanson might say that parents who comment such things don't actually want their kids' company, but just want to _seem_ like the [kind of parents who do](http://www.overcomingbias.com/2016/03/cant-stop-lecturing.html): "people typically care more about making sure they are seen to take a particular moral stance than they care about the net effect of their lectures on behavior... The parents of a daughter dating a bad boy care more about showing they took the correct moral stance than they do about whether she actually dates him."

@@ -34,6 +34,16 @@ In the foreword to the second edition of The Lord of the Rings, Tolkien writes:
     </item>
     
     <item>
+      <title>Is Florida doing a great job handling things?</title>
+      <link>/2020/05/22/is-florida-doing-a-great-job-handling-things/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/22/is-florida-doing-a-great-job-handling-things/</guid>
+      <description>Rich Lowry thinks so. He interviews Ron DeSantis and his colleagues, who seem to have focused on keeping very vulerable people in nursing homes safe, and frames the piece as “liberal media can’t admit that Trump-friendly guy is doing a good job.”1
+First question: what is the general consensus on Florida’s COVID response? When I searched Google News for “Florida” and “Coronavirus,” I found little that evalauted its overall response, but a lot of stories about a Florida data scientist who was apparently fired for not faking the data.</description>
+    </item>
+    
+    <item>
       <title>Why are NYC apartment prices not falling more?</title>
       <link>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
@@ -51,7 +61,7 @@ Browsing rentals on StreetEasy, prices seem to have fallen slightly from where t
       <guid>/about/</guid>
       <description>Hi I&amp;rsquo;m Seth! I work as a research specialist in Betsy Levy Paluck&amp;rsquo;s lab at Princeton. I was formerly Developer Advocate at Code Ocean, and before that, I studied political science at Swarthmore (2006-2010) and Columbia (2013-2015).
 I like cartoons and animal sanctuaries and in quarantine-times I&amp;rsquo;ve been finding a lot of joy in Lambchop&amp;rsquo;s &amp;lsquo;The Hustle&amp;rsquo;.
-I write the content locally on Rstudio with blogdown, push its source code to https://github.</description>
+I write the content locally on Rstudio with blogdown, push its source code to GitHub, and deploy from there with Netlify.</description>
     </item>
     
   </channel>
