@@ -22,5 +22,14 @@ In the foreword to the second edition of The Lord of the Rings, Tolkien writes:
  It is perhaps not possible in a long tale to please everybody at all points, nor to displease everybody at the same points; for I find from the letters that I have received that the passages or chapters that are to some a blemish are all by others specially approved.</description>
     </item>
     
+    <item>
+      <title>All the words in Lord of the Rings that I did not know</title>
+      <link>/1/01/01/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</guid>
+      <description>  # sort the words import os from PyDictionary import PyDictionary os.chdir(&amp;#39;/Users/setgree/Dropbox/GitHub/setharielgreen/&amp;#39;) dictionary=PyDictionary() words= sorted(open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words&amp;#39;)) test_words = [&amp;#39;word&amp;#39;, &amp;#39;love&amp;#39;] with open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words-defined.txt&amp;#39;,&amp;#39;w+&amp;#39;) as f: i=1 for word in test_words: # word = test_words.strip() f.writelines(str(i)) f.writelines(&amp;quot;. &amp;quot;) f.writelines(word) f.writelines(&amp;quot;: &amp;quot;) f.writelines(str(dictionary.meaning(word))) f.writelines(&amp;quot;\n&amp;quot;) i +=1 # f = open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words-sorted&amp;#39;, &amp;quot;a&amp;quot;) print(words) #if word.strip(&amp;quot;\n&amp;quot;): print(word, &amp;quot;:&amp;quot;, &amp;quot;definition&amp;quot;, &amp;quot;\n&amp;quot;) # f.write(word) # remove extra line from bottom and top of file </description>
+    </item>
+    
   </channel>
 </rss>
