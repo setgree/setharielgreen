@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <loc>/2020/07/22/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/07/09/rihanna-borges-or-when-rihanna-covers-same-ol-mistakes/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <loc>/tags/fantasy-literature/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lord-of-the-rings/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/07/09/rihanna-borges-or-when-rihanna-covers-same-ol-mistakes/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,21 +63,6 @@
   </url>
   
   <url>
-    <loc>/tags/fantasy-literature/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lord-of-the-rings/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/05/25/the-pleasure-of-the-appendices-of-the-lord-of-the-rings/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -75,10 +80,6 @@
   <url>
     <loc>/about/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</loc>
   </url>
   
 </urlset>

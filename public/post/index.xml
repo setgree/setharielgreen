@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Seth Green&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All the words in _Lord of the Rings_ that I did not know</title>
+      <link>/2020/07/22/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/22/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</guid>
+      <description>Sixty-four in all! I had a sense of what some of these meant but included them if I wasn’t pretty sure,and a lot of the usages were archaic.
+The joy of putting together a list like this was both learning a bunch of fun words and also engaging with the people who have tread before me in the task of understanding LOTR’s minutiae, e.g., the folks who wrote the Tolkien Glossary and Tolkien and the OED.</description>
+    </item>
     
     <item>
       <title>Rihanna &amp; Borges; or, when Rihanna covers &#34;Same Ol&#39; Mistakes,&#34;</title>
@@ -85,15 +95,6 @@ First question: what is the general consensus on Florida’s COVID response? Whe
       <guid>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</guid>
       <description>Observations:  I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). Many people I know are in the same boat (and we know there’s been something of an exodus from the city).  This feels like it should be a major supply-demand readjustment. But prices don’t seem to reflect that.
 Browsing rentals on StreetEasy, prices seem to have fallen slightly from where they were three months ago – despite New York’s being the epicenter of a pandemic, and therefore:</description>
-    </item>
-    
-    <item>
-      <title>All the words in Lord of the Rings that I did not know</title>
-      <link>/1/01/01/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/all-the-words-in-lord-of-the-rings-that-i-did-not-know/</guid>
-      <description>  # sort the words import os from PyDictionary import PyDictionary os.chdir(&amp;#39;/Users/setgree/Dropbox/GitHub/setharielgreen/&amp;#39;) dictionary=PyDictionary() words= sorted(open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words&amp;#39;)) test_words = [&amp;#39;word&amp;#39;, &amp;#39;love&amp;#39;] with open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words-defined.txt&amp;#39;,&amp;#39;w+&amp;#39;) as f: i=1 for word in test_words: # word = test_words.strip() f.writelines(str(i)) f.writelines(&amp;quot;. &amp;quot;) f.writelines(word) f.writelines(&amp;quot;: &amp;quot;) f.writelines(str(dictionary.meaning(word))) f.writelines(&amp;quot;\n&amp;quot;) i +=1 # f = open(&amp;#39;static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words-sorted&amp;#39;, &amp;quot;a&amp;quot;) print(words) #if word.strip(&amp;quot;\n&amp;quot;): print(word, &amp;quot;:&amp;quot;, &amp;quot;definition&amp;quot;, &amp;quot;\n&amp;quot;) # f.write(word) # remove extra line from bottom and top of file </description>
     </item>
     
   </channel>
