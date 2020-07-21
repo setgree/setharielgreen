@@ -18,9 +18,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Google Scholar"
     url = "https://scholar.google.com/citations?user=66CRLeoAAAAJ"
+[[menu.main]]
+    name = "Blog"
+    url = "https://setharielgreen.com"
 
 [params]
-    description = "I am Seth Green not-the-actor and here you'll find some stuff I like and wrote"
+    description = "I am Seth Ariel Green and here you'll find some stuff I like and wrote"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -39,4 +42,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
