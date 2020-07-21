@@ -1,5 +1,5 @@
 ---
-title: All the words in _Lord of the Rings_ that I did not know
+title: All the words in 'Lord of the Rings' that I did not know
 author: Seth Ariel Green
 date: "2020-07-22"
 tags:
@@ -102,7 +102,8 @@ pip install PyDictionary
 from PyDictionary import PyDictionary
 
 # import aned sort words
-# words = sorted(open('static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words')) # this doesn't exist anymore (did I delete it or )
+# words = sorted(open('static/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know_files/lotr-words')) # this doesn't exist anymore (did I delete it or 
+# did blogdown when I updated stuff?)
 
 # strip newline characters
 words = [w.replace('\n', '') for w in words]
