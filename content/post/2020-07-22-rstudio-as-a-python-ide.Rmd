@@ -13,7 +13,9 @@ So far, I've found it pretty viable. I am a Python n00b but used it a bit to cre
 
 The main advantage is that it brings all the key bindings I'm used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I'm iterating, whether in a script or the interpreter. As far as I know, there's no "Python-first" IDE that does this as well as Rstudio does this for R.
 
-Rstudio also has really nice auto-complete and pop-up documentation, like so:![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 2.03.09 PM.png){width=90% height=90%}
+Rstudio also has really nice auto-complete and pop-up documentation: 
+
+![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 2.03.09 PM.png){width=90% height=90%}
 
 I like this a lot. Maybe another IDE could have provided it if I kept looking. But Rstudio is what I know, so I was pleased to learn that these features carried over.
 
