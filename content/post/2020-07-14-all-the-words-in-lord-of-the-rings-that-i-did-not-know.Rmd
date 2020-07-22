@@ -12,24 +12,24 @@ Sixty-four in all! I had a sense of what some of these meant but included them i
 
 The joy of putting together a list like this was both learning a bunch of fun words and also engaging with the people who have tread before me in understanding LOTR minutiae, e.g., the folks who wrote the [Tolkien Glossary](http://www.tolkienenglishglossary.com/Lord_of__The_Rings/Lord_of_the_Rings_T_-_Z/lord_of_the_rings_t_-_z.html) and _[Tolkien and the OED](https://www.oed.com/applib/newsitem/30/tolkien-and-the-oed)_.
 
-1. **adamant**: _Noun_: very hard native crystalline carbon valued as a gem; _Adjective_: impervious to pleas, persuasion, requests, reason.
+1. **adamant**: _Noun_: very hard native crystalline carbon valued as a gem.
 2. **affray**: _Noun_: noisy quarrel; a noisy fight.
 3. **biers**: _Noun_: a coffin along with its stand; a stand to support a corpse or a coffin prior to burial.
 4. **boles**: _Noun_: The stem or trunk of a tree; something similar to this in shape, as a pillar.
 5. **boss ** (as in "shield boss"): _Noun_: a round, convex or conical piece of material at the centre of a shield.
 6. **buckler**: _Noun_: armor carried on the arm to intercept blows.
 7. **charnel**: _Noun_: a vault or building where corpses or bones are deposited; _Adjective_: gruesomely indicative of death or the dead.
-8. **commons **: _Noun_: Food provided at a common table; as in colleges; hence food or provisions in general. Short commons -small meals. Of things: not coming up to some standard of measure or amount; inadequate in quantity; insufficient rations, scant fare.
+8. **commons **: _Noun_: Food provided at a common table; as in colleges; hence food or provisions in general. Short commons -small meals.
 9. **coomb**: _Noun_: Comb. A narrow valley or deep hollow, esp. one inclosed on all sides but one.
 10. **corslet**: _Noun_: a piece of body armor for the trunk; usually consists of a breastplate and back piece.
 11. **crocks**: _Noun_: An earthen pot, jar or other vessel; earthenware.
 12. **culvert**: _Noun_: a transverse and totally enclosed drain under a road or railway.
 13. **damask**: _Noun_: a table linen made from linen with a damask pattern; a fabric of linen or cotton or silk or wool with a reversible pattern woven into it; _Adjective_: having a woven pattern.
-14. **defile **: _Noun_: a narrow pass (especially one between mountains; _Verb_: place under suspicion or cast doubt upon; make dirty or spotty, as by exposure to air; also used metaphorically; spot, stain, or pollute.
+14. **defile **: _Noun_: a narrow pass (especially one between mountains.
 15. **dell**: _Noun_: A deep, natural hollow in land, often with wooded slopes; a small valley; a vale.
 16. **dingle**: _Noun_:a tree-shadowed dell, a small wooded hollow.
-17. **dolven**: _Verb_ (Adjective in context): Delve. Make or obtain by digging.)
-18. **dwimmer**: _Adjective_: (nonce word) Knowledgeable, crafty, or skilled in the art of magic.
+17. **dolven**: _Verb_ (Adjective in context): Delve. Made or obtained by digging.
+18. **dwimmer**: _Adjective_ (and nonce word!): Knowledgeable, crafty, or skilled in the art of magic. (Saruman is described as 'dwimmer-crafty', and Éowyn cals the Witch-King '[Dwimmerlaik](http://tolkiengateway.net/wiki/Dwimmerlaik).)
 19. **eaves**: _Noun_: the overhang at the lower edge of a roof.
 20. **embrasure**: _Noun_: an opening in a wall or ship or armored vehicle.
 21. **eyot**: _Noun_: An islet; an ait (a small island in a river).
@@ -38,7 +38,7 @@ The joy of putting together a list like this was both learning a bunch of fun wo
 24. **fen**: _Noun_: low-lying wet land with grassy vegetation; usually is a transition zone between land and water.
 25. **flet**: _Noun_: From Middle English flet (“floor of a house; house”).
 26. **fosse**: _Noun_: ditch dug as a fortification and usually filled with water.
-27. **furlong**: _Noun_: a unit of length equal to 0 yards.
+27. **furlong**: _Noun_: a unit of length equal to 220 yards.
 28. **gangrel**: _Adjective_: A vagabond or vagrant; also, a lank, loosely built person.
 29. **haft**: _Noun_: the handle of a weapon or tool.
 30. **hayward**: _Noun_: An officer having the charge of hedges and fences, esp., to keep cattle from straying through; also a herdsman of cattle feeding on a common (common land where anyone could graze their cattle, sheep, etc.).
