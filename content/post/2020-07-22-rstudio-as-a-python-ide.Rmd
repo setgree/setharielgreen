@@ -1,0 +1,16 @@
+---
+title: Rstudio as a Python IDE
+author: Seth Green
+date: '2020-07-22'
+slug: rstudio-as-a-python-ide
+categories:
+  - Rstudio
+  - coding
+tags: []
+---
+
+So far, I've found it pretty viable.
+
+The main advantage is that it brings all the key bindings I'm used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I'm iterating, whether in a script or the interpreter. As far as I know, there's no "Python-first" IDE that does this as well as Rstudio does this for R.
+
+Rstudio also has really nice auto-complete and pop-up documentation:
