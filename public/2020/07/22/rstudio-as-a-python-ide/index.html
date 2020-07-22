@@ -59,7 +59,7 @@
 
   <article class="article">
     
-    <span class="article-duration">1 min read</span>
+    <span class="article-duration">2 min read</span>
     
 
     <h1 class="article-title">Rstudio as a Python IDE</h1>
@@ -73,8 +73,36 @@
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-<p>So far, I’ve found it pretty viable.</p>
-<p>The main advantage is</p>
+<p>So far, I’ve found it pretty viable. I am a Python n00b but used it a bit to create <a href="https://setharielgreen.com/2020/07/21/all-the-words-in-lord-of-the-rings-that-i-did-not-know/">my last post</a> (<a href="https://github.com/setgree/setharielgreen/blob/master/content/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know.Rmd">source <code>.Rmd</code> here</a>).</p>
+<p>The main advantage is that it brings all the key bindings I’m used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I’m iterating, whether in a script or the interpreter. As far as I know, there’s no “Python-first” IDE that does this as well as Rstudio does this for R.</p>
+<p>Rstudio also has really nice auto-complete and pop-up documentation, like so:<img src="/post/2020-07-22-rstudio-as-a-python-ide_files/Screen%20Shot%202020-07-22%20at%202.03.09%20PM.png" /></p>
+<p>I like this a lot. Maybe another IDE could have provided it if I kept looking. But Rstudio is what I know, so I was pleased to learn that these features carried over.</p>
+<div id="setup" class="section level3">
+<h3>Setup:</h3>
+<p>I use Conda environments and Conda’s python and spent most of my setup trying to get Rstudio to recognize that.</p>
+<ul>
+<li><p>install and load <code>reticulate</code>;</p></li>
+<li><p>create a Conda environment called <code>r-reticulate</code> (I did this from the command line but <code>reticulate::conda_create()</code> would work, I think);</p></li>
+<li><p>Add to your <code>.Rprofile</code> the equivalent of <code>Sys.setenv(RETICULATE_MINICONDA_PATH = '~/miniconda3/')</code> (that’s where my miniconda installation was, and <code>reticulate</code> had some trouble finding it);</p></li>
+<li><p><code>use_miniconda(condaenv = 'r-reticulate', require = T)</code> will tell R which Python to use and where to find the relevant environment.</p></li>
+</ul>
+<p>From there, Rstudio has a built-in “new Python script” option in the menu, or you can write an Rmarkdown script and specify that a given chunk should be Python.
+<img src="/post/2020-07-22-rstudio-as-a-python-ide_files/Screen%20Shot%202020-07-22%20at%204.50.55%20PM.png" /></p>
+</div>
+<div id="issues" class="section level3">
+<h3>Issues</h3>
+<ul>
+<li>Reticulate’s documentation on the Conda front is a work-in-progress, I got a bunch of errors about Python not being found and solving them was a bit unintuitive. But I think if you follow the above steps, it’ll work.</li>
+<li>For my own curiosity, I created an <code>.Rmd</code> with R, bash, and Python chunks in order, and found that the R and Python chunks worked out of the box but the bash chunk did not. Turns out that <a href="https://github.com/rstudio/rstudio/issues/7398">bash chunks in Rmarkdown only work (interactively) when chunk output is inline rather than to console</a>.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></li>
+</ul>
+<p>But once I paid those setup costs, it’s been pretty good.</p>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>This is kind of a niche use case (maybe not?) but it seems that Jupyter, as a design choice, <a href="https://github.com/jupyterlab/jupyterlab/issues/2815#issuecomment-321538857">does not natively support multi-language notebooks</a>, though I see that it’s come up again recently for <a href="https://github.com/microsoft/azuredatastudio/issues/9580">Microsoft notebooks</a>.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
 
     </div>
   </article>

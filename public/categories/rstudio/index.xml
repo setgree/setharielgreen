@@ -17,8 +17,8 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/07/22/rstudio-as-a-python-ide/</guid>
-      <description>So far, I’ve found it pretty viable.
-The main advantage is</description>
+      <description>So far, I’ve found it pretty viable. I am a Python n00b but used it a bit to create my last post (source .Rmd here).
+The main advantage is that it brings all the key bindings I’m used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I’m iterating, whether in a script or the interpreter. As far as I know, there’s no “Python-first” IDE that does this as well as Rstudio does this for R.</description>
     </item>
     
   </channel>
