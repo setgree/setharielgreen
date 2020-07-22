@@ -13,7 +13,7 @@ So far, I've found it pretty viable. I am a Python n00b but used it a bit to cre
 
 The main advantage is that it brings all the key bindings I'm used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I'm iterating, whether in a script or the interpreter. As far as I know, there's no "Python-first" IDE that does this as well as Rstudio does this for R.
 
-Rstudio also has really nice auto-complete and pop-up documentation, like so:![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 2.03.09 PM.png)
+Rstudio also has really nice auto-complete and pop-up documentation, like so:![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 2.03.09 PM.png){width=90% height=90%}
 
 I like this a lot. Maybe another IDE could have provided it if I kept looking. But Rstudio is what I know, so I was pleased to learn that these features carried over.
 
@@ -27,10 +27,11 @@ I use Conda environments and Conda's python and spent most of my setup trying to
 * `use_miniconda(condaenv = 'r-reticulate', require = T)` will tell R which Python to use and where to find the relevant environment. 
 
 From there, Rstudio has a built-in "new Python script" option in the menu, or you can write an Rmarkdown script and specify that a given  chunk should be Python.
-![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 4.50.55 PM.png)
+
+![](/post/2020-07-22-rstudio-as-a-python-ide_files/Screen Shot 2020-07-22 at 4.50.55 PM.png){width=90% height=90%}
 
 ### Issues
 * Reticulate's documentation on the Conda front is a work-in-progress, I got a bunch of errors about Python not being found and solving them was a bit unintuitive. But I think if you follow the above steps, it'll work.
 * For my own curiosity, I created an `.Rmd` with R, bash, and Python chunks in order, and found that the R and Python chunks worked out of the box but the bash chunk did not. Turns out that [bash chunks in Rmarkdown only work (interactively) when chunk output is inline rather than to console ](https://github.com/rstudio/rstudio/issues/7398).^[This is kind of a niche use case (maybe not?) but it seems that Jupyter, as a design choice, [does not natively support multi-language notebooks](https://github.com/jupyterlab/jupyterlab/issues/2815#issuecomment-321538857), though I see that it's come up again recently for [Microsoft notebooks](https://github.com/microsoft/azuredatastudio/issues/9580).] 
 
-But once I paid those setup costs, it's been pretty good. 
+But once I paid those setup costs, it's been pretty good.
