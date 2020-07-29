@@ -174,3 +174,4 @@ print(words)
 
   #if word.strip("\n"):
     print(word, ":", "definition", "\n")
+```
