@@ -3,4 +3,4 @@ website-notes.txt
 .Rhistory %>% 
 .DS_Store
 .Rhistory
-.binder/*
+.binder
