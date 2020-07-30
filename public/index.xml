@@ -6,10 +6,21 @@
     <description>Recent content on Seth Green&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Despicableness as Context</title>
+      <link>/2020/07/30/despicableness-as-context/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/30/despicableness-as-context/</guid>
+      <description>Wagner’s antisemitism1 doesn’t bother me when I listen to his music because, at least for the music of his that I know, I don’t see any connection between his hatred for Jews and the text. Ride of the Valkyries works as an independent statement of grandeur. But when R. Kelly sings
+ My mind’s tellin’ me no, but my body, my body’s tellin’ me yes
+ it reads like a defense of his horrible behavior; the context of his despicableness suffuses the text.</description>
+    </item>
     
     <item>
       <title>Rstudio as a Python IDE</title>
