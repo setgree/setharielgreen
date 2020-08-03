@@ -22,6 +22,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Blog"
     url = "https://setharielgreen.com"
 
+[[menu.main]]
+    name = "in-progress EP"
+    url = "https://soundcloud.com/setgree/sets/quarantinep"
+
+
 [params]
     description = "I am Seth Ariel Green and here you'll find some stuff I like and wrote"
 
