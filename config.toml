@@ -21,9 +21,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Blog"
     url = "https://setharielgreen.com"
-
-[[soundcloud]]
-    name = "in-progress EP"
+[[menu.main]]
+    name = "soundcloud"
     url = "https://soundcloud.com/setgree/sets/quarantinep"
 
 
