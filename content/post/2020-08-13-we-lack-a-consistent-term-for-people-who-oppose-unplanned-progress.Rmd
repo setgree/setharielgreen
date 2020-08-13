@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-An article in the _Times_ today reports local opposition to [redeveloping Industry City in Brooklyn](https://www.nytimes.com/2020/08/12/nyregion/industry-city-zoning-amazon-nyc.html). From [Councilman Menchacha's letter on the subject](https://mailchi.mp/council/phase-2-reopening-updates-1041606):
+An article in the _Times_ reports local opposition to [redeveloping Industry City in Brooklyn](https://www.nytimes.com/2020/08/12/nyregion/industry-city-zoning-amazon-nyc.html). From [Councilman Menchacha's letter on the subject](https://mailchi.mp/council/phase-2-reopening-updates-1041606):
 
 > I firmly believe housing is a human right and that no one should be forced to leave their home because they can no longer afford to live in their own neighborhood....I and my team are committed to working with everyone in the neighborhood to build on a legacy of community-led and comprehensive planning that creates guaranteed housing and jobs
 
