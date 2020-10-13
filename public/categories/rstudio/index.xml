@@ -6,11 +6,7 @@
     <description>Recent content in Rstudio on Seth Green&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/rstudio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/rstudio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rstudio as a Python IDE</title>
       <link>/2020/07/22/rstudio-as-a-python-ide/</link>

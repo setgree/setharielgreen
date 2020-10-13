@@ -1,4 +1,4 @@
-Hi I'm Seth! I work as a research specialist in [Betsy Levy Paluck's lab at Princeton](http://www.betsylevypaluck.com/). I was formerly Developer Advocate at [Code Ocean](https://codeocean.com/), and before that, I studied political science at Swarthmore (2006-2010) and Columbia (2013-2015).
+Hi I'm Seth! I am a Data Analyst at [Riskified](https://www.riskified.com/). Before this, I was  Developer Advocate at [Code Ocean](https://codeocean.com/). I"ve worked a bit in research as well, and am currently working on a meta-analysis with a few folks at/formerly at [Betsy Levy Paluck's lab at Princeton](.http://www.betsylevypaluck.com/).
 
 I like cartoons and animal sanctuaries and in quarantine-times I've been finding a lot of joy in Lambchop's ['The Hustle'](https://genius.com/Lambchop-the-hustle-lyrics).
 
