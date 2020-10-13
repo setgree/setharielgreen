@@ -149,9 +149,8 @@ Browsing rentals on StreetEasy, prices seem to have fallen slightly from where t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi I&amp;rsquo;m Seth! I am a Data Analyst at Riskified. Before this, I was Developer Advocate at Code Ocean. In my free time, Iam working on a meta-analysis with a few folks at/formerly at Betsy Levy Paluck&amp;rsquo;s lab at Princeton.
-I like cartoons and animal sanctuaries and in quarantine-times I&amp;rsquo;ve been finding a lot of joy in Lambchop&amp;rsquo;s &amp;lsquo;The Hustle&amp;rsquo;, and, more recently, &amp;lsquo;Viking folk&amp;rsquo; like Eldrim and Wardruna.
-I write the content locally on Rstudio with blogdown, push its source code to GitHub, and deploy from there with Netlify.</description>
+      <description>Hi I&amp;rsquo;m Seth! I am a Data Analyst at Riskified. Before this, I was Developer Advocate at Code Ocean. In my free time, I am working on a meta-analysis with a few folks at/formerly at Betsy Levy Paluck&amp;rsquo;s lab at Princeton.
+I like cartoons and animal sanctuaries and in quarantine-times I&amp;rsquo;ve been finding a lot of joy in Lambchop&amp;rsquo;s &amp;lsquo;The Hustle&amp;rsquo;, and, more recently, &amp;lsquo;Viking folk&amp;rsquo; like Eldrim and Wardruna.</description>
     </item>
     
   </channel>
