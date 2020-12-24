@@ -3,6 +3,7 @@ title: The magic of Steve Reich's music is that I can process it
 author: Seth Green
 date: '2020-08-16'
 slug: The magic of Steve Reich's music is that I can process it
+draft: true
 ---
 
 I would like to be able to hear and reproduce every note of the introduction to [Nausicaä of the Valley of the Wind](https://open.spotify.com/track/0QW4RCyj2Tc2N0hD1FjkcS?si=imNv5LlsQuq2-F7ULjsxTA), but it is too dense. For other, simpler parts of the soundtrack, you can find [Youtube videos](https://www.youtube.com/watch?v=NdVl5Yc4_mo) that display all pitches, their duration, and their position on a keyboard. I could more or less transcribe the same portions of the score onto a musical staff by ear, but I can't do this for the introduction, because simultaneous notes in a timbre (electronic organ) I have little experience with are really hard to tease apart. I've been listening to it on repeat, hoping eventually it will sink in, but it might not.
