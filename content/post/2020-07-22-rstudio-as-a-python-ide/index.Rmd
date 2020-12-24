@@ -7,6 +7,7 @@ categories:
   - Rstudio
   - coding
 tags: []
+draft: true
 ---
 
 So far, I've found it pretty viable. I am a Python n00b but used it a bit to create [my last post](https://setharielgreen.com/2020/07/21/all-the-words-in-lord-of-the-rings-that-i-did-not-know/) ([source `.Rmd` here](https://github.com/setgree/setharielgreen/blob/master/content/post/2020-07-14-all-the-words-in-lord-of-the-rings-that-i-did-not-know.Rmd)). 

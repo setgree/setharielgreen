@@ -5,6 +5,7 @@ date: '2020-07-09'
 slug: writing-takes-a-long-time
 categories: []
 tags: []
+draft: true
 ---
 
 [My previous post](https://setharielgreen.com/2020/07/09/rihanna-borges-or-when-rihanna-covers-same-ol-mistakes/) is 557 words, and about 70\% of them are either Borges's or Kevin Parker's; it took me about 5 hours to compose and properly format it (and hours of hiking alone to stumble upon the connection between the subjects). I'll probably get faster as I get more accustomed to both this style of writing and markdown syntax, but still, damn. I'm all the more impressed by other writers' speed and volume of ouptut.

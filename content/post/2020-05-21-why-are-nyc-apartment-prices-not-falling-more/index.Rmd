@@ -3,6 +3,7 @@ title: Why are NYC apartment prices not falling more?
 author: Seth Ariel Green
 date: '2020-05-21'
 slug: why-are-nyc-apartment-prices-not-falling-more
+draft: true
 ---
 
 ### Observations:

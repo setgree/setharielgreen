@@ -6,6 +6,7 @@ date: '2020-05-25'
 slug: analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology
 categories: []
 tags: []
+draft: true
 ---
 
 was [published last week](https://journals.sagepub.com/doi/full/10.1177/2515245920918872), on which yours truly is a co-author. 
