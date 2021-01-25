@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>/2020/08/16/the-magic-of-steve-reichs-music-is-that-i-can-process-it/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/08/13/we-lack-a-consistent-term-for-people-who-oppose-unplanned-progress/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -40,26 +35,6 @@
   <url>
     <loc>/2020/07/30/despicableness-as-context/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/coding/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/rstudio/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2020/07/22/rstudio-as-a-python-ide/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,28 +63,17 @@
   </url>
   
   <url>
-    <loc>/2020/07/09/writing-takes-a-long-time/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2020/05/25/analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/05/25/the-pleasure-of-the-appendices-of-the-lord-of-the-rings/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

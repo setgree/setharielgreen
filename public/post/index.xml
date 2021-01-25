@@ -37,15 +37,6 @@ One of the people I watched TGP with speculated that there are no actual childre
     </item>
     
     <item>
-      <title>The magic of Steve Reich&#39;s music is that I can process it</title>
-      <link>/2020/08/16/the-magic-of-steve-reichs-music-is-that-i-can-process-it/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/08/16/the-magic-of-steve-reichs-music-is-that-i-can-process-it/</guid>
-      <description>I would like to be able to hear and reproduce every note of the introduction to Nausicaä of the Valley of the Wind, but it is too dense. For other, simpler parts of the soundtrack, you can find Youtube videos that display all pitches, their duration, and their position on a keyboard. I could more or less transcribe the same portions of the score onto a musical staff by ear, but I can’t do this for the introduction, because simultaneous notes in a timbre (electronic organ) I have little experience with are really hard to tease apart.</description>
-    </item>
-    
-    <item>
       <title>Opposition to unplanned progress, bedrock of our politics</title>
       <link>/2020/08/13/we-lack-a-consistent-term-for-people-who-oppose-unplanned-progress/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -63,16 +54,6 @@ One of the people I watched TGP with speculated that there are no actual childre
       <guid>/2020/07/30/despicableness-as-context/</guid>
       <description>I would like to figure out when and how to engage with artists who are bad people.
 On the one hand, Richard Wagner did not much care for Jews – and not just in the way that was cant for 19th century Germans, but actively going out of his way to disparage Jews and Jewish composers.1 This doesn’t bother me, and I think it’s because I don’t see any connection between his music and his beliefs.</description>
-    </item>
-    
-    <item>
-      <title>Rstudio as a Python IDE</title>
-      <link>/2020/07/22/rstudio-as-a-python-ide/</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/07/22/rstudio-as-a-python-ide/</guid>
-      <description>So far, I’ve found it pretty viable. I am a Python n00b but used it a bit to create my last post (source .Rmd here).
-The main advantage is that it brings all the key bindings I’m used to. YMMV, but I also really like how easy Rstudio makes it to execute code as I’m iterating, whether in a script or the interpreter. As far as I know, there’s no “Python-first” IDE that does this as well as Rstudio does this for R.</description>
     </item>
     
     <item>
@@ -100,26 +81,6 @@ Maybe fake’s what I like
     </item>
     
     <item>
-      <title>Writing takes a long time</title>
-      <link>/2020/07/09/writing-takes-a-long-time/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/07/09/writing-takes-a-long-time/</guid>
-      <description>My previous post is 557 words, and about 70% of them are either Borges’s or Kevin Parker’s; it took me about 5 hours to compose and properly format it (and hours of hiking alone to stumble upon the connection between the subjects). I’ll probably get faster as I get more accustomed to both this style of writing and markdown syntax, but still, damn. I’m all the more impressed by other writers’ speed and volume of ouptut.</description>
-    </item>
-    
-    <item>
-      <title>Analysis of Open Data and Computational Reproducibility in Registered Reports in Psychology</title>
-      <link>/2020/05/25/analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/25/analysis-of-open-data-and-computational-reproducibility-in-registered-reports-in-psychology/</guid>
-      <description>was published last week, on which yours truly is a co-author.
-Its abstract (emphasis added):
- Ongoing technological developments have made it easier than ever before for scientists to share their data, materials, and analysis code. Sharing data and analysis code makes it easier for other researchers to reuse or check published research. However, these benefits will emerge only if researchers can reproduce the analyses reported in published articles and if data are annotated well enough so that it is clear what all variable and value labels mean.</description>
-    </item>
-    
-    <item>
       <title>The Pleasure of the Appendices of the Lord of the Rings</title>
       <link>/2020/05/25/the-pleasure-of-the-appendices-of-the-lord-of-the-rings/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
@@ -128,16 +89,6 @@ Its abstract (emphasis added):
       <description>Author’s Note: This post isn’t going to make a lot of sense if you aren’t already familiar with LOTR, The Hobbit, etc.
 In the foreword to the second edition of The Lord of the Rings, Tolkien writes:
  It is perhaps not possible in a long tale to please everybody at all points, nor to displease everybody at the same points; for I find from the letters that I have received that the passages or chapters that are to some a blemish are all by others specially approved.</description>
-    </item>
-    
-    <item>
-      <title>Why are NYC apartment prices not falling more?</title>
-      <link>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/21/why-are-nyc-apartment-prices-not-falling-more/</guid>
-      <description>Observations:  I have an apartment in New York. I don’t currently reside there and will move out when the lease ends (in about a month). Many people I know are in the same boat (and we know there’s been something of an exodus from the city).  This feels like it should be a major supply-demand readjustment. But prices don’t seem to reflect that.
-Browsing rentals on StreetEasy, prices seem to have fallen slightly from where they were three months ago – despite New York’s being the epicenter of a pandemic, and therefore:</description>
     </item>
     
   </channel>
