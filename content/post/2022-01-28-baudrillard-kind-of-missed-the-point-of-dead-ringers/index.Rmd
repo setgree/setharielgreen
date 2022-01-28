@@ -1,0 +1,26 @@
+---
+title: Responding to Baudrillard on Dead Ringers
+author: Seth Green
+date: '2022-01-28'
+slug: baudrillard-kind-of-missed-the-point-of-dead-ringers
+categories: []
+tags: []
+---
+
+In _The Vital Illusion_, Jean Baudrillard writes:
+
+> | A sort of anticipation of cloning can be found in nature itself, in the phenomenon of twins and twinship (gemellité). We can perceive a kind of cloning in the hallucinatory redoubling of the same, in the primitive symmetry that makes the two twins seem to be like two halves of a single self, of the same individual—and we escape the phantasm only by way of a break, a rupture of the symmetry. But perhaps we have never properly escaped our double; and cloning, then, may simply be reviving this hallucination of the same, of the twin from whom we have never quite been separated. At the same time we may see in cloning the resurgence of our fascination with an archaic form of incest with the original twin, and the grave psychotic consequences of such a primitive fantasy (Cronenberg’s film Dead Ringers is a dramatic illustration of this).
+
+> | Most of the time this twinship remains obscure and symbolic, but whenever it materializes, it illuminates the mystery of the symbolic separation, of the invisible division found at the heart of each of us. (Indeed, there are some who claim to have discovered its biological trace.) From this internal division surely comes the sacred, or rather the accursed character of twinship in every culture. In our culture, however, we also see the other side of this accursedness—the endless resentment and remorse associated with individuation. It is effectively only through this original separation, this “ontological” cleavage from the twin, that the individual being first appears and, with it, the possibility of alterity and of a dual relation. And so we are individuated, and proud of it; but somewhere inside, in an unconscious still deeper than the psychological unconscious, we never overcome, we never fully accept this separation and this individuation.
+
+> Is there not a terror of and a nostalgia for this double, and, to go further, for the whole multiplicity of semblables from whom we have divided ourselves in the course of evolution? Do we not, after all, deeply regret our individuation?
+
+I saw _Dead Ringers_ last night, and I see why it illustrates the direct point Baudrilard is making about our "fascination with an archaic form of incest with the original twin." (There are two scenes in the movie that make that aspect of Beverly and Elliot's relationship pretty explicit.) But I think the larger point of the movie is that individuation is not regrettable but untenable. When Bev penetrates Elly with his custom gynecological instruments, Elly gasps -- in pleasure, I think. They discuss the fable of the Siamese twins, and Bev finally realizes that the purpose of his instruments is not to operate on his patients but to separate him from his brother; and they agree that Elliot's annihilation is the way to do so. When Bev begins the procedure, they are, finally, marked as different, and Elliot loves it. (Bev finds it "terrifying.") It's fatal, of course. As Cary, Elliot's girlfriend, says earlier: "for God's sakes, Elliot, you've got to cut yourself loose." Elliot can't do that himself, but Bev can cut his brother free. 
+
+I think the fact that Bev dies right after points to the fact that for the brothers, individuation is annihilation. They seek it, they yearn for it it, but they can't live with it. It's the mirror opposite of Baudrillard's point.
+
+Everyone else we meet in the film is stylized, false, part of a set. The only two real characters are Bev and Elliot; Claire Niveau and Cary are part of the background, not substantially differentiated from the scenery. ("I'm not a thing," Claire asserts; but Elliot has already identified her as such.) Beverly's decline/search for the self could have just as easily been set off by an encounter with a painting. Everyone else besides Bev and Elly survives the movie because they are _already_ deindividuated in the sense of blending in perfectly with their settings. I read this as an argument that some forms of deindividuation are safe, and others are unintegrable. 
+
+This I grok. I am unmoored from any durable professional identity, but I'd love to be able to cloak behind a work identity. (I actively resist many other, crucial parts of the required performance.) Judging by my experiences 2019-2021, these more standard kinds of integration are not going to work for me. But of course I miss it (when it worked). While Bev's search for individuation amounts to a descent into madness, Elliot is encouraged to ditch his brother and act on his own will _by his own brother_; but they both know that that will kill them, even as they seek that release. The other characters are content with being background. 
+
+In other words, according to Cronenberg, no one is individuated. 
