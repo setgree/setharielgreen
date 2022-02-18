@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 
 [params]
-    description = "I am Seth Ariel Green and here you'll find some stuff I like and wrote"
+    description = "I am Seth Ariel Green and here you'll find some stuff I wrote"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
