@@ -19,26 +19,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "GitHub"
     url = "https://github.com/setgree"
-    weight = 3
 [[menu.main]]
     name = "Google Scholar"
     url = "https://scholar.google.com/citations?user=66CRLeoAAAAJ"
-    weight = 4
-[[menu.main]]
-    name = "Blog"
-    url = "https://setharielgreen.com"
-    weight = 5
 [[menu.main]]
     name = "SoundCloud"
     url = "https://soundcloud.com/setgree/sets/quarantinep"
-    weight = 6
-
 
 [params]
     description = "I am Seth Ariel Green and here you'll find some stuff I wrote"

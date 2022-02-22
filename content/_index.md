@@ -1,0 +1,1 @@
+Hi I'm Seth! I am a freelance writer currently based in New Orleans. Previously I was a Data Analyst at [Riskified](https://www.riskified.com/), Developer Advocate at [Code Ocean](https://codeocean.com/), and a [would-be-academic](https://scholar.google.com/citations?user=66CRLeoAAAAJ&hl=en). I'm about 80% done with a thru-hike of the Appalachian Trail.
