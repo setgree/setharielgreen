@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/selected-works/"
 [[menu.main]]
     name = "CV"
-    url = "/public/cv.pdf"
+    url = "/static/cv.pdf"
 
 [params]
     description = "I am Seth Ariel Green and here you'll find some stuff I wrote"
