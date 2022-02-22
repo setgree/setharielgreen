@@ -22,6 +22,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     name = "Projects"
     url = "/projects/"
 [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+
+[[menu.main]]
     name = "CV"
     url = "/files/cv.pdf"
 
