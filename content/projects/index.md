@@ -6,7 +6,6 @@
   * Code and data available on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7)
 
 * Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237.
-  * I tested/ran all the Python and MATLAB code in the sample
   * code and data available [on GitHub](https://github.com/Lakens/reproducing_registered_reports)
   
 ### White papers:
@@ -21,6 +20,8 @@
 * Green, S. (2018, December 21). [Public and private benefits to practicing open science](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science). _Cambridge Core blog_. 
 
 * Green, S. (2019, April 15). [Two welcome innovations in Liu and Salganik (2019), “Successes and struggles with computational reproducibility: Lessons from the Fragile Families Challenge”](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2). _Code Ocean blog_.
+
+* Here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018
 
 ### Culture &c. 
 
