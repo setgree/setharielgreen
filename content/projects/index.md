@@ -11,7 +11,7 @@
 ### White Papers and Market Research
 * Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://open.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
 * Contributor to ["Markets in Focus: Hotels + Resorts + Casinos](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf)." _IMA Financial Group_. Q4, 2021 
-  * I worked on a few others like this in the '[Markets in Focus](https://imacorp.com/markets-in-focus)' and '[Risks in Focus](https://imacorp.com/risk-in-focus/)' categories
+  * I worked on a few others like this in the '[Markets in Focus](https://imacorp.com/markets-in-focus)' and '[Risk in Focus](https://imacorp.com/risk-in-focus/)' categories
 
 ### Corporate Evangelism
 * Green, S. (2018, December 21). [Public and private benefits to practicing open science](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science). _Cambridge Core blog_. 
@@ -24,7 +24,7 @@
 * I wrote ~50% of https://help.codeocean.com/en/ (though when I left my then-supervisor's name got attached to everything). 
   * The ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think.
 
-### Culture, Politics,  &c. 
+### Culture, Politics, &c. 
 
 * Green, S. (2014, December 01). [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/). _Grand Blog Tarkin_. 
 
