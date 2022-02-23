@@ -3,3 +3,4 @@ Hi I'm Seth! I am a freelance writer currently based in New Orleans. Previously 
 Here, you can find my [blog](/blog), [CV](/files/cv.pdf), and a [selection of my writing and coding projects](/projects). 
 
 I'm about 80% done with a thru-hike of the Appalachian Trail.
+
