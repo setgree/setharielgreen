@@ -4,3 +4,4 @@ website-notes.txt
 .DS_Store
 .Rhistory
 .binder/
+/themes/hugo-lithium/exampleSite
