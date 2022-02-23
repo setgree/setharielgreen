@@ -19,15 +19,23 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-[[menu.main]]
     name = "Blog"
     url = "/blog/"
-
+    weight = 2
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3 
 [[menu.main]]
     name = "CV"
     url = "/files/cv.pdf"
+    weight = 4
+[[menu.main]]
+    name = "Other media"
+    url = "/other-selves/"
+    weight = 5
+
+
 
 [params]
     description = "I am Seth Ariel Green and here you'll find some stuff I wrote"
