@@ -19,11 +19,10 @@
 * Here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018
 
 ### Documentation
-* I wrote ~50% of https://help.codeocean.com/en/ (though when I left my then-supervisor's name got attached to everything). 
-  * The ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think.
+* I wrote ~50% of https://help.codeocean.com/en/ -- I think the  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think. (Another teammate's name subsequently got appended to everything.)
 
 ### Culture, Politics, &c. 
 
-* Green, S. (2014, December 01). [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/). _Grand Blog Tarkin_. 
+* A few things on _Grand Blog Tarkin_: [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) and [Ender’s Shadow and Offense-Defense Theory](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory/) that reflect some stuff I was thinking about while in grad school.
 
 * \+ all the stuff on my [regular blog](https://setharielgreen.com/blog/)
