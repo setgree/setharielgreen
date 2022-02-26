@@ -19,7 +19,7 @@
 * Here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018
 
 ### Documentation
-* I wrote ~50% of https://help.codeocean.com/en/ -- The  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think. (Another teammate's name subsequently got appended to everything.)
+* I wrote ~50% of https://help.codeocean.com/en/ -- the  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think. (Another teammate's name subsequently got appended to everything.)
 
 ### Culture, Politics, &c. 
 
