@@ -1,4 +1,4 @@
-### Academic Publications:
+### Academic Publications
 
 * Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158.
   * Code and data available on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7)
