@@ -21,7 +21,9 @@
 ### Documentation
 * I wrote ~50% of https://help.codeocean.com/en/ -- the  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think. (Another teammate's name subsequently got appended to everything.)
 
-### Culture, Politics, &c. 
+### Culture, Politics, & Personal
+
+* [My Friend Danny](https://docs.google.com/document/d/1FUpcjY4RuwKT5SYRzrbtNEfBROIv4ZIwfWjWxQ6UPQk/edit?usp=sharing), an essay about a friend who also hiked the Appalachian Trail, forthcoming in [_A.T. Journeys_](https://appalachiantrail.org/news-events/a-t-journeys-magazine/)
 
 * A few things on _Grand Blog Tarkin_: [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) and [Ender’s Shadow and Offense-Defense Theory](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory/)
 
