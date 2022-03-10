@@ -15,7 +15,7 @@
 * Green, S. (2018, December 21). [Public and private benefits to practicing open science](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science). _Cambridge Core blog_. 
   * Also a bunch of stuff for the Code Ocean blog, e.g. [here](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2), [here](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a), [here](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e), [here](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) and [here](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a)
   
-* I used to tweet on Code Ocean's behalf! e.g. [here](https://twitter.com/CodeOceanHQ/status/989193597294665729), [here](https://twitter.com/CodeOceanHQ/status/1024382224844632064), and [here](https://twitter.com/CodeOceanHQ/status/1001494141031809034)
+* I used to tweet on Code Ocean's behalf! e.g. [here](https://twitter.com/CodeOceanHQ/status/989193597294665729),[^*] [here](https://twitter.com/CodeOceanHQ/status/1024382224844632064), [here](https://twitter.com/CodeOceanHQ/status/1024382224844632064), and [here](https://twitter.com/CodeOceanHQ/status/1001494141031809034)
 
 * Here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018
 
@@ -29,3 +29,5 @@
 * A few things on _Grand Blog Tarkin_: [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) and [Ender’s Shadow and Offense-Defense Theory](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory/)
 
 * \+ all the stuff on my [regular blog](https://setharielgreen.com/blog/)
+
+[^*]: (This was part of a [coordinated campaign](https://twitter.com/search?lang=en&q=(%23shareyourcode)%20until%3A2018-04-26%20since%3A2018-04-24&src=typed_query)
