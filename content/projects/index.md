@@ -30,4 +30,4 @@
 
 * \+ all the stuff on my [regular blog](https://setharielgreen.com/blog/)
 
-[^*]: (This was part of a [coordinated campaign](https://twitter.com/search?lang=en&q=(%23shareyourcode)%20until%3A2018-04-26%20since%3A2018-04-24&src=typed_query).
+[^*]: This was part of a [coordinated campaign](https://twitter.com/search?lang=en&q=(%23shareyourcode)%20until%3A2018-04-26%20since%3A2018-04-24&src=typed_query).
