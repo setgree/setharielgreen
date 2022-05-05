@@ -9,8 +9,7 @@
 ### White Papers and Market Research
 * Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://open.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
 
-* Contributor to ["Markets in Focus: Hotels + Resorts + Casinos](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf)." _IMA Financial Group_. Q4, 2021 
-  * I worked on a few others like this in the '[Markets in Focus](https://imacorp.com/markets-in-focus)' and '[Risk in Focus](https://imacorp.com/risk-in-focus/)' categories
+* Contributor to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [bunch](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [of](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/) for _IMA Financial Group_ in 2021-2022.
 
 ### Corporate Evangelism
 * Green, S. (2018, December 21). [Public and private benefits to practicing open science](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/). _Cambridge Core blog_. 
