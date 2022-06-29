@@ -24,7 +24,7 @@
 
 ### Culture, Politics, & Personal
 
-* [My Friend Danny](https://docs.google.com/document/d/1FUpcjY4RuwKT5SYRzrbtNEfBROIv4ZIwfWjWxQ6UPQk/edit?usp=sharing), an essay about a friend who also hiked the Appalachian Trail, forthcoming in [_A.T. Journeys_](https://appalachiantrail.org/news-events/a-t-journeys-magazine/)
+* [Traveling North](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/), _Appalachian Trail Journeys_, spring/summer 2022.
 
 * A few things on _Grand Blog Tarkin_: [The Walking Dead and the Politics of Apocalypse Fiction](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) and [Ender’s Shadow and Offense-Defense Theory](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory/)
 
