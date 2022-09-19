@@ -32,4 +32,6 @@ Likewise, when I board the [3 train](https://en.wikipedia.org/wiki/3_(New_York_C
 
 Some stations have maps, but needing a guide is a kind of UX failure. Good user experience looks like a child picking up a video game controller for the first time and immediately figuring out how to play. Bad UX looks like tourists' puzzling over a map in a loud, chaotic environment.
 
-So kudos to LaGuardia for taking UX seriously, and to the _WSJ_ for making the work seem high-status. I hope other infrastructure projects follow suit. 
+So kudos to LaGuardia for taking UX seriously, and to the _Journal_ for publicizing it.
+
+What levers might we pull to get other infrastructure projects to follow suit?
