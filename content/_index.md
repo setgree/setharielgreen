@@ -4,4 +4,4 @@ Previously, I was a Data Analyst at [Riskified](https://www.riskified.com/), Dev
 
 Here, you can find my [blog](/blog), a [selection of my writing](/projects), my [CV](/files/cv.pdf), and links to my [social media](/other-selves).
 
-You can contact me at setgree at gmail dot com.
+My email is setgree at gmail dot com.
