@@ -25,6 +25,8 @@ A lot of public infrastructure seems to neglect this kind of work. When I was le
 
 Likewise, when I board the [3 train](https://en.wikipedia.org/wiki/3_(New_York_City_Subway_service)) to New Lots Avenue in Manhattan, I know it's going to Brooklyn because I ride it a lot. But I've ridden the subway the wrong direction many times because their stated endpoints didn't give me the [context I needed](https://marginalrevolution.com/marginalrevolution/2022/02/context-is-that-which-is-scarce-2.html).
 
-Some stations have maps, but needing a guide is a kind of UX failure. Good user experience looks like a child picking up a video game controller for the first time and immediately figuring out how to play. Bad UX looks like tourists' puzzling over a map in a loud, chaotic environment. So it's nice to see LaGuarida take user journeys seriously. 
+Some stations have maps, but needing a guide is a kind of UX failure. Good user experience looks like a child picking up a video game controller for the first time and immediately figuring out how to play. Bad UX looks like tourists' puzzling over a map in a loud, chaotic environment. 
 
-What levers might we pull to get other infrastructure projects to follow suit?
+That's why it's refreshing to read that LaGauardia took user journeys seriously in the design process. 
+ 
+What levers might we pull to get other projects to follow suit? 
