@@ -1,0 +1,10 @@
+---
+title: GiveWell should fund an SMC replication
+author: Seth Green
+date: '2022-10-27'
+slug: givewell-should-fund-an-smc-replication
+categories: []
+tags: []
+---
+
+An essay I published today on the [Effective Altruism forum](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication) as part of GiveWell's [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest).
