@@ -7,4 +7,4 @@ categories: []
 tags: []
 ---
 
-An essay I published today on the [Effective Altruism forum](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication) as part of GiveWell's [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest).
+Is the title of an essay I published on the [Effective Altruism forum](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication) as part of GiveWell's [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest).
