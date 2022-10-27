@@ -30,3 +30,5 @@ Some stations have maps, but needing a guide is a kind of UX failure. Good user 
 That's why it's refreshing to read that LaGauardia took user journeys seriously in the design process. 
  
 What levers might we pull to get other projects to follow suit? 
+
+(See [here for Hacker News commentary](https://news.ycombinator.com/item?id=32911306).)
