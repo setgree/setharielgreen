@@ -27,10 +27,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/projects/"
     weight = 3 
 [[menu.main]]
-    name = "CV"
-    url = "/cv/"
-    weight = 4
-[[menu.main]]
     name = "Other media"
     url = "/other-selves/"
     weight = 5
