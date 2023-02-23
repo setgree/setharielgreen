@@ -1,0 +1,44 @@
+---
+title: "Substack sucks"
+author: "Seth Green"
+date: "2023-02-23"
+slug: "substack-sucks"
+categories: []
+tags: []
+---
+
+I notice that a lot of writers I like have moved their blogs to substack. 
+
+I presume they're getting a lot of money for this -- Danny Lavery was kind enough to tell the _NYT_ that his [2-year contract was worth $430,000 ](https://www.nytimes.com/2021/04/11/business/media/substack-newsletter-competition.html). Danny currently has "[over 16,000 subscribers](https://www.thechatner.com/)" so I can see why he found this deal attractive.^["Ludicrously overpriced in a way that encapsulates the era of easy VC money" is the phrase that came to mind, and I'm a paid subscriber!]
+
+But as a reader, Substack sucks. When I click a blogpost, it's because I want to read it, not 
+
+ * share my email
+
+
+<img src="images/1-first screen is a paywall.png" height = "60%" width = "60%">
+
+* pay a bunch of money for a product I don't understand 
+
+<img src= "images/2-defaults to wanting my money.png" height = "60%" width = "60%">
+
+* post about it on my "profile"
+
+<img src= "images/3-dumb-social-stuff.png" height = "60%" width = "60%">
+
+*  recommend it to strangers 
+
+<img src= "images/4-asks for my social media stuff.png" height = "60%" width = "60%">
+
+* or share it on Twitter.
+
+<img src="images/5-twitter.png" height = "60%" width = "60%">
+
+All of these things help Substack make money and add friction to my reading experience. We get used to these things gradually -- that's how the [shitty technology adoption curve works](https://twitter.com/doctorow/status/1331633102762831873). But the UX sucks.
+
+I hope we return to more open technology and a more open blogging culture. 
+
+
+This essay was inspired by my [inability to comment on Robin Hanson's blog without becoming a paid subscriber.](https://twitter.com/setgree/status/1628578162979528705)
+
+
