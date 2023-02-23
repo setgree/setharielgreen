@@ -7,9 +7,9 @@ categories: []
 tags: []
 ---
 
-A lot of writers I like have moved to substack. 
+A lot of writers I like have moved to Substack. 
 
-I presume that some of them are doing it for a big payday, e.g. Danny Lavery was kind enough to tell the _Times_ that his [2-year Substack contract was worth $430,000 ](https://www.nytimes.com/2021/04/11/business/media/substack-newsletter-competition.html).^[Danny currently has "[over 16,000 subscribers](https://www.thechatner.com/)" so I can see why he found this deal attractive. I imagine that deals like his are harder to come by than they were two years ago.]
+I presume that some of them are doing it for a big payday, e.g. Danny Lavery was kind enough to tell the _Times_ that his [2-year Substack contract was worth $430,000 ](https://www.nytimes.com/2021/04/11/business/media/substack-newsletter-competition.html).^[Danny currently has "[over 16,000 subscribers](https://www.thechatner.com/)" so I can see why he found this deal attractive.]
 
 But as a reader, Substack sucks. When I click a blogpost, it's because I want to read it, not 
 
