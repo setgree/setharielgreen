@@ -1,3 +1,5 @@
+### Overview
+
 As a writer, I have worked in marketing, technical writing and documentation, and academic publishing.
 
 This page functions as an extended resume, but it's also how I'm keeping track of the things I've worked on, so it errs on the side of exhaustiveness.

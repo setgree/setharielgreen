@@ -4,4 +4,4 @@ Previously I worked as Researcher-Writer at [Glo Foundation](https://www.glodoll
 
 I thru-hiked the Appalachian Trail in 2021. 
 
-Here, you can find my [blog](/blog), a selection of [my writing](/projects), and links to my [social media](/other-selves); my CV is [here](https://www.dropbox.com/s/g14078i3nh7q0yp/Seth_Green_CV.pdf?dl=0).
+Here, you can find my [blog](/blog), a selection of [my writing](/portfolio), and links to my [social media](/other-selves); my CV is [here](https://www.dropbox.com/s/g14078i3nh7q0yp/Seth_Green_CV.pdf?dl=0).
