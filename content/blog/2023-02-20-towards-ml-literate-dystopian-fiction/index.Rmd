@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-My favorite moment in _M3gan_, comes when Allison Williams says to the title character: "I know you think you’re maximizing your [objective function](http://kronosapiens.github.io/blog/2017/03/28/objective-functions-in-machine-learning.html)." it was fun to hear an explicit nod to the language of AI-alignment; someone who worked on this movie reads LessWrong, or talked to people who do. 
+My favorite moment in _M3gan_ comes when Allison Williams says to the title character: "I know you think you’re maximizing your [objective function](http://kronosapiens.github.io/blog/2017/03/28/objective-functions-in-machine-learning.html)." it was fun to hear an explicit nod to the language of AI-alignment; someone who worked on this movie reads LessWrong, or talked to people who do. 
 
 _M3gan_ could serve as a great prequel to an AI apocalypse movie (though I think it's unlikely). But thinking those movies over -- _Terminator_, _Oblivion_, _The Matrix_ -- they're mostly action movies that come down to a test of strength. The robots basically think and act like humans, albeit more indestructible.
 
