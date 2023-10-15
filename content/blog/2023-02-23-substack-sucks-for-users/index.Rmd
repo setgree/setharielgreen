@@ -34,4 +34,3 @@ But as a reader, Substack is a big step down from (e.g.) blogspot, wordpress, or
 <img src="images/5-twitter.png" height = "60%" width = "60%">
 
 All of these things help Substack make money and add friction to the reading experience. We get used to these things gradually -- that's how the [shitty technology adoption curve works](https://twitter.com/doctorow/status/1331633102762831873). But it comes at the expense of a reader experience that prioritizes _reading_, rather than clicks or eyeballs. No thank you.^[BTW I'm aware of the irony that the images on this post would probably look better if I had used Substack to compose it. The alternative, I think, is I could learn a lot of HTML and make images that auto-size depending on your zoom. But I think it's ok for them to look a little janky. They're meant to be illustrative rather than enticing.]
-
