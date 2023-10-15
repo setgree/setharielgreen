@@ -2,7 +2,7 @@
 
 Professionally, I have written content marketing and market research, technical documentation, and academic papers.
 
-This page functions as an extended resume, but it's also how I'm keeping track of the things I've worked on, so it errs on the side of exhaustiveness.
+My ongoing projects include a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a project for Founders Pledge on corruption; a meta-analysis of vegan persuasion literature; and a project intended to bring the credibility revolution to exercise science.
 
 ### Marketing and market research
 
