@@ -1,6 +1,6 @@
 ### Overview
 
-As a writer, I have worked in marketing, technical writing and documentation, and academic publishing.
+Professionally, I have written content marketing and market research, technical documentation, and academic papers.
 
 This page functions as an extended resume, but it's also how I'm keeping track of the things I've worked on, so it errs on the side of exhaustiveness.
 
@@ -26,7 +26,7 @@ This page functions as an extended resume, but it's also how I'm keeping track o
     * Semi-related, here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018.
 
 
-### Technical Writing and Documentation
+### Technical documentation
 * I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/). The  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think.
 
 * Lately I've been contributing pull requests to the Ethereum Foundation's developer docs, e.g. [6619](https://github.com/ethereum/ethereum-org-website/pull/6619), [6651](https://github.com/ethereum/ethereum-org-website/pull/6651), [7759](https://github.com/ethereum/ethereum-org-website/pull/7759), [10741](https://github.com/ethereum/ethereum-org-website/pull/10741), and [10756](https://github.com/ethereum/ethereum-org-website/pull/10756).
