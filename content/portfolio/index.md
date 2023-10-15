@@ -19,9 +19,9 @@ My ongoing projects include a meta-analysis of interventions [aimed at reducing 
 * For [IMA Financial Group](https://imacorp.com/), I contributed to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [few](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [different](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/).
 
 * For [Code Ocean](https://codeocean.com/), I 
-  * co-authored our [white paper](https://open.lnu.se/index.php/metapsychology/article/view/892);
+  * co-authored the [white paper](https://open.lnu.se/index.php/metapsychology/article/view/892);
   * wrote for the blog (e.g. [here](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2), [here](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a), [here](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e), [here](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) and [here](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a));
-  * contributed content to a [partner's blog](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/);
+  * guest wrote for a [partner's blog](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/);
   * and occasionally wrote [social](https://twitter.com/CodeOceanHQ/status/989193597294665729) [media](https://twitter.com/CodeOceanHQ/status/1024382224844632064) content.
     * Semi-related, here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018.
 
