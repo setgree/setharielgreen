@@ -15,14 +15,14 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
     * and general-purpose [marketing](https://www.glodollar.org/articles/embedded-philanthropy);
   * social media content, including [both](https://twitter.com/glodollar/status/1710360692812021898) [threads](https://twitter.com/glodollar/status/1580906280599724032) and [stand-alone](https://twitter.com/glodollar/status/1711762918214148500) [posts](https://twitter.com/glodollar/status/1651247136179122178);
   * forum posts for [external audiences](https://forum.effectivealtruism.org/posts/EAiwxZN4Jiyup8d9G/glo-dollar-an-ethical-stablecoin-model-potential-impact-and), some of which I [ghostwrote](https://gov.gitcoin.co/t/proposal-diversify-gitcoin-stablecoin-holdings-by-exchanging-usdc-for-glo-dollars/16398) or [co-wrote](https://discuss.octant.app/t/glo-dollar-a-fiat-backed-stablecoin-embedded-with-philanthropy/51).
-  * semi-related, I also recorded [some](https://open.spotify.com/episode/67sgAVvKCVnot4yrvs40az?si=16344f2dc1a948a9&nd=1) [podcasts](https://podcasters.spotify.com/pod/show/watotocoding/episodes/Glo-Dollar---A-solution-to-extreme-poverty-e21m51q) for the company.
+    * I also recorded [some](https://open.spotify.com/episode/67sgAVvKCVnot4yrvs40az?si=16344f2dc1a948a9&nd=1) [podcasts](https://podcasters.spotify.com/pod/show/watotocoding/episodes/Glo-Dollar---A-solution-to-extreme-poverty-e21m51q) for the company.
   
 * For [Code Ocean](https://codeocean.com/), I 
   * co-authored the [white paper](https://open.lnu.se/index.php/metapsychology/article/view/892);
-  * [wrote](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2) [for](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a) [the](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e), [company](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) and [blog](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a));
+  * [wrote](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2) [for](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a) [the](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e) [company](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) [blog](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a);
   * guest wrote for a [partner's blog](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/);
   * and occasionally wrote [social](https://twitter.com/CodeOceanHQ/status/989193597294665729) [media](https://twitter.com/CodeOceanHQ/status/1024382224844632064) content.
-    * Semi-related, here's a picture of me [presenting at a conference about Jupyter Notebooks](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018.
+    * I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018.
 
 ### Technical documentation
 * I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/). The  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think.
@@ -33,11 +33,9 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
 
 ### Academic publications
 
-* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158.
-  * Code and data available on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7)
+* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
 
-* Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237.
-  * code and data available [on GitHub](https://github.com/Lakens/reproducing_registered_reports)
+* Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
   
 In the academic-adjacent category:
 * [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest).
@@ -48,4 +46,4 @@ In the academic-adjacent category:
 
 * [Traveling North](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/), _Appalachian Trail Journeys_, spring/summer 2022.
 
-* The stuff on my [regular blog](https://setharielgreen.com/blog/), \+ a few things for a blog covering [strategic](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) [thinking](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory) in fantasy and sci-fi.
+* The stuff on my [regular blog](https://setharielgreen.com/blog/), \+ a few things for [Grand Blog Tarkin](https://blogtarkin.wordpress.com/) on [political](https://blogtarkin.wordpress.com/2014/12/01/the-walking-dead-and-the-politics-of-apocalypse-fiction/) and [strategic](https://blogtarkin.wordpress.com/2013/11/01/enders-shadow-and-offense-defense-theory) thinking in fantasy and sci-fi.
