@@ -17,7 +17,7 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
   * [wrote](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2) [for](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a) [the](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e) [company](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) [blog](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a);
   * guest wrote for a [partner's blog](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/);
   * and occasionally wrote [social](https://twitter.com/CodeOceanHQ/status/989193597294665729) [media](https://twitter.com/CodeOceanHQ/status/1024382224844632064) content.
-    * I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018.
+    * I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018. One person [said I was good](https://twitter.com/KLA2010/status/912389868730372097)!
 
 ### Technical documentation
 * I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/). The  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections reflect my voice pretty well, I think.
