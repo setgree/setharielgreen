@@ -20,7 +20,7 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
     * I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018. One person [said I was good](https://twitter.com/KLA2010/status/912389868730372097)!
 
 ### Technical documentation
-* I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/), specifically the  ['Reproducibility and Preservation'](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and ['Tutorials'](https://help.codeocean.com/en/collections/1910642-tutorials) sections.
+* I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/), and all of the  [Reproducibility and Preservation](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and [Tutorials](https://help.codeocean.com/en/collections/1910642-tutorials) sections.
 
 * Lately I've been contributing pull requests to the Ethereum Foundation's developer docs, e.g. [6619](https://github.com/ethereum/ethereum-org-website/pull/6619), [6651](https://github.com/ethereum/ethereum-org-website/pull/6651), [7759](https://github.com/ethereum/ethereum-org-website/pull/7759), [10741](https://github.com/ethereum/ethereum-org-website/pull/10741), and [10756](https://github.com/ethereum/ethereum-org-website/pull/10756).
 ### Market research
