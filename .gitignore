@@ -6,3 +6,4 @@ website-notes.txt
 .binder/
 /themes/hugo-lithium/exampleSite
 .hugo_build.lock
+Thumbs.db

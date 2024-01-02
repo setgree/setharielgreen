@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://setharielgreen.com"
 languageCode = "en-us"
 title = "Seth Ariel Green's website"
 theme = "hugo-lithium"
