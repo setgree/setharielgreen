@@ -25,5 +25,4 @@ This argument _feels_ liberal because it militates towards social upheaval, but 
 
 This explanation blends aspects of both [Conflict and Mistake theory](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake). There's a conflict insofar as many people seem committed to something that I (and others) think can be improved on; there's a mistake insofar as I (and others) think that once we get there, most people will come around. 
 
-The most troubling critique of this theory is that it offers [asymmetric insight](https://youarenotsosmart.com/2011/08/21/the-illusion-of-asymmetric-insight/) into the myopia of others, which is suspect precisely because it's seductive.
-
+The most troubling critique of this theory is that it offers [asymmetric insight](https://youarenotsosmart.com/2011/08/21/the-illusion-of-asymmetric-insight/) into the myopia of others.
