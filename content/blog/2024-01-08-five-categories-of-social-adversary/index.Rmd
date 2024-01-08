@@ -9,7 +9,7 @@ tags: []
 
 When trying to explain a social problem, we might argue any of the following:
 
-1. **Those people are bad**, e.g. blame the capitalists for [inequality](https://nymag.com/intelligencer/2023/04/blaming-capitalism-is-not-an-alternative-to-solving-problems.html), the poor [for their predicament](https://www.econlib.org/archives/2012/02/how_deserving_a.html), or the Jews for "a whole range of things...from [the world war to short skirts to jazz music](https://www.thehenryford.org/collections-and-research/digital-resources/popular-topics/henry-ford-and-anti-semitism-a-complex-story)."
+1. **Those people are bad**, e.g. blame the capitalists for [global warming](https://nymag.com/intelligencer/2023/04/blaming-capitalism-is-not-an-alternative-to-solving-problems.html), the poor [for their predicament](https://www.econlib.org/archives/2012/02/how_deserving_a.html), or the Jews for "a whole range of things...from [the world war to short skirts to jazz music](https://www.thehenryford.org/collections-and-research/digital-resources/popular-topics/henry-ford-and-anti-semitism-a-complex-story)."
 
 2. **That policy is harmful**, e.g. a minimum wage might "[price working poor people out of the job market](https://www.nytimes.com/1987/01/14/opinion/the-right-minimum-wage-0.00.html)." 
 
