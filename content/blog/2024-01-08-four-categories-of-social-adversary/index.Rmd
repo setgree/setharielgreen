@@ -1,0 +1,29 @@
+---
+title: Five categories of social adversary
+author: Seth Green
+date: '2024-01-08'
+slug: five-categories-of-social-adversary
+categories: []
+tags: []
+---
+
+When trying to explain a social problem, we might argue any of the following:
+
+1. **Those people are bad**, e.g. blame the capitalists for [inequality](https://nymag.com/intelligencer/2023/04/blaming-capitalism-is-not-an-alternative-to-solving-problems.html), the poor [for their predicament](https://www.econlib.org/archives/2012/02/how_deserving_a.html), or the Jews for "a whole range of things...from [the world war to short skirts to jazz music](https://www.thehenryford.org/collections-and-research/digital-resources/popular-topics/henry-ford-and-anti-semitism-a-complex-story)."
+
+2. **That policy is harmful**, e.g. a minimum wage might "[price working poor people out of the job market](https://www.nytimes.com/1987/01/14/opinion/the-right-minimum-wage-0.00.html)." 
+
+3. **Those people are too radical**, e.g. too quick to adopt [relatively](https://www.nationalreview.com/corner/guys-it-turns-out-everyone-loves-dei-now/) [untested](https://www.nytimes.com/2022/11/14/health/puberty-blockers-transgender.html) ideas as enduring truths.
+
+4. **Those people are too conservative**, e.g. too resistant to [positive](https://www.avclub.com/katt-williams-thoughtfully-disassembles-cancel-culture-1847040238) [changes](https://www.avclub.com/ricky-gervais-the-office-david-brent-armageddon-1851129277).
+
+Lately I find myself reaching for a fifth explanation that blends (3) and (4):
+
+5. **those people are too unwilling to revisit failed social experiments,** e.g. [stroads](https://www.noahpinion.blog/p/singapore-urbanism), [single-family zoning](https://www.slowboring.com/p/houses-not-zoning), and [concentrated animal feeding operations](https://www.nationalreview.com/2022/07/a-brief-for-the-pigs-the-case-of-national-pork-producers-council-v-ross/). 
+
+This argument _feels_ liberal because it militates towards social upheaval, but in each case, the social problem is approximately as old as my parents (or [grandparents](https://www.berkeleyside.org/2021/02/24/berkeley-denounces-racist-history-of-single-family-zoning-begins-2-year-process-to-change-general-plan)) and emerged because we've forgotten older wisdom about the proper [design of cities](https://www.timeout.com/europe/most-walkable-cities-in-europe-to-explore-on-foot), how to [live and work together](https://www.ece.com/en/blog/urban-development-the-future-belongs-to-mixed-use), and what we [owe animals](https://time.com/6244086/martha-nussbaum-animal-justice-overdue/) [under our care](https://www.nytimes.com/2002/10/27/books/the-most-compassionate-conservative.html). But social states [create their own momentum](https://www.csun.edu/~snk1966/Talcott%20Parsons%20-%20An%20Outline%20of%20the%20Social%20System.pdf) and can easily persist even if [most people wish for change](https://www.hup.harvard.edu/books/9780674707580). In other words, '[inadequate equilibria](https://equilibriabook.com/)' endure.
+
+This explanation blends aspects of both [Conflict and Mistake theory](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake). There's a conflict insofar as many people seem committed to something that I (and others) think can be improved on; there's a mistake insofar as I (and others) think that once we get there, most people will come around. 
+
+Apropos of that, the most trenchant critique of this theory, in my opinion, is that it offers a kind of '[asymmetric insight](https://youarenotsosmart.com/2011/08/21/the-illusion-of-asymmetric-insight/)' into the myopia of others for which I have no real evidence.
+
