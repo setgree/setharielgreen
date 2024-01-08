@@ -2,7 +2,7 @@
 
 Professionally, I have written content marketing, technical documentation, market research, and academic papers.
 
-My ongoing projects are a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a project for [Founders Pledge](https://www.founderspledge.com/) on corruption; a meta-analysis of vegan persuasion literature; and a project intended to bring the credibility revolution to exercise science.
+My ongoing projects are a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); a project intended to bring the credibility revolution to exercise science; and an article on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis.
 
 ### Content marketing
 
@@ -36,9 +36,11 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
   * Also on the [EA forum](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/reducing-consumption-of-meat-and-animal-products-what-works); code and data on [GitHub](https://github.com/setgree/vegan-meta).
   
 In the academic-adjacent category:
-* [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest).
+* [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest), and [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
 
  * I prepared some research briefs for Evidence in Governance and Politics (EGAP) -- [6](https://egap.org/resource/brief-06-voter-benchmarks-in-developing-countries/), [12](https://egap.org/resource/brief-12-attitudes-towards-immigrants-among-boston-area-commuters/), [15](https://egap.org/resource/brief-15-is-it-the-cash-or-condition-in-malawi/), [20](https://egap.org/resource/brief-20-is-vote-buying-effective/), [23](https://egap.org/resource/brief-23-discrimination-in-everyday-behavior/), [34](https://egap.org/resource/brief-34-violent-conflict-and-behavior-in-burundi/), [36](https://egap.org/resource/brief-36-face-to-face-interviews-cognitive-skill-and-non-response/), [37](https://egap.org/resource/brief-37-voter-and-candidate-response-to-political-debates/),  [38](https://egap.org/resource/brief-38-diminishing-the-effectiveness-of-vote-buying-through-voter-education/), and [39](https://egap.org/resource/brief-39-attitudes-towards-risk-and-illegal-behavior/). 
+ 
+* I also researched effective anti-crruption NGOs for [Founders Pledge](https://www.founderspledge.com/) on corruption.
 
 ### Culture, politics, & personal
 
