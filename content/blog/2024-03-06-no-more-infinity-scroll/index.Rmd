@@ -13,4 +13,4 @@ Nothing radical here: we all recognize that [infinity scroll is bad for our brai
 
 These companies face a trade-off between maximizing data collection and making an enticing experience to unregistered users, and they've all resolved it in favor of data collection. That's gross, but for my part, I'm glad, because I want to be kept out of the kingdom, like a compulsive gambler [self-excluding from a casino](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4016676/). 
 
-I doubt a social planner would have designed thigs this way, but as a solution, it has the nice properties of being organic and voluntary.
+I doubt a social planner would have designed things this way, but as a solution, it has the nice properties of being organic and voluntary.
