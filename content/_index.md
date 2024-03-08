@@ -1,4 +1,4 @@
-Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="42%" height="42%"/> I am a freelance writer based in Brooklyn and a nonresident fellow at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu/).
+Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="42%" height="42%"/> I am a freelance writer based in Brooklyn, a nonresident fellow at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu/), and an affiliate at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/).
 
 Previously I worked as Researcher-Writer at [Glo Foundation](https://www.glodollar.org/), a Data Analyst at [Riskified](https://www.riskified.com/), and Developer Advocate at [Code Ocean](https://codeocean.com/).
 
