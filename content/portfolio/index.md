@@ -2,7 +2,7 @@
 
 Professionally, I have written content marketing, technical documentation, market research, and academic papers.
 
-My ongoing projects are a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); a project intended to bring the credibility revolution to exercise science; and an article on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. These projects are generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
+My ongoing projects are a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); a project intended to bring the credibility revolution to exercise science; and an article and [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. These projects are generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
 
 ### Content marketing
 
