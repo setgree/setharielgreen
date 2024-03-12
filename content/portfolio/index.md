@@ -15,11 +15,11 @@ I am happy to discuss new opportunities; [please email to discuss](mailto:sag221
 
 #### Content marketing
 
-* For [Glo Foundation](https://www.glodollar.org/), I published 
-  * website content, e.g. [thought](https://www.glodollar.org/articles/glo-zero-poverty-and-the-sdgs) [leadership](https://www.glodollar.org/articles/why-glo-foundation-donates-to-givedirectly), [product](https://www.glodollar.org/articles/treasuries) [explanations](https://www.glodollar.org/articles/givedirectly), [quarterly](https://www.glodollar.org/articles/glo-q1-2023-update) [updates](https://www.glodollar.org/articles/glo-q2-2023-update), information for [job](https://www.glodollar.org/articles/how-we-work-at-glo) [applicants](https://www.glodollar.org/articles/how-to-make-your-job-application-to-glo-stand-out), and general-purpose [marketing](https://www.glodollar.org/articles/embedded-philanthropy);
-  * social media content, including [both](https://twitter.com/glodollar/status/1710360692812021898) [threads](https://twitter.com/glodollar/status/1580906280599724032) and [stand](https://twitter.com/glodollar/status/1711762918214148500) [alone](https://twitter.com/glodollar/status/1706318040592191520) [posts](https://twitter.com/glodollar/status/1651247136179122178);
-  * and [forum](https://discuss.octant.app/t/glo-dollar-a-fiat-backed-stablecoin-embedded-with-philanthropy/51) [posts](https://forum.effectivealtruism.org/posts/EAiwxZN4Jiyup8d9G/glo-dollar-an-ethical-stablecoin-model-potential-impact-and).
-  * I also [recorded](https://open.spotify.com/episode/67sgAVvKCVnot4yrvs40az?si=16344f2dc1a948a9&nd=1) [some](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-127-glo-and-the-life-you-can-save-how-blockchain-can-help-alleviate-extreme-poverty) [podcasts](https://podcasters.spotify.com/pod/show/watotocoding/episodes/Glo-Dollar---A-solution-to-extreme-poverty-e21m51q).
+* For [Glo Foundation](https://www.glodollar.org/), I published content for
+  * the website, e.g. [thought](https://www.glodollar.org/articles/glo-zero-poverty-and-the-sdgs) [leadership](https://www.glodollar.org/articles/why-glo-foundation-donates-to-givedirectly), [product](https://www.glodollar.org/articles/treasuries) [explanations](https://www.glodollar.org/articles/givedirectly), [quarterly](https://www.glodollar.org/articles/glo-q1-2023-update) [updates](https://www.glodollar.org/articles/glo-q2-2023-update), information for [job](https://www.glodollar.org/articles/how-we-work-at-glo) [applicants](https://www.glodollar.org/articles/how-to-make-your-job-application-to-glo-stand-out), and general-purpose [marketing](https://www.glodollar.org/articles/embedded-philanthropy);
+  * social media, both [threads](https://twitter.com/glodollar/status/1710360692812021898) [and](https://twitter.com/glodollar/status/1580906280599724032) [stand](https://twitter.com/glodollar/status/1711762918214148500) [alone](https://twitter.com/glodollar/status/1706318040592191520) [posts](https://twitter.com/glodollar/status/1651247136179122178);
+  * and [external](https://discuss.octant.app/t/glo-dollar-a-fiat-backed-stablecoin-embedded-with-philanthropy/51) [forums](https://forum.effectivealtruism.org/posts/EAiwxZN4Jiyup8d9G/glo-dollar-an-ethical-stablecoin-model-potential-impact-and).
+    * I also [recorded](https://open.spotify.com/episode/67sgAVvKCVnot4yrvs40az?si=16344f2dc1a948a9&nd=1) [some](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-127-glo-and-the-life-you-can-save-how-blockchain-can-help-alleviate-extreme-poverty) [podcasts](https://podcasters.spotify.com/pod/show/watotocoding/episodes/Glo-Dollar---A-solution-to-extreme-poverty-e21m51q).
   
 * For [Code Ocean](https://codeocean.com/), I 
   * co-authored the [white paper](https://open.lnu.se/index.php/metapsychology/article/view/892);
@@ -48,7 +48,7 @@ In the academic-adjacent category:
 
  * I prepared some research briefs for Evidence in Governance and Politics (EGAP) -- [6](https://egap.org/resource/brief-06-voter-benchmarks-in-developing-countries/), [12](https://egap.org/resource/brief-12-attitudes-towards-immigrants-among-boston-area-commuters/), [15](https://egap.org/resource/brief-15-is-it-the-cash-or-condition-in-malawi/), [20](https://egap.org/resource/brief-20-is-vote-buying-effective/), [23](https://egap.org/resource/brief-23-discrimination-in-everyday-behavior/), [34](https://egap.org/resource/brief-34-violent-conflict-and-behavior-in-burundi/), [36](https://egap.org/resource/brief-36-face-to-face-interviews-cognitive-skill-and-non-response/), [37](https://egap.org/resource/brief-37-voter-and-candidate-response-to-political-debates/),  [38](https://egap.org/resource/brief-38-diminishing-the-effectiveness-of-vote-buying-through-voter-education/), and [39](https://egap.org/resource/brief-39-attitudes-towards-risk-and-illegal-behavior/). 
  
-* I also researched effective anti-crruption NGOs for [Founders Pledge](https://www.founderspledge.com/) on corruption.
+* I also researched effective anti-corruption NGOs for [Founders Pledge](https://www.founderspledge.com/).
 
 #### Culture, politics, & personal
 
