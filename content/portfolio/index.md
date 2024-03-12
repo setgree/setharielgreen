@@ -42,7 +42,7 @@ I am happy to discuss new opportunities [via email](mailto:sag2212@columbia.edu)
 
 * Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
 
-* Clyburne-Sherin, A., Fei, X., & Green, S. A. (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
+* Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
 
 In the academic-adjacent category:
 * [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest), and [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
