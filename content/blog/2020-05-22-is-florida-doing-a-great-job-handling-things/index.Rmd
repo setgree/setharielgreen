@@ -1,0 +1,23 @@
+---
+title: Is Florida doing a great job handling things?
+author: Seth Ariel Green
+date: '2020-05-22'
+draft: true
+slug: is-florida-doing-a-great-job-handling-things
+---
+
+[Rich Lowry thinks so](https://www.nationalreview.com/2020/05/coronavirus-crisis-ron-desantis-florida-covid-19-strategy/). He interviews Ron DeSantis and his colleagues, who seem to have focused on keeping very vulerable people in nursing homes safe, and frames the piece as "liberal media can't admit that Trump-friendly guy is doing a good job."^[To put my cards on the table: I have very little faith in the wisdom or judgement of elected officials in general, and I think the record of _unelected_ public health officials these past few months is [also not very good](https://www.jefftk.com/p/authorities-and-amateurs). I am skeptical of complex models whose results are fragile to minor assumption changes -- e.g. [uncertainty about the false positive rate of an antibody test](https://statmodeling.stat.columbia.edu/2020/04/19/fatal-flaws-in-stanford-study-of-coronavirus-prevalence/) -- and that were generally written by academics who have [scant experience with good software engineering practices](https://lockdownsceptics.org/code-review-of-fergusons-model/). I don't know what the optimal COVID-19 response is for America, but whatever it is, I don't think we're pursuing it -- and that college kid who [told the press](https://www.nytimes.com/2020/03/24/us/coronavirus-brady-sluder-spring-break.html) "If I get Corona, I get Corona" strikes me as thinking more reasonably about risks and tradeoffs than [Andrew Cuomo when he declared that one](https://twitter.com/NYGovCuomo/status/1242264009342095361) "cannot put a value on human life." So I'm totally open to the possibility that broad lockdowns are misguided, DeSantis is right while Cuomo is wrong, etc.
+]
+
+(NOTE: feels like one of those post-truth things https://www.mercatus.org/bridge/commentary/way-out-post-truth)
+First question: what is the general consensus on Florida's COVID response? When I searched Google News for "Florida" and "Coronavirus," I found little that evalauted its overall response, but a lot of stories about a Florida data scientist who was [apparently fired for not faking the data](https://www.npr.org/sections/coronavirus-live-updates/2020/05/19/859119865/florida-ousts-top-covid-19-data-scientist). Reading this story, given my priors, I obviously believe the data scientist's account rather than statement about insubordination from her supervisors. Her story is also all over Reddit at the moment.
+
+But the thing is, if Lowry is right, then this story confirms his broader point -- even if she was wrongly fired, that could easily be small potatoes next to the good news of a successful pandemic strategy. (On the other hand, if they really did fire her for refusing to lie, one suspects they're lying about other things as well). 
+
+Second question: is Lowry right that Florida is doing a good job? It does not seem that asking the people who devise its policies is a very good way of judging that. I would prefer to see the numbers.
+
+*Observation*: We don't have very good random population testing right now, so I personally don't thinkt that 'mortality rate among confirmed positive cases' is a very good metric. Instead, I think total number of COVID deaths, divided by the population, gets you closer to the money.
+
+So let's look at that.
+
+### Death rates by state, with and without New York:

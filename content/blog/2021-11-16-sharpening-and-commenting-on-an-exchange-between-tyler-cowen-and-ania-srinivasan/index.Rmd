@@ -1,0 +1,44 @@
+---
+title: Sharpening and commenting on an exchange between Tyler Cowen and Ania Srinivasan
+author: Seth Green
+date: '2021-11-16'
+slug: sharpening-and-commenting-on-an-exchange-between-tyler-cowen-and-ania-srinivasan
+draft: true
+categories:
+  - philosophy
+tags: []
+---
+
+Ania and Tyler cover a lot of ground in [a conversation ](https://conversationswithtyler.com/episodes/amia-srinivasan/) that, as Tyler notes, [generated unusually heated responses](https://marginalrevolution.com/marginalrevolution/2021/09/a-few-observations-on-my-latest-podcast-with-amia-srinivasan.html).^[I don't know about all that, and in general I would have liked more space for Ania to actually spell out her ideas & arguments because I haven't read her book; from this I learned that I'd get more out of the CWTs where I already know a fair bit about the subject matter.] The part that I liked best was a disagreement about what to make of the finding/assertion that, in the Atlantic's words, "[The More Gender Equality, the Fewer Women in STEM](https://www.theatlantic.com/science/archive/2018/02/the-more-gender-equality-the-fewer-women-in-stem/553592/)". I liked this because I also have no idea what to make of that evidence, and because in the course of the discussion the two of them unearth, and then quickly gloss over, what seem like pretty profound epistemic differences to me. So here I'd like to highlight what was said, explicate what those differences are, and imagine how the two of them might have followed up to more precisely delineate their differences and fruitfully challenge each other on their epistemic frameworks.
+
+### The Exchange
+
+Here's a condensed transcript of the portion that interests me: 
+
+> COWEN: There’s an empirical literature that suggests in more egalitarian societies, personalities of men and women are more different. The evidence on STEM — there’re [more STEM majors per capita or proportionally in Iran than in Sweden](https://www.theatlantic.com/science/archive/2018/02/the-more-gender-equality-the-fewer-women-in-stem/553592/)...Are you comfortable with the probable reality that in a feminist utopia, men and women will be more different than they are today, overall, on average?
+
+> SRINIVASAN: I would just deny the premise. I think there are so many confounds in the contrast between Iran and Sweden.
+
+> COWEN: But it holds for countries in general. In countries with less gender egalitarianism, women are more likely to be STEM majors. Countries with a high degree of gender egalitarianism, such as the Nordics, have relatively low proportions of women in STEM majors.
+
+> SRINIVASAN: Relatively low...When we're talking about gender equality, yes, they are better in some ways. But I don't think these differences are profound enough to be able to give us any deep sense of what it would look like to do something that many feminists like me would like to do, which is abolish gender as such.
+
+> I think it would be just as Mill thought. It was ridiculous to try and ascertain what women were innately oriented towards doing or what their capacities were under the conditions of 19th-century patriarchal England. I think it’s pretty ridiculous to try and read it off of the differentials between Iran and the Nordic countries.
+
+> COWEN:...[M]en seem to value women’s looks more highly in gender-egalitarian societies also. There’s a lot of independent bodies of literature with —
+
+> SRINIVASAN: I have just got to stop you here. We are not going to have a productive conversation [laughs] if you begin by describing the Nordic countries as gender-egalitarian countries.
+
+> COWEN: In relative terms, they are. No?
+
+> SRINIVASAN: That’s like calling them socialists. Yes, they are slightly more socialist as compared with the US, but the idea that they are gender-egalitarian is to just massively understate what it is that feminists envision when they’re talking about liberation from patriarchy...
+
+> COWEN: If we think of male subjection of women, or Mill’s writings in general, he’s really a master at using cross-sectional variation from what he observes to draw inferences. I’m worried that in your view, we don’t really have access to evidence. You don’t see enough variation in the data, period.
+
+> That strikes me as epistemologically nihilistic in a way...
+
+> SRINIVASAN: ...It's not like I’m a nihilist whatsoever, or certainly not a skeptic. I think we should look at the evidence. But I think we should also be **intensely cautious about drawing precisely those conclusions that have been drawn over and over again in the history of thinking about women and men**, and thinking about gender conclusions that would want to suggest that women are innately drawn towards certain forms of activity and labor and self-expression...The idea that there’s any example of a known society where we're so distant from [gendered expectations], such that we can start to get a good grip on what women and men are innately like, I think, is epistemically naive...Part of why I find this whole discourse problematic is because **I think we should be suspicious when we find ourselves attracted to data — very, very thin and weak data — that seem to justify beliefs that have held great currency in lots of societies throughout history, in a way that is conducive to the oppression of large segments of the population, in this particular case women.**
+
+### What's going on here?
+
+First, let's take a close look at research Tyler is talking about. The transcript links to an Atlantic article covering the results, but the actual paper is [here](https://journals.sagepub.com/doi/10.1177/0956797617741719). 
