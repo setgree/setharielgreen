@@ -1,8 +1,6 @@
 ### Overview
 
-I specialize in writing meta-scientific and meta-analytic overviews of behavioral science literatures. I am [open to new opportunities](mailto:sag2212@columbia.edu) in this vein.
-
-I am currently working on four projects.:
+I specialize in writing meta-scientific and meta-analytic overviews of behavioral science literatures. Four projects are currently in-progress:
 
 * a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
@@ -11,6 +9,7 @@ I am currently working on four projects.:
 
 My work is generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
 
+I am happy to discuss new opportunities; [please email to discuss](mailto:sag2212@columbia.edu).
 ### Past work
 
 #### Content marketing
