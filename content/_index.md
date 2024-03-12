@@ -4,4 +4,4 @@ Previously I worked at [Glo Foundation](https://www.glodollar.org/), [Riskified]
 
 I thru-hiked the Appalachian Trail in 2021. 
 
-Here, you can find my [blog](/blog), [portfolio](/portfolio), and links to my [other online presences](/other-selves). my CV is [here](https://www.dropbox.com/s/g14078i3nh7q0yp/Seth_Green_CV.pdf?dl=0).
+Here, you can find my [blog](/blog), [portfolio](/portfolio), and [other selves](/other-selves). my CV is [here](https://www.dropbox.com/s/g14078i3nh7q0yp/Seth_Green_CV.pdf?dl=0).
