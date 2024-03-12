@@ -10,6 +10,7 @@ I specialize in writing meta-scientific and meta-analytic overviews of behaviora
 My work is generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
 
 I am happy to discuss new opportunities; [please email to discuss](mailto:sag2212@columbia.edu).
+
 ### Past work
 
 #### Content marketing
