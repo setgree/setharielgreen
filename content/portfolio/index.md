@@ -1,10 +1,19 @@
 ### Overview
 
-Professionally, I have written content marketing, technical documentation, market research, and academic papers.
+I specialize in writing meta-scientific and meta-analytic overviews of behavioral science literatures. I am [open to new opportunities](mailto:sag2212@columbia.edu) in this vein.
 
-My ongoing projects are a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); a project intended to bring the credibility revolution to exercise science; and an article and [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. These projects are generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
+I am currently working on four projects.:
 
-### Content marketing
+* a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); 
+* a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
+* a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists; 
+* an article and [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. 
+
+My work is generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
+
+### Past work
+
+#### Content marketing
 
 * For [Glo Foundation](https://www.glodollar.org/), I published 
   * content for the website, including [thought](https://www.glodollar.org/articles/glo-zero-poverty-and-the-sdgs) [leadership](https://www.glodollar.org/articles/why-glo-foundation-donates-to-givedirectly), [product](https://www.glodollar.org/articles/treasuries) [explanations](https://www.glodollar.org/articles/givedirectly), [quarterly](https://www.glodollar.org/articles/glo-q1-2023-update) [updates](https://www.glodollar.org/articles/glo-q2-2023-update), information for [job](https://www.glodollar.org/articles/how-we-work-at-glo) [applicants](https://www.glodollar.org/articles/how-to-make-your-job-application-to-glo-stand-out), and general-purpose [marketing](https://www.glodollar.org/articles/embedded-philanthropy);
@@ -19,14 +28,14 @@ My ongoing projects are a meta-analysis of interventions [aimed at reducing sexu
   * and occasionally wrote [social](https://twitter.com/CodeOceanHQ/status/989193597294665729) [media](https://twitter.com/CodeOceanHQ/status/1024382224844632064) content.
     * I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018. One person [said I was good](https://twitter.com/KLA2010/status/912389868730372097)!
 
-### Technical documentation
+#### Technical documentation
 * I wrote about half of Code Ocean's [help pages](https://help.codeocean.com/en/), and all of the  [Reproducibility and Preservation](https://help.codeocean.com/en/collections/500077-reproducibility-and-preservation) and [Tutorials](https://help.codeocean.com/en/collections/1910642-tutorials) sections.
 
 * Lately I've been contributing pull requests to the Ethereum Foundation's developer docs, e.g. [12390](https://github.com/ethereum/ethereum-org-website/pull/12390), [6619](https://github.com/ethereum/ethereum-org-website/pull/6619), [6651](https://github.com/ethereum/ethereum-org-website/pull/6651), [7759](https://github.com/ethereum/ethereum-org-website/pull/7759), [10741](https://github.com/ethereum/ethereum-org-website/pull/10741), and [10756](https://github.com/ethereum/ethereum-org-website/pull/10756).
 ### Market research
 * For [IMA Financial Group](https://imacorp.com/), I contributed to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [few](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [different](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/).
 
-### Academic publications
+#### Academic publications
 
 * Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
 
@@ -42,7 +51,7 @@ In the academic-adjacent category:
  
 * I also researched effective anti-crruption NGOs for [Founders Pledge](https://www.founderspledge.com/) on corruption.
 
-### Culture, politics, & personal
+#### Culture, politics, & personal
 
 * [Traveling North](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/), _Appalachian Trail Journeys_, spring/summer 2022.
 
