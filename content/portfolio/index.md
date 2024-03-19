@@ -1,6 +1,6 @@
 ### Overview
 
-I specialize in writing meta-scientific and meta-analytic overviews of behavioral science literatures. Four projects are currently in-progress:
+I specialize in meta-analytic overviews of behavioral science literature. Four projects are currently in-progress:
 
 * a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
