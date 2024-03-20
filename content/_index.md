@@ -1,4 +1,4 @@
-Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="42%" height="42%"/> I am a [nonresident fellow[(https://behavioralpolicy.princeton.edu/people/seth-green)] at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu/) at Princeton and [an affiliate](https://www.foodlabstanford.com/team) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford. By trade, I am a meta-analyst.
+Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="42%" height="42%"/> I am a [nonresident fellow](https://behavioralpolicy.princeton.edu/people/seth-green)] at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu/) at Princeton and [an affiliate](https://www.foodlabstanford.com/team) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford. By trade, I am a meta-analyst.
 
 Previously I worked at [Glo Foundation](https://www.glodollar.org/), [Riskified](https://www.riskified.com/), and [Code Ocean](https://codeocean.com/).
 
