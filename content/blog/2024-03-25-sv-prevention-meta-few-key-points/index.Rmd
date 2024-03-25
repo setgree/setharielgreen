@@ -1,5 +1,5 @@
 ---
-title: A few key points from a recent meta-analysis on sexual violence prevention programs
+title: Summary of new meta-analysis on sexual violence prevention
 author: Seth Green
 date: '2024-03-25'
 slug: sv-prevention-meta-few-key-points
@@ -29,11 +29,11 @@ We also didn't look at especially high-risk settings, like people who are incarc
 
 Here are some graphical overviews:
 
-![](images/clipboard-2230205432.png)
+![](images/clipboard-2230205432.png){width="500"}
 
 Here is the distribution of studies over time, with three "zeitgeist" programs highlighted.
 
-![](images/clipboard-1917789774.png)
+![](images/clipboard-1917789774.png){width="500"}
 
 **Three zeitgeists programs**
 
@@ -51,7 +51,7 @@ The third is **Bringing in the Bystander** ([Banyard, Moynihan, & Plante 2007](h
 
 As a dependent variable, bystander behaviors (intervening when you think sexual violence might happen) have become more popular over time.
 
-![](images/clipboard-452603583.png)
+![](images/clipboard-452603583.png){width="500"}
 
 ## **Ideas-based approaches are dominant**
 
