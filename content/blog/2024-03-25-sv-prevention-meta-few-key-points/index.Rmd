@@ -67,7 +67,7 @@ Our random effects meta-analysis reveals an overall effect size of ∆ = 0.28 (S
 
 The overall effect size for ideas-based outcomes is ∆ = 0.366 (SE = .031), p \< 0.0001; for behaviors, it's ∆ = 0.071 (SE = 0.022), p = 0.0015.
 
-Moreover, things look worse when we subdivide behaviors into their four constituent categories : perpetration, victimization, bystander behaviors, and involvement. (Involvement outcomes measure participants’ interest in participating in sexual violence awareness and prevention activities.)
+Moreover, things look worse when we subdivide behaviors into their four constituent categories: perpetration, victimization, bystander behaviors, and involvement. (Involvement outcomes measure participants’ interest in participating in sexual violence awareness and prevention activities.)
 
 |               | N (studies) | Δ (SE)              |
 |---------------|-------------|---------------------|
