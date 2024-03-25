@@ -131,9 +131,9 @@ We write:
 
 ### **There are not a lot of cost-benefit-analyses in this literature**
 
-The one cost-benefit analysis that I can remember is of the [SASA! program in Uganda](https://link.springer.com/article/10.1186/s12916-014-0122-5), which estimated they could [prevent a single instance of IPV for \$486 on average](https://link.springer.com/article/10.1186/s12889-016-2883-6?fromPaywallRec=false). Unfortunately, this study has just 4 clusters in treatment and 4 in control, which is pretty darn underpowered. However, for anyone looking to work in this field, this is probably a good baseline estimate.
+The one cost-benefit analysis that I can remember is of the [SASA! program in Uganda](https://link.springer.com/article/10.1186/s12916-014-0122-5), which estimated they could [prevent a single instance of IPV for \$486 on average](https://link.springer.com/article/10.1186/s12889-016-2883-6?fromPaywallRec=false). I do not place much credence in this finding because the study had just 4 clusters in treatment and 4 in control. However, for anyone looking to work in this field, this is probably a good baseline estimate.
 
-If a funder were asking me what opportunities are out there, I would say we need more basic research, i.e. randomized evaluations of the sorts of behavioral interventions we propose.
+If a funder asked me about best current opportunities, I would say we need more basic research, i.e. randomized evaluations of the sorts of behavioral interventions we propose.
 
 # **Further reading and supplementary materials**
 
