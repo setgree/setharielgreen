@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Seth Green&#39;s personal website</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Seth Green&#39;s personal website</description>
+    <title>Tags on Seth Ariel Green&#39;s website</title>
+    <link>https://setharielgreen.com/tags/</link>
+    <description>Recent content in Tags on Seth Ariel Green&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://setharielgreen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fantasy-literature</title>
-      <link>/tags/fantasy-literature/</link>
+      <link>https://setharielgreen.com/tags/fantasy-literature/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fantasy-literature/</guid>
+      <guid>https://setharielgreen.com/tags/fantasy-literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lord-of-the-rings</title>
-      <link>/tags/lord-of-the-rings/</link>
+      <link>https://setharielgreen.com/tags/lord-of-the-rings/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lord-of-the-rings/</guid>
+      <guid>https://setharielgreen.com/tags/lord-of-the-rings/</guid>
       <description></description>
     </item>
     
