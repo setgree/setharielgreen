@@ -9,11 +9,7 @@ tags: []
 
 This post summarizes a new paper: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
 
-It is now available as a [preprint](https://osf.io/preprints/psyarxiv/xgbzj) and will be published in the next issue of [*Psychological Science in the Public Interest*](https://journals.sagepub.com/home/PSI)*.*
-
-I wrote the meta-analysis/quantitative results section so this post mostly focuses on that.
-
-All unattributed quotes are from the paper itself.
+Basically the vast majority of papers try to change ideas about sexual violence, are relatively successful at that, and are much less successful at changing rates of perpetration or victimization. We argue that the field should take a much more behavioralist approach and try to alter the environmental and structural determinants of violence.
 
 # **The literature as a whole**
 
@@ -111,7 +107,7 @@ From the paper:
 
 The [Taylor et al. (2013)](https://pubmed.ncbi.nlm.nih.gov/23076726/) school-based intervention I mentioned earlier is relatively effective and is a great candidate for large-scale replication.
 
-### **A few interventions that aren't primary prevention efforts came out looking comparatively effective** 
+### **A few interventions that aren't primary prevention efforts came out looking comparatively effective**
 
 1.  [Unconditional cash transfers to women meaningfully reduce sexual violence.](https://www.nber.org/system/files/working_papers/w25627/revisions/w25627.rev0.pdf)
 
