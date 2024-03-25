@@ -97,7 +97,7 @@ Sixty-two studies measure both ideas-based and behavioral outcomes. For those st
 
 This figure displays this lack of relationship: 
 
-![](images/clipboard-2789718618.png)
+![](images/clipboard-2789718618.png){width="500"}
 
 Each point in the figure represents a study that measures both ideas and behaviors, with the average effect size for ideas about sexual violence (within a given study) on the X axis and the average within-study behavioral effect size on the Y axis. The dotted black line shows what a correlation of 1.0 would look like, and the dotted gray line shows the correlation that we actually observe. Studies are color-coded by design.
 
