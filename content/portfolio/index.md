@@ -1,8 +1,7 @@
 ### Overview
 
-I specialize in meta-analytic overviews of behavioral science literature. Four projects are currently in-progress:
+I specialize in meta-analytic overviews of behavioral science literature. Three projects are currently in-progress:
 
-* a meta-analysis of interventions [aimed at reducing sexual violence](https://osf.io/w9hqs/); 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
 * a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists; 
 * an article and [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. 
@@ -38,11 +37,14 @@ I am happy to discuss new opportunities [via email](mailto:sag2212@columbia.edu)
 
 #### Academic publications
 
-* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
+* Porat, R., Gantman, A. P., **Green, S. A.**, Pezzuto, J.-H., & Paluck, E. L. (2024, March 22). [Preventing sexual violence—A behavioral problem without a behaviorally-informed solution](https://doi.org/10.31234/osf.io/xgbzj). OSF. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v1).)
 
 * Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
 
 * Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
+
+* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
+
 
 In the academic-adjacent category:
 * [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest), and [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
