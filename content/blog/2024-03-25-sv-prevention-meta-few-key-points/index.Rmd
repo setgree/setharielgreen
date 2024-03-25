@@ -7,13 +7,13 @@ categories: []
 tags: []
 ---
 
-This post summarizes a new paper: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
+This post summarizes a new paper: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj),on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
 
 Basically the vast majority of papers try to change ideas about sexual violence, are relatively successful at that, and are much less successful at changing rates of perpetration or victimization. We argue that the field should take a much more behavioralist approach and focus on the environmental and structural determinants of violence.
 
 # **The literature as a whole**
 
-We surveyed papers written between 1986 and 2018 and found 225 manuscripts describing 298 studies, from which we coded 499 distinct point estimates. 
+We surveyed papers written between 1986 and 2018 and found 225 manuscripts describing 298 studies, from which we coded 499 distinct point estimates.
 
 We looked specifically at [primary prevention](https://www.cdc.gov/violenceprevention/sexualviolence/rpe/index.html) efforts, which aim to prevent violence before it happens. This is in contrast to [secondary prevention](https://www.cdc.gov/violenceprevention/pdf/svprevention-a.pdf), which, per the CDC, comprises “[i]mmediate responses after sexual violence has occurred to deal with the short-term consequences of violence." We also didn't meta-analyze studies where an impact on sexual violence was a secondary or unanticipated consequence of, e.g. giving [cash to women unconditionally](https://voxdev.org/topic/social-protection/unconditional-cash-transfer-programmes-and-intimate-partner-violence-kenya) or [opening adult entertainment establishments](https://academic.oup.com/ej/article-abstract/132/641/147/6309337).
 
@@ -37,7 +37,7 @@ The first is **Safe Dates** ([Foshee et al. 1996](https://psycnet.apa.org/record
 
 The second is the **Men's Program** ([Foubert, Tatum & Donahue 2006](https://www.degruyter.com/document/doi/10.2202/1949-6605.1684/html)), which aims to prevent sexual violence by men by increasing their empathy and support for victims of sexual violence, and by reducing their resistance to violence prevention programs. E.g.:
 
-> Participants in the program watched a 15-minute dramatization of a male police officer who was raped by two other men, and then dealt with the aftermath of the assault. Trained peer educators then told the participants that the perpetrators were heterosexual and known to the victim, and attempted to draw connections between the male police officer’s experience and common sexual violence experiences among women. Participants were then taught strategies for supporting a rape survivor; definitions of consent; and strategies for intervening when a peer jokes about rape or disrespects women, and in situations where a rape may occur. 
+> Participants in the program watched a 15-minute dramatization of a male police officer who was raped by two other men, and then dealt with the aftermath of the assault. Trained peer educators then told the participants that the perpetrators were heterosexual and known to the victim, and attempted to draw connections between the male police officer’s experience and common sexual violence experiences among women. Participants were then taught strategies for supporting a rape survivor; definitions of consent; and strategies for intervening when a peer jokes about rape or disrespects women, and in situations where a rape may occur.
 
 The third is **Bringing in the Bystander** ([Banyard, Moynihan, & Plante 2007](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcop.20159)), which
 
@@ -57,7 +57,7 @@ One study tries to alter physical environments in addition to ideas. [Taylor et 
 
 # **Quantitative results**
 
-All results are presented in terms of Glass's ∆, an estimate of standardized mean difference. It takes the difference in average outcomes for the treatment and the control group and divides it by the standard deviation of the dependent variable for the control group. ∆ = 1.0 corresponds to a change of 1 standard deviation in the outcome. 
+All results are presented in terms of Glass's ∆, an estimate of standardized mean difference. It takes the difference in average outcomes for the treatment and the control group and divides it by the standard deviation of the dependent variable for the control group. ∆ = 1.0 corresponds to a change of 1 standard deviation in the outcome.
 
 ### **An overall moderate effect**
 
@@ -87,9 +87,9 @@ The effects on perpetration and victimization outcomes are neither clinically or
 
 ### **Attitude change does not predict behavior change**
 
-Sixty-two studies measure both ideas-based and behavioral outcomes. For those studies, the pooled behavior change effect is ∆ = 0.083 (SE = 0.029), p = 0.006, while the pooled idea change effect is ∆ = 0.290 (SE = 0.039), p \<0.0001. Unfortunately, in these studies, we find a small, statistically non-significant correlation of r(60) = 0.136, p = 0.293 between changes in ideas and changes in behaviors. The relationship remains small and non-significant when looking solely at randomized evaluations (r = 0.138, p = 0.48). Basically, changing ideas does not appear sufficient for changing behaviors. 
+Sixty-two studies measure both ideas-based and behavioral outcomes. For those studies, the pooled behavior change effect is ∆ = 0.083 (SE = 0.029), p = 0.006, while the pooled idea change effect is ∆ = 0.290 (SE = 0.039), p \<0.0001. Unfortunately, in these studies, we find a small, statistically non-significant correlation of r(60) = 0.136, p = 0.293 between changes in ideas and changes in behaviors. The relationship remains small and non-significant when looking solely at randomized evaluations (r = 0.138, p = 0.48). Basically, changing ideas does not appear sufficient for changing behaviors.
 
-This figure displays this lack of relationship: 
+This figure displays this lack of relationship:
 
 ![](images/clipboard-2789718618.png){width="500"}
 
