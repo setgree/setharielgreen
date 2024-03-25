@@ -9,7 +9,7 @@ tags: []
 
 This post summarizes a new paper: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj),on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
 
-Basically the vast majority of papers try to change ideas about sexual violence, are relatively successful at that, and are much less successful at changing rates of perpetration or victimization. We argue that the field should take a much more behavioralist approach and focus on the environmental and structural determinants of violence.
+The vast majority of papers try to change ideas about sexual violence and are relatively successful at that. However, on the most crucial outcomes \textemdash perpetration and victimization \textemdash the primary prevention literature has not yet found its footing. We argue that the field should take a much more behavioralist approach and focus on the environmental and structural determinants of violence.
 
 # **The literature as a whole**
 
