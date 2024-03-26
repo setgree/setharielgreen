@@ -1,6 +1,6 @@
 ### Overview
 
-I specialize in meta-analytic overviews of behavioral science literature. Three projects are currently in-progress:
+I specialize in meta-analyses of behavioral science literature. Three projects are currently in-progress:
 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
 * a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists; 
