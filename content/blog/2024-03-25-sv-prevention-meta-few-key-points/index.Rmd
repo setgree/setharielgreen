@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-This research report summarizes a new meta-analysis: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj), on which I along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
+This research report summarizes a new meta-analysis: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
 
 The vast majority of papers try to change ideas about sexual violence and are moderately successful at that. However, on the most crucial outcomes — perpetration and victimization — the primary prevention literature has not yet found its footing. We argue that the field should take a more behavioralist approach and focus on the environmental and structural determinants of violence. 
 
