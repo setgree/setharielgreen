@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meta-analysis on Seth Ariel Green&#39;s website</title>
-    <link>https://setharielgreen.com/categories/meta-analysis/</link>
-    <description>Recent content in meta-analysis on Seth Ariel Green&#39;s website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Meta-Analysis on Seth Ariel Green&#39;s website</title>
+    <link>http://localhost:4321/categories/meta-analysis/</link>
+    <description>Recent content in Meta-Analysis on Seth Ariel Green&#39;s website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://setharielgreen.com/categories/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Environmental &amp; health appeals are the most effective vegan outreach strategies</title>
-      <link>https://setharielgreen.com/blog/reducing-consumption-of-meat-and-animal-products-what-works/</link>
+      <link>http://localhost:4321/blog/reducing-consumption-of-meat-and-animal-products-what-works/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://setharielgreen.com/blog/reducing-consumption-of-meat-and-animal-products-what-works/</guid>
+      <guid>http://localhost:4321/blog/reducing-consumption-of-meat-and-animal-products-what-works/</guid>
       <description>Now published on the EA forum, aiming to publish in an academic journal next year.</description>
     </item>
-    
   </channel>
 </rss>
