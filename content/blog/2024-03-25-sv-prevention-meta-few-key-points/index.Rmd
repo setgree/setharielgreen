@@ -7,25 +7,25 @@ categories: []
 tags: []
 ---
 
-This research report summarizes a new meta-analysis: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://osf.io/preprints/psyarxiv/xgbzj), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
+This research report summarizes a new meta-analysis: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://doi.org/10.1177/15291006231221978), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).
 
-The vast majority of papers try to change ideas about sexual violence and are moderately successful at that. However, on the most crucial outcomes — perpetration and victimization — the primary prevention literature has not yet found its footing. We argue that the field should take a more behavioralist approach and focus on the environmental and structural determinants of violence. 
+The vast majority of papers try to change ideas about sexual violence and are moderately successful at that. However, on the most crucial outcomes — perpetration and victimization — the primary prevention literature has not yet found its footing. We argue that the field should take a more behavioralist approach and focus on the environmental and structural determinants of violence.
 
 ## **The literature**
 
-We surveyed papers written between 1986 and 2018 and found 224 manuscripts describing 298 studies, from which we coded 499 distinct point estimates. 
+We surveyed papers written between 1986 and 2018 and found 224 manuscripts describing 298 studies, from which we coded 499 distinct point estimates.
 
-We looked specifically at [primary prevention](https://www.cdc.gov/violenceprevention/sexualviolence/rpe/index.html) efforts, which aim to prevent violence before it happens.  Methodologically, studies needed to have a control group to be included,  so no cross-sectional analyses or strictly pre-post designs.
+We looked specifically at [primary prevention](https://www.cdc.gov/violenceprevention/sexualviolence/rpe/index.html) efforts, which aim to prevent violence before it happens. Methodologically, studies needed to have a control group to be included, so no cross-sectional analyses or strictly pre-post designs.
 
-We did not include 
+We did not include
 
--   [secondary prevention](https://www.cdc.gov/violenceprevention/pdf/svprevention-a.pdf), which deals with the aftermath of violence; 
+-   [secondary prevention](https://www.cdc.gov/violenceprevention/pdf/svprevention-a.pdf), which deals with the aftermath of violence;
 
 -   anything where an impact on sexual violence was a secondary or unanticipated consequence of, e.g. giving [cash to women unconditionally](https://voxdev.org/topic/social-protection/unconditional-cash-transfer-programmes-and-intimate-partner-violence-kenya) or [opening adult entertainment establishments](https://academic.oup.com/ej/article-abstract/132/641/147/6309337); 
 
--   studies of especially high-risk populations, like sex workers or people who are incarerated; 
+-   studies of especially high-risk populations, like sex workers or people who are incarerated;
 
--   anything that sought to exclusively change the behavior of potential victims, e.g. [self-defense classes](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/soc4.12597) or "[sexually assertive communication training](https://www.ojp.gov/ncjrs/virtual-library/abstracts/sexually-assertive-communication-training-acquaintance-rape)."  
+-   anything that sought to exclusively change the behavior of potential victims, e.g. [self-defense classes](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/soc4.12597) or "[sexually assertive communication training](https://www.ojp.gov/ncjrs/virtual-library/abstracts/sexually-assertive-communication-training-acquaintance-rape)."
 
 These studies mostly take place on United States college campuses in mixed-gender settings.
 
