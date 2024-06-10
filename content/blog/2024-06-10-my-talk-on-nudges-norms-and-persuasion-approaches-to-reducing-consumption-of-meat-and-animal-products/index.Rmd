@@ -1,0 +1,13 @@
+---
+title: My talk on 'Nudges, Norms, and Persuasion Approaches to Reducing Consumption
+  of Meat and Animal Products'
+author: Seth Green
+date: '2024-06-10'
+slug: my-talk-on-nudges-norms-and-persuasion-approaches-to-reducing-consumption-of-meat-and-animal-products
+categories: []
+tags: []
+---
+
+I recently presented an in-progress paper at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/), where I will be taking a research scientist job starting on July 1st.
+
+The recording is on [YouTube](https://www.youtube.com/watch?v=oW2dZmUCVQU) and the slides are [here](https://www.dropbox.com/scl/fi/kuk72ekmzopdnstadqwwn/nudges_norms_persuasion_presentation.pdf?rlkey=rcmq6ng6vphkbvc9z7awveo0j&dl=0).
