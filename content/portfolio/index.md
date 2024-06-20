@@ -1,16 +1,35 @@
 ### Overview
 
-I specialize in meta-analyses of behavioral science literature. Three projects are currently in-progress:
+I specialize in meta-analyses of behavioral science literature. Two projects are currently in-progress:
 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
 * a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists; 
-* an article and [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis. 
 
 My work is generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
 
-I am happy to discuss new opportunities [via email](mailto:sag2212@columbia.edu).
-
 ### Past work
+
+#### Academic publications
+
+* Porat, R., Gantman, A., **Green, S.A.**, Pezzuto, J.H., & Paluck, E.L. (accepted). [Preventing sexual violence - A behavioral problem without a behaviorally-informed solution. Psychological Science in the Public Interest](https://doi.org/10.31234/osf.io/xgbzj).  (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v1).)
+
+* Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
+
+* Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
+
+* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
+
+
+In the academic-adjacent category:
+* [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest), and [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
+
+ * I prepared some research briefs for Evidence in Governance and Politics (EGAP) -- [6](https://egap.org/resource/brief-06-voter-benchmarks-in-developing-countries/), [12](https://egap.org/resource/brief-12-attitudes-towards-immigrants-among-boston-area-commuters/), [15](https://egap.org/resource/brief-15-is-it-the-cash-or-condition-in-malawi/), [20](https://egap.org/resource/brief-20-is-vote-buying-effective/), [23](https://egap.org/resource/brief-23-discrimination-in-everyday-behavior/), [34](https://egap.org/resource/brief-34-violent-conflict-and-behavior-in-burundi/), [36](https://egap.org/resource/brief-36-face-to-face-interviews-cognitive-skill-and-non-response/), [37](https://egap.org/resource/brief-37-voter-and-candidate-response-to-political-debates/),  [38](https://egap.org/resource/brief-38-diminishing-the-effectiveness-of-vote-buying-through-voter-education/), and [39](https://egap.org/resource/brief-39-attitudes-towards-risk-and-illegal-behavior/). 
+ 
+* I also researched effective anti-corruption NGOs for [Founders Pledge](https://www.founderspledge.com/).
+
+#### Additional software
+
+* an [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis.
 
 #### Content marketing
 
@@ -37,24 +56,6 @@ I am happy to discuss new opportunities [via email](mailto:sag2212@columbia.edu)
 
 #### Market research
 * For [IMA Financial Group](https://imacorp.com/), I contributed to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [few](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [different](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/).
-
-#### Academic publications
-
-* Porat, R., Gantman, A., **Green, S.A.**, Pezzuto, J.H., & Paluck, E.L. (accepted). [Preventing sexual violence - A behavioral problem without a behaviorally-informed solution. Psychological Science in the Public Interest](https://doi.org/10.31234/osf.io/xgbzj).  (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v1).)
-
-* Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
-
-* Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). _Meta-psychology_, 3.
-
-* Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). _Behavioural Public Policy_, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
-
-
-In the academic-adjacent category:
-* [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication), for GiveWell’s [Change Our Mind Contest](https://forum.effectivealtruism.org/topics/givewell-change-our-mind-contest), and [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
-
- * I prepared some research briefs for Evidence in Governance and Politics (EGAP) -- [6](https://egap.org/resource/brief-06-voter-benchmarks-in-developing-countries/), [12](https://egap.org/resource/brief-12-attitudes-towards-immigrants-among-boston-area-commuters/), [15](https://egap.org/resource/brief-15-is-it-the-cash-or-condition-in-malawi/), [20](https://egap.org/resource/brief-20-is-vote-buying-effective/), [23](https://egap.org/resource/brief-23-discrimination-in-everyday-behavior/), [34](https://egap.org/resource/brief-34-violent-conflict-and-behavior-in-burundi/), [36](https://egap.org/resource/brief-36-face-to-face-interviews-cognitive-skill-and-non-response/), [37](https://egap.org/resource/brief-37-voter-and-candidate-response-to-political-debates/),  [38](https://egap.org/resource/brief-38-diminishing-the-effectiveness-of-vote-buying-through-voter-education/), and [39](https://egap.org/resource/brief-39-attitudes-towards-risk-and-illegal-behavior/). 
- 
-* I also researched effective anti-corruption NGOs for [Founders Pledge](https://www.founderspledge.com/).
 
 #### Culture, politics, & personal
 
