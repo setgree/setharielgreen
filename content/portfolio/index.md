@@ -3,7 +3,7 @@
 I specialize in meta-analyses of behavioral science literature. Two projects are currently in-progress:
 
 * a meta-analysis of [vegan persuasion literature](https://forum.effectivealtruism.org/posts/k9qqGZtmWz3x4yaaA/environmental-and-health-appeals-are-the-most-effective); 
-* a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists; 
+* a [how-to guide](https://github.com/setgree/ExerciseScienceRedesign) for field experiments and identification strategies for sports scientists.
 
 My work is generously supported by the NIH and by the [Food Systems Research Fund](https://www.fsrfund.org/).
 
