@@ -1,5 +1,5 @@
 ---
-title: Extraordinary CEAs require theoretical buttressing
+title: Extraordinary cost-effectiveness analyses call for supporting theory
 author: Seth Green
 date: '2024-06-25'
 slug: extraordinary-ceas-require-theoretical-buttressing
@@ -7,4 +7,4 @@ categories: []
 tags: []
 ---
 
-A [new post on the EA forum](https://forum.effectivealtruism.org/posts/fuohDWSqhCHcZHqeD/extraordinary-ceas-require-theoretical-buttressing).
+A [new post on the EA forum](https://forum.effectivealtruism.org/posts/fuohDWSqhCHcZHqeD/extraordinary-cost-effectiveness-analyses-call-for).
