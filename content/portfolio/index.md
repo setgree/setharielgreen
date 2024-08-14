@@ -11,7 +11,7 @@ My work is generously supported by the NIH and by the [Food Systems Research Fun
 
 #### Academic publications
 
-* Porat, R., Gantman, A., **Green, S.A.**, Pezzuto, J.H., & Paluck, E.L. (accepted). [Preventing sexual violence - A behavioral problem without a behaviorally-informed solution. Psychological Science in the Public Interest](https://doi.org/10.31234/osf.io/xgbzj).  (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v1).)
+* Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). _Psychological science in the public interest_, 25(1), 4-29.https://doi.org/10.31234/osf.io/xgbzj).  (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2).)
 
 * Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). _Advances in Methods and Practices in Psychological Science_, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
 
