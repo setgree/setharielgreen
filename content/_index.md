@@ -2,6 +2,6 @@ Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face
 
 Previously I worked at [Glo Foundation](https://www.glodollar.org/), [Riskified](https://www.riskified.com/), [Code Ocean](https://codeocean.com/), and [Innovations for Poverty Action](https://poverty-action.org/).
 
-I thru-hiked the Appalachian Trail in 2021. 
+I [thru-hiked the Appalachian Trail](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/) in 2021. 
 
 Here, you can find my [blog](/blog), [portfolio](/portfolio), and [other selves](/other-selves). my CV is [here](https://www.dropbox.com/s/g14078i3nh7q0yp/Seth_Green_CV.pdf?dl=0).
