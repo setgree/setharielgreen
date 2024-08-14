@@ -25,7 +25,7 @@ One explanation is that big companies are like octopuses, and each product divis
 
 Some other places where AMD is inattentive to detail:
 
--   Its [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) for its laptop parts is truly a marvel of impossible to remember details. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers — what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
+-   Its [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) for its laptop parts is truly a marvel of impossible to remember terms. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers — what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
 
 -   Its most recent flagship desktop processor is getting [mixed to negative reviews](https://www.extremetech.com/computing/flagship-amd-zen-5-ryzen-9-9950x-cpu-reviews-are-a-mixed-bag) because of unexplained performance issues, as well as a [serious driver issue](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review/5) that's lasted for \~16 months
 
