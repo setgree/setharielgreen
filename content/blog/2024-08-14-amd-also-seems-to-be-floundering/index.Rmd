@@ -29,7 +29,7 @@ One explanation is that big companies are like octopuses, and each product divis
 
 We see evidence of this in a few places:
 
--   Its [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) for its Ryzen' parts is truly a marvel of impossible to remember details. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers – what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
+-   Its [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) for its Ryzen parts is truly a marvel of impossible to remember details. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers – what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
 
 -   Its most recent desktop release has a [serious driver issue](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review/5) that's lasted for \~16 months
 
