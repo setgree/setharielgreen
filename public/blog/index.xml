@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Seth Ariel Green&#39;s website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMD also seems to be floundering</title>
+      <link>http://localhost:4321/blog/amd-also-seems-to-be-floundering/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/amd-also-seems-to-be-floundering/</guid>
+      <description>Intel recently announced a plan to eliminate 15,000 jobs after historically bad quarterly results.&#xA;It’s been rehearsed to death that Intel missed the boat on mobile and AI, but IMHO they should have heard an equally serious alarm bell when Apple ditched Intel for its own processors in 2020. Before that transition was announced, one observer argued that a divorce would be good news for Intel because Apple was a relatively small percentage of Intel’s business and a very demanding customer, and a separation would allow Intel to focus elsewhere.</description>
+    </item>
     <item>
       <title>Would that every great artist had a dance music period</title>
       <link>http://localhost:4321/blog/2024-07-15-would-that-every-great-artist-had-a-disco-period/</link>

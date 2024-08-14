@@ -33,7 +33,7 @@ We see evidence of this in a few places:
 
 -   Its most recent desktop release has a [serious driver issue](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review/5) that's lasted for \~16 months
 
--   It continues to [lag badly in the AI/GPU](https://www.techradar.com/computing/gpu/nvidia-now-owns-88-of-the-gpu-market-but-that-might-not-be-a-bad-thing-yet\) market basically in large part [because its software ](https://news.ycombinator.com/item?id=39344815)isn't competitive.
+-   It continues to [lag badly](https://www.techradar.com/computing/gpu/nvidia-now-owns-88-of-the-gpu-market-but-that-might-not-be-a-bad-thing-yet) in the AI/GPU market basically in large part [because its software](https://news.ycombinator.com/item?id=39344815) isn't competitive.
 
 Basically, I see a company that capitalized on its main competitor's struggles and continues to release some very [successful](https://www.anandtech.com/show/16217/the-xbox-series-x-review-ushering-in-next-gen/2), [specialized](https://www.tomsguide.com/news/ps5-pro) products, but that seems to be its own worst enemy in terms of execution and launch. I think this has gotten less attention than it might in light of Intel's more obviously existential struggle.
 
