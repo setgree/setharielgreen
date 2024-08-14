@@ -23,7 +23,7 @@ So what exactly was AMD thinking when it released the 8700G and 8600G? Why did i
 
 One explanation is that big companies are like octopuses, and each product division/armn is [essentially its own brain](https://www.scientificamerican.com/article/the-mind-of-an-octopus/) with its own reward structures. I think this model works pretty well for Google, where product shutdowns are [depressingly regular](https://gcemetery.co/google-product-lifespan/) (people set up [websites to count down to cancellation](https://news.ycombinator.com/item?id=21596003)) and generally attributed to [misaligned incentives](https://www.warp.dev/blog/problems-with-promotion-oriented-cultures). But AMD's issues seem to be less about multiple aims and more about about inability to execute. The strategy of low-power, integrated chips cutting away at Nvidia's market share at the low end was and is sensible. But the details need to work, and they often don't.
 
-Some other places where AMD's displays a somewhat baffling inattention to detail:
+Some other places where AMD is inattentive to detail:
 
 -   Its [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) for its laptop parts is truly a marvel of impossible to remember details. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers — what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
 
