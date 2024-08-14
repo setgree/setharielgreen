@@ -35,7 +35,7 @@ We see evidence of this in a few places:
 
 -   It continues to [lag badly in the AI/GPU](https://www.techradar.com/computing/gpu/nvidia-now-owns-88-of-the-gpu-market-but-that-might-not-be-a-bad-thing-yet\) market basically in large part [because its software ](https://news.ycombinator.com/item?id=39344815)isn't competitive.
 
-Basically, I see a company that capitalized on its main competitor's struggles and continues to release some very successful, specialized products, but that seems to be its own worst enemy in terms of execution and launch. I think this has gotten less attention than it might in light of Intel's more obviously existential struggle.
+Basically, I see a company that capitalized on its main competitor's struggles and continues to release some very [successful](https://www.anandtech.com/show/16217/the-xbox-series-x-review-ushering-in-next-gen/2), [specialized](https://www.tomsguide.com/news/ps5-pro) products, but that seems to be its own worst enemy in terms of execution and launch. I think this has gotten less attention than it might in light of Intel's more obviously existential struggle.
 
 I suppose if I were tasked with fixing things at AMD, I would say:
 
