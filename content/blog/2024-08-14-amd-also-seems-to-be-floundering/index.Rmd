@@ -39,4 +39,4 @@ Intel might be too big and too moribund to save. But if I were tasked with fixin
 
 -   Make the AI software work.
 
-But who knows? I am just seeing a small part of the puzzle. I will continue to watch with interest.
+But who knows? I am just seeing a small part of the puzzle, and they still release [great products](https://www.anandtech.com/show/21493/the-amd-ryzen-7-9700x-and-ryzen-5-9600x-review/12). I will continue to watch with interest.
