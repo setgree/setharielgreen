@@ -1,6 +1,6 @@
-Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="42%" height="42%"/> I am a [Research Scientist](https://profiles.stanford.edu/seth-green?tab=bio) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford and a nonresident fellow at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu) at Princeton. By trade, I am a meta-analyst.
+Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="40%" height="40%"/> I am a [Research Scientist](https://profiles.stanford.edu/seth-green?tab=bio) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford and a nonresident fellow at the [Kahneman-Treisman Center](https://behavioralpolicy.princeton.edu) at Princeton. By trade, I am a meta-analyst.
 
-I previously worked at [Glo](https://www.glodollar.org/), [Riskified](https://www.riskified.com/), [Code Ocean](https://codeocean.com/), and [Innovations for Poverty Action](https://poverty-action.org/).
+I previously worked at [Glo Dollar](https://www.glodollar.org/), [Riskified](https://www.riskified.com/), [Code Ocean](https://codeocean.com/), and [Innovations for Poverty Action](https://poverty-action.org/).
 
 I [thru-hiked the Appalachian Trail](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/) in 2021. 
 
