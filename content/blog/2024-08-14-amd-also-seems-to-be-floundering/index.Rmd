@@ -1,5 +1,5 @@
 ---
-title: AMD also seems to be floundering
+title: AMD also seems a bit adrift
 author: Seth Green
 date: '2024-08-14'
 slug: amd-also-seems-to-be-floundering
