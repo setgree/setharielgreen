@@ -21,17 +21,17 @@ One explanation is that big companies are like octopuses, and each product divis
 
 Some other places where we see confusing GTM:
 
--   AMD's [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) is truly a marvel of impossible to remember terms. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers — what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?)
+-   AMD's [naming](https://imgur.com/2ab20Zc) [scheme](https://www.reddit.com/r/laptops/comments/yh89xo/what_does_the_letter_x_g_u_h_hs_mean_on_a_ryzen/) is truly a marvel of impossible to remember terms. Why make this hard for buyers? (This is a surprisingly common problem among manufacturers — what does "[G34WQi](https://www.tomshardware.com/monitors/gaming-monitors/xiaomi-g34wqi-34-inch-180-hz-gaming-monitor-review)" evoke for you?);
 
--   Its most recent flagship desktop processor is getting [mixed to negative reviews](https://www.extremetech.com/computing/flagship-amd-zen-5-ryzen-9-9950x-cpu-reviews-are-a-mixed-bag) on price, performance, and a [serious driver bug](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review/5) that's lasted for over a year
+-   Its most recent flagship desktop processor is getting [mixed to negative reviews](https://www.extremetech.com/computing/flagship-amd-zen-5-ryzen-9-9950x-cpu-reviews-are-a-mixed-bag) on price, performance, and a [serious driver bug](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review/5) that's lasted for over a year;
 
 -   The company continues to [lag badly](https://www.techradar.com/computing/gpu/nvidia-now-owns-88-of-the-gpu-market-but-that-might-not-be-a-bad-thing-yet) in the AI/GPU market in large part [because its software](https://news.ycombinator.com/item?id=39344815) isn't competitive.
 
-Basically, I see a company that capitalized on its main competitor's struggles and continues to release some very [successful](https://www.anandtech.com/show/16217/the-xbox-series-x-review-ushering-in-next-gen/2), [specialized](https://www.tomsguide.com/news/ps5-pro) products, but that seems to be its own worst enemy in terms of GTM.[^2] I think this has gotten less attention than it might in light of Intel's more obviously existential struggle. But inability to market and sell the right products to the right customers is also a serious crack in the foundation.
+Basically, I see a company that capitalized on its main competitor's struggles and continues to release some very [successful](https://www.anandtech.com/show/16217/the-xbox-series-x-review-ushering-in-next-gen/2), [specialized](https://www.tomsguide.com/news/ps5-pro) products, but that seems to be its own worst enemy in terms of GTM. Some might attribute this to having a CEO who specializes in hardware rather than business. (That CEO says, about her experiences with the Playstation 3: "[Perhaps one could say, if you look in hindsight, programmability is so important](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)." I agree! If only we coud the same logic to the problem of AMD GPUs and machine learning...)
 
-[^2]: Some might attribute this to having a CEO who specializes in hardware rather than business. That CEO says, about her experiences with the Playstation 3: "[Perhaps one could say, if you look in hindsight, programmability is so important](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)." I agree, and want to see AMD apply this logic to its GPU lineup.
+I think this has gotten less attention than it might in light of Intel's more obviously existential struggle. But inability to market and sell the right products to the right customers is also a serious crack in the foundation.
 
-Intel might be too big and too moribund to save. But if I were tasked with fixing things at AMD, I would say:
+If I were tasked with fixing things at AMD, I would say:
 
 -   Get the product marketing right. Name the products simple, memorable things. Look at Apple.
 
