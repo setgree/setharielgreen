@@ -2,9 +2,11 @@
 title: Contagion and A.I., a parable and a fairy tale
 author: Seth Green
 date: '2022-03-11'
+categories:
+  - movies
+tags:
+  - movies
 slug: contagion-and-a-i-overt-and-oblique-animal-rights-parables
-categories: []
-tags: []
 ---
 
 [Contagion](https://www.imdb.com/title/tt1598778/) got a lot of attention these past few years for being [eerily predictive](https://variety.com/2020/film/columns/contagion-the-movie-that-predicted-our-pandemic-1234590420/) and apparently inspiring some aspects of the [UK's  pandemic response](https://www.theguardian.com/film/filmblog/2021/feb/04/contagion-film-matt-hancock-covid-vaccine-policy-hollywood). I watched it last night, and it is indeed unnerving. I like the shots that lingered on high-touch surfaces; Sodenbergh knows that you're thinking of all the times you've been in all-too-close proximity with a sick person, and all the residue they leave behind.

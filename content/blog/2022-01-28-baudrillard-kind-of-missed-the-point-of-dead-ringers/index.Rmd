@@ -2,6 +2,10 @@
 title: 'Re: Baudrillard on Dead Ringers'
 author: Seth Green
 date: '2022-01-28'
+categories:
+  - movies
+tags:
+  - movies
 slug: baudrillard-kind-of-missed-the-point-of-dead-ringers
 ---
 

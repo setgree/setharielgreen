@@ -3,8 +3,6 @@ title: What if college sports were focused on public health?
 author: Seth Green
 date: '2024-03-19'
 slug: what-if-college-sports-were-focused-on-public-health
-categories: []
-tags: []
 ---
 
 In college I played chamber music and ran track and cross country (XC). While both were subsidized by the school, playing music has positive spillovers both for the community (people got to see our concerts) and into the future (e.g. something about how a meaningful life involves making art). Track & XC had, to a first approximation, zero positive benefits for the community at large. (Track meets are boring and XC meets are boring _and_ far away.) Any justification of the sport as a college-sanctioned activity for some but not all people has to start with enrichment for participants.

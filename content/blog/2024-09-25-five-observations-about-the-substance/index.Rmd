@@ -2,9 +2,11 @@
 title: Five observations about "The Substance"
 author: Seth Green
 date: '2024-09-25'
+categories:
+  - movies
+tags:
+  - movies
 slug: five-observations-about-the-substance
-categories: []
-tags: []
 ---
 
 1.  I would have enjoyed this movie a bit more with some tighter editing, less repetition, and more leavening humor. But I did enjoy it. [Diana Stevens](https://slate.com/culture/2024/09/the-substance-demi-moore-movie-margaret-qualley.html), who shares some of my concerns, didn't.

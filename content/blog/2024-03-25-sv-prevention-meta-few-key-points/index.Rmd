@@ -2,9 +2,10 @@
 title: Sexual violence prevention programs change ideas, not behaviors
 author: Seth Green
 date: '2024-03-25'
+categories:
+  - meta-analysis
+  - research
 slug: sv-prevention-meta-few-key-points
-categories: []
-tags: []
 ---
 
 This research report summarizes a new meta-analysis: [Preventing Sexual Violence —A Behavioral Problem Without a Behaviorally-Informed Solution](https://doi.org/10.1177/15291006231221978), on which I am coauthor along with [Roni Porat](https://en.politics.huji.ac.il/people/roni-porat), [Ana P. Gantman](https://www.anagantman.com/), [John-Henry Pezzuto](https://twitter.com/john_pezzuto?lang=en), and [Elizabeth Levy Paluck](http://www.betsylevypaluck.com/).

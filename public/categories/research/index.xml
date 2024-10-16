@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Seth Ariel Green&#39;s website</title>
+    <link>http://localhost:4321/categories/research/</link>
+    <description>Recent content in Research on Seth Ariel Green&#39;s website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What if college sports were focused on public health?</title>
+      <link>http://localhost:4321/blog/what-if-college-sports-were-focused-on-public-health/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/what-if-college-sports-were-focused-on-public-health/</guid>
+      <description>In college I played chamber music and ran track and cross country (XC). While both were subsidized by the school, playing music has positive spillovers both for the community (people got to see our concerts) and into the future (e.g. something about how a meaningful life involves making art). Track &amp;amp; XC had, to a first approximation, zero positive benefits for the community at large. (Track meets are boring and XC meets are boring and far away.</description>
+    </item>
+  </channel>
+</rss>
