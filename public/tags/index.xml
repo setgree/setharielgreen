@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Seth Ariel Green&#39;s website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movies</title>
+      <link>http://localhost:4321/tags/movies/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fantasy-Literature</title>
+      <link>http://localhost:4321/tags/fantasy-literature/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/fantasy-literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lord-of-the-Rings</title>
+      <link>http://localhost:4321/tags/lord-of-the-rings/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/lord-of-the-rings/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
