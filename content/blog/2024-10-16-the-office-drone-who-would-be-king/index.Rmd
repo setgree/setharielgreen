@@ -9,7 +9,7 @@ tags:
 slug: the-office-drone-who-would-be-king
 ---
 
-According to [readers of the New York Times](https://www.nytimes.com/2024/09/06/movies/readers-favorite-1999-movies.html), the top four movies of 1999 were *The Matrix*, *Fight Club*, *Office Space*, and *American Beauty*. I love this selection because I think they’re all basically the same movie, starring basically one character:\
+According to [readers of the *New York Times*](https://www.nytimes.com/2024/09/06/movies/readers-favorite-1999-movies.html), the top four movies of 1999 were *The Matrix*, *Fight Club*, *Office Space*, and *American Beauty*. I love this selection because I think they’re all basically the same movie, starring basically one character:\
 ![](images/drone-comp.png){width="650"}
 
 The movie goes like this:
