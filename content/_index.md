@@ -1,4 +1,4 @@
-Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="52%" height="52%"/> I am a [Research Scientist](https://profiles.stanford.edu/seth-green?tab=bio) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford. I live in Brooklyn. 
+Hi I'm Seth!  <img align="right" src="/./_index_files/homepage-photos/YHITW-face.JPG" alt="Blairsville, GA, 2021" width="52%" height="52%"/> I am a [Research Scientist](https://profiles.stanford.edu/seth-green?tab=bio) at the [Humane and Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford. I am a meta-analyst and a vegan. I live in Brooklyn. 
 
 I previously worked at [Glo Dollar](https://www.glodollar.org/), [Riskified](https://www.riskified.com/), [Code Ocean](https://codeocean.com/), and [Innovations for Poverty Action](https://poverty-action.org/).
 
