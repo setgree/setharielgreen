@@ -78,7 +78,7 @@ When I rewatched this movie, the main thing that stood out was how right wing it
 
 Which brings us naturally to The Matrix.
 
-The Matrix was the first R-rated movie I saw in a theater, and to this day I think it absolutely rules. Way back in the early 2000s, its influence was everywhere: a [video game franchise](https://en.wikipedia.org/wiki/Max_Payne)with bullet time as a central play mechanic and [dark](https://en.wikipedia.org/wiki/Underworld_(2003_film)) [fantasy](https://en.wikipedia.org/wiki/%C3%86on_Flux_(film))/[sci-fi](https://en.wikipedia.org/wiki/Ultraviolet_(film)) [movies](https://en.wikipedia.org/wiki/Equilibrium_(film)) with distinct color schemes and elaborately superhuman fight scenes. But what sticks out to me nowadays, as a friend recently put it, is how we ever could have thought it was anything besides a trans metaphor.
+The Matrix was the first R-rated movie I saw in a theater, and to this day I think it absolutely rules. Way back in the early 2000s, its influence was everywhere: a [video game franchise](https://en.wikipedia.org/wiki/Max_Payne)with bullet time as a central play mechanic and [dark](https://en.wikipedia.org/wiki/Underworld_(2003_film)) [fantasy](https://en.wikipedia.org/wiki/%C3%86on_Flux_(film))/[sci-fi](https://en.wikipedia.org/wiki/Ultraviolet_(film)) [movies](https://en.wikipedia.org/wiki/Equilibrium_(film)) with distinct color schemes and elaborately superhuman fight scenes. But what sticks out to me nowadays, as a friend recently said, is how we ever could have thought it was anything besides a trans metaphor.
 
 When we first meet Thomas Anderson, he’s asleep at his desk.
 
@@ -158,7 +158,7 @@ But the jigsaw piece that won’t fit here is that Lester has not at all given u
 
 Putting these movies all together, what do we get?
 
-First, an observation: the fortunes of software engineers have changed a lot. Neo and Peter both play engineers who, apparently, have to be at their desk precisely at 9 and wear a suit. To put it lightly, this does not match the experience of the devs I know.
+First, the fortunes of software engineers have changed a lot. Neo and Peter both play engineers who live in crappy apartments and have to be at their desk precisely at 9 and wear a suit. At least in the 2010s, [things](https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html) [were](https://www.nytimes.com/2013/03/16/business/at-google-a-place-to-work-and-play.html) [pretty](https://www.washingtonpost.com/technology/2023/02/02/google-meta-layoffs-sanfrancisco/) [different](https://www.ibtimes.co.uk/how-get-paid-doing-nothing-inside-silicon-valleys-controversial-rest-vest-culture-1633884).
 
 More broadly, we see a lot of angst about displacement and automation: about being replaceable. Each movie portrays an office as just another factory where the people are the cogs. As one of the Bobs puts it in *Office Space*, the plan for laid off workers is to “bring in some entry-level graduates, farm some work out to Singapore, that's the usual deal.” We are, in Tyler's words, "slaves with white collars."
 
