@@ -1,10 +1,8 @@
 ---
-title: 'My milieu, childless Brooklyn '
+title: 'My spunky milieu, childless Brooklyn '
 author: Seth Green
 date: '2024-09-12'
 slug: my-milieu-childless-brooklyn
-categories: []
-tags: []
 ---
 
 I have noticed recently that I seem to be part of a distinct demographic group without a name.
