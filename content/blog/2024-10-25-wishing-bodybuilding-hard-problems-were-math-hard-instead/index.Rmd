@@ -1,0 +1,21 @@
+---
+title: Factory farming as a bodybuilding hard problem
+author: Seth Green
+date: '2024-10-25'
+slug: factory-farming-bodybuilding-hard
+draft: true
+---
+
+Alex Crompton introduces a [useful distinction](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible) between a 'math hard' problem, where the solution is hard to come up with but easy to copy, and a 'bodybuilding hard' problem, where the solution is easy to come up with and hard to copy.
+
+Math hard problems are hard also because you don't know in advance if there is a correct solution at all, or the right way to make progress on finding it. You might need to invent entirely new tools along the way. By contrast, it's very unlikely you'll invent something new in the weight room. Bodybuilding problems are often boring, repetitive, and painful,[^1] but at least we basically know how to make progress today and tomorrow and the next day.
+
+[^1]:  Jia Tolentino [says](https://www.nytimes.com/2024/09/03/podcasts/transcript-ezra-klein-interviews-jia-tolentino.html): "Like wiping a butt over and over again and wiping spit-up from somebody’s mouth and washing tiny, little hands, right? These things are so often tedious, and they are holy. And the thing that connects them both, it’s submission.")
+
+Professionally, I seem to prefer bodybuilding problems to math ones. I never want to devise new statistical methods for my papers, or ever worry too much about what the right technique is. My contributions are almost always going to be just putting in a lot of work at a task where you can make progress every day, like checking databases for relevant studies or carrying out an experiment.
+
+Ending factory farming is probably bodybuilding hard, overall. Lots of people I think well of seem to be more interested in its math hard aspects, e.g. comparing DALYs between species or building a model that compares cost-effectiveness of different interventions based on shaky data. 
+
+I take issue with this in two respects. First,  I'd rather just put in the work to get better data! Second, I do not think that we are really at the frontier where we must make such dire choices between strategies. I prefer a "yes and" approach: some people should work to persuade people to change their behaviors; others should [rescue the animals](https://www.directactioneverywhere.com/) we can; and others should [pass ballots](https://www.nationalreview.com/2022/07/a-brief-for-the-pigs-the-case-of-national-pork-producers-council-v-ross/) to improve animals' living conditions.  
+
+
