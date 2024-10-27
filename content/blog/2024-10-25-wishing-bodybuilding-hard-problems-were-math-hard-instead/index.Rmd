@@ -8,7 +8,7 @@ draft: true
 
 Alex Crompton introduces a [useful distinction](https://www.alexcrompton.com/blog/2017/05/26/hard-is-not-defensible) between a 'math hard' problem, where the solution is hard to come up with but easy to copy, and a 'bodybuilding hard' problem, where the solution is easy to come up with and hard to copy.
 
-Math hard problems are hard also because you don't know in advance if there is a correct solution at all, or the right way to make progress on finding it. You might need to invent entirely new tools along the way. By contrast, it's very unlikely you'll invent something new in the weight room. Bodybuilding problems are often boring, repetitive, and painful,[^1] but at least we basically know how to make progress today and tomorrow and the next day.
+Math hard problems also pose an additional challenge: you don't know in advance if there is a correct solution at all, or the right way to make progress on finding it. You might need to invent entirely new tools along the way. By contrast, it's very unlikely you'll invent something new in the weight room. Bodybuilding problems are often boring, repetitive, and painful,[^1] but at least we basically know how to make progress today and tomorrow and the next day.
 
 [^1]:  Jia Tolentino [says](https://www.nytimes.com/2024/09/03/podcasts/transcript-ezra-klein-interviews-jia-tolentino.html): "Like wiping a butt over and over again and wiping spit-up from somebody’s mouth and washing tiny, little hands, right? These things are so often tedious, and they are holy. And the thing that connects them both, it’s submission.")
 
