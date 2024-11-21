@@ -1,5 +1,11 @@
 ### Academic publications
 
+-   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Open Science Framework (under submission elsewhere).
+
+    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2).
+
+<!-- -->
+
 -   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.).
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), plain language summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).
