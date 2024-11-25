@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/bad-hombres-movies/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/meaningfully-reducing-consumption-of-meat-and-animal-products-is-an-unsolved-problem-a-meta-analysis/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/meta-analysis/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/bad-hombres-movies/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/movies/</loc>
@@ -61,9 +67,6 @@
   </url><url>
     <loc>http://localhost:4321/blog/being-alive/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/meta-analysis/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/research/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
