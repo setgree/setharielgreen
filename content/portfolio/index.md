@@ -8,7 +8,7 @@
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), plain language summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).
 
--   **Green, S.A.** (2024)[Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). Open Science Framework.
+-   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). Open Science Framework.
 
 -   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237.
 
