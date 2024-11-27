@@ -6,8 +6,15 @@
     <description>Recent content on Seth Ariel Green&#39;s website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Date Me Docs, obviously</title>
+      <link>http://localhost:4321/blog/date-me-docs-obviously/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/date-me-docs-obviously/</guid>
+      <description>I recently wrote a date me doc – see here for context. (I continue to be belatedly zeitgeisty.)&#xA;To me, the case that single people should do this is self-evident: why not? what are the costs? But a few pieces of social context made writing one seem not just desirable but advisable:&#xA;Dating apps do not have our best interests in mind. They do not profit when we find love.</description>
+    </item>
     <item>
       <title>Meaningfully reducing meat consumption is an unsolved problem: meta-analysis</title>
       <link>http://localhost:4321/blog/meaningfully-reducing-consumption-of-meat-and-animal-products-is-an-unsolved-problem-a-meta-analysis/</link>
@@ -328,7 +335,7 @@
       <link>http://localhost:4321/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/portfolio/</guid>
-      <description>Academic publications Green, S.A.; Smith, B; Mathur, MB (2024). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. Open Science Framework (under submission elsewhere).&#xA;Code and data on Code Ocean. Porat, R., Gantman, A., Green, S. A., Pezzuto, J. H., &amp;amp; Paluck, E. L. (2024). Preventing sexual violence: A behavioral problem without a behaviorally informed solution. Psychological science in the public interest, 25(1), 4-29.).&#xA;Code and data on Code Ocean, plain language summary on the EA forum.</description>
+      <description>Academic publications Green, S.A.; Smith, B; Mathur, MB (2024). Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis. Open Science Framework (under submission elsewhere).&#xA;Code and data on Code Ocean; plain lnguage summary on the EA forum. Porat, R., Gantman, A., Green, S. A., Pezzuto, J. H., &amp;amp; Paluck, E. L. (2024). Preventing sexual violence: A behavioral problem without a behaviorally informed solution. Psychological science in the public interest, 25(1), 4-29.</description>
     </item>
   </channel>
 </rss>
