@@ -1,40 +1,39 @@
 {{ partial "header.html" . }}
 
 <main class="content" role="main">
-
   <article class="article">
-    {{ if eq .Section "post" }}
-    <span class="article-duration">{{ .ReadingTime }} min read</span>
-    {{ end }}
-
+    <!-- Post title -->
     <h1 class="article-title">{{ .Title }}</h1>
 
-    {{ if eq .Section "post" }}
-    <span class="article-date">{{ .Date.Format "2006-01-02" }}</span>
+    <!-- Blog post date below title -->
+    {{ if eq .Section "blog" }}
+      <p class="post-date">{{ .Date.Format "2006-01-02" }}</p>
     {{ end }}
 
+    <!-- Main content -->
     <div class="article-content">
       {{ .Content }}
     </div>
   </article>
 
-<p>{{ .GitInfo.AuthorDate.Format "2006-01-02" }}</p>
-
-<script src="https://giscus.app/client.js"
-        data-repo="setgree/setharielgreen"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkyNjU5NTI4MzM="
-        data-category="Blog Comments"
-        data-category-id="DIC_kwDOD9oeQc4CjbFs"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+  <!-- Blog comments (Giscus integration) -->
+  {{ if eq .Section "blog" }}
+    <script src="https://giscus.app/client.js"
+            data-repo="setgree/setharielgreen"
+            data-repo-id="MDEwOlJlcG9zaXRvcnkyNjU5NTI4MzM="
+            data-category="Blog Comments"
+            data-category-id="DIC_kwDOD9oeQc4CjbFs"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="preferred_color_scheme"
+            data-lang="en"
+            crossorigin="anonymous"
+            async>
+    </script>
+  {{ end }}
 </main>
 
 {{ partial "footer.html" . }}
