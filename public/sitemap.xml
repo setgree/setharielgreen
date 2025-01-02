@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2024-11-28T09:13:52-05:00</lastmod>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/wonder-and-horror-equally-counterpart-to-doubt/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/a-delightful-passage-in-a-place-of-greater-safety/</loc>
+    <lastmod>2024-12-06T12:20:26-05:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/date-me-docs-obviously/</loc>
     <lastmod>2024-11-28T09:13:52-05:00</lastmod>
