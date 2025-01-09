@@ -1,6 +1,6 @@
 ### Academic publications
 
--   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Open Science Framework (under submission elsewhere).
+-   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Preprint.
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2); summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).
 
