@@ -1,16 +1,24 @@
 ### Academic publications
 
--   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). (Preprint; code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).)
+-   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Preprint.
 
--   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.) (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).)
+    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).
 
--   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). (Preprint.)
+-   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.)
 
--   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
+    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).
+
+-   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). Preprint.
+
+-   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237.
+
+    -   Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).
 
 -   Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). *Meta-psychology*, 3.
 
--   Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). *Behavioural Public Policy*, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
+-   Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). *Behavioural Public Policy*, 3(2), 129-158.
+
+    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).
 
 ### Some EA Forum Posts
 
