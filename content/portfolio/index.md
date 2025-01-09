@@ -1,26 +1,18 @@
 ### Academic publications
 
--   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Preprint.
+-   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). (Preprint; code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).)
 
-    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2); summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).
+-   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.) (Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).)
 
--   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.).
+-   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). (Preprint.)
 
-    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2); summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).
-
--   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). Open Science Framework.
-
--   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237.
-
-    -   Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).
+-   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237. (Code and data on [GitHub](https://github.com/Lakens/reproducing_registered_reports).)
 
 -   Clyburne-Sherin, A., Fei, X., & **Green, S. A.** (2019). [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892). *Meta-psychology*, 3.
 
--   Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). *Behavioural Public Policy*, 3(2), 129-158.
+-   Paluck, E. L., **Green, S. A.**, & Green, D. P. (2018). [The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25). *Behavioural Public Policy*, 3(2), 129-158. (Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).)
 
-    -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).
-
-### A selectoin of Effective Altruism Forum Posts
+### Some EA Forum Posts
 
 -   [My circuitous, undirected path to an EA job](https://forum.effectivealtruism.org/posts/ekbCzxh2SfA64GrxD/my-circuitous-undirected-path-to-an-ea-job)
 
@@ -49,4 +41,4 @@
 
 -   I prepared research briefs for Evidence in Governance and Politics ([6](https://egap.org/resource/brief-06-voter-benchmarks-in-developing-countries/), [12](https://egap.org/resource/brief-12-attitudes-towards-immigrants-among-boston-area-commuters/), [15](https://egap.org/resource/brief-15-is-it-the-cash-or-condition-in-malawi/), [20](https://egap.org/resource/brief-20-is-vote-buying-effective/), [23](https://egap.org/resource/brief-23-discrimination-in-everyday-behavior/), [34](https://egap.org/resource/brief-34-violent-conflict-and-behavior-in-burundi/), [36](https://egap.org/resource/brief-36-face-to-face-interviews-cognitive-skill-and-non-response/), [37](https://egap.org/resource/brief-37-voter-and-candidate-response-to-political-debates/), [38](https://egap.org/resource/brief-38-diminishing-the-effectiveness-of-vote-buying-through-voter-education/), and [39](https://egap.org/resource/brief-39-attitudes-towards-risk-and-illegal-behavior/)).
 
--   I also researched effective anti-corruption NGOs for [Founders Pledge](https://www.founderspledge.com/)
+-   I also researched effective anti-corruption NGOs for [Founders Pledge](https://www.founderspledge.com/).
