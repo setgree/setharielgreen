@@ -7,9 +7,9 @@ categories: []
 tags: []
 ---
 
-In 2023, a Harvard professor was ['cancelled' for having signed a brief in 2015](https://www.sciencedirect.com/science/article/pii/S2590113323000226) that suggested the constitution was silent on the issue of gay marriage (the brief is not explicitly *against* gay marriage but I do think it's reasonable to think that its signatories are personally against it, whatever that means), as well as having written some things that [could be understood as approving of abortion restrictions](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2799598).
+In 2023, a Harvard professor was ['](https://www.sciencedirect.com/science/article/pii/S2590113323000226)[cancelled](https://www.sciencedirect.com/science/article/pii/S2590113323000226)' for having signed a brief in 2015 arguing that the constitution is silent on gay marriage and for having written some things that [could be understood as approving of abortion restrictions](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2799598).
 
-From his own account, a few details stood out:
+From [his own account](https://www.sciencedirect.com/science/article/pii/S2590113323000226), a few details stood out:
 
 > At the Epidemiology departmental faculty meeting on April 5th, a central agenda item was “Discussion on matters related to [my] views.” The Department chair allowed me to make some remarks prior to this discussion. I commented that I had real sorrow over the pain and distress in the community; that my view at the time of my signing was similar to that President Obama held upon his election and until 2012; that I had been sent the *amicus* brief, asked if it corresponded to my views and, if so, if I were willing to sign...
 >
@@ -37,4 +37,4 @@ I cherish these virtues still" The idea that pleasure is good, in its rudest for
 
 [^2]: [Fran Lebowitz says](https://bolstablog.wordpress.com/2008/11/20/smoke/#more-1614): "I understand, of course, that many people find smoking objectionable. That is their right. I would, I assure you, be the very last to criticize the annoyed. I myself find many-- even most-- things objectionable. Being offended is the natural consequence of leaving one's home. I do not like aftershave lotion, adults who roller-skate, children who speak French, or anyone who is unduly tan. I do not, however, go around enacting legislation and putting up signs. In private I avoid such people; in public they have the run of the place. I stay at home as much as possible, and so should they. When it is necessary, however, to go out of the house, they must be prepared, as I am, to deal with the unpleasant personal habits of others. That is what "public" means."
 
-[^3]:  [HPMOR-Harry says](https://hpmor.com/chapter/48): “The more you try to justify yourself to people like that, the more it acknowledges that they have the right to question you.”
+[^3]: [HPMOR-Harry says](https://hpmor.com/chapter/48): “The more you try to justify yourself to people like that, the more it acknowledges that they have the right to question you.”
