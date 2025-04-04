@@ -1,0 +1,40 @@
+---
+title: Ah, the rude virtues
+author: Seth Green
+date: '2025-04-04'
+slug: ah-the-rude-virtues
+categories: []
+tags: []
+---
+
+In 2023, a Harvard professor was ['cancelled' for having signed a brief in 2015](https://www.sciencedirect.com/science/article/pii/S2590113323000226) that suggested the constitution was silent on the issue of gay marriage (the brief is not explicitly *against* gay marriage but I do think it's reasonable to think that its signatories are personally against it, whatever that means), as well as having written some things that [could be understood as approving of abortion restrictions](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2799598).
+
+From his own account, a few details stood out:
+
+> At the Epidemiology departmental faculty meeting on April 5th, a central agenda item was “Discussion on matters related to [my] views.” The Department chair allowed me to make some remarks prior to this discussion. I commented that I had real sorrow over the pain and distress in the community; that my view at the time of my signing was similar to that President Obama held upon his election and until 2012; that I had been sent the *amicus* brief, asked if it corresponded to my views and, if so, if I were willing to sign...
+>
+> Throughout this time, **I agreed to every request from faculty, staff, or students to meet, either individually or in small groups, to talk through the various issues, or for them to share their pain.**
+>
+> During the week of April 10–14, six more 2-hour circle dialogue listening sessions were scheduled. I again met with the Dean who affirmed my academic freedom, but defended a decentralized approach to the incident so as not to upset the students and so as to let the situation quiet down. There was also to be a transition of Deans in the new academic year and I was told further work on supporting academic freedom would likely take place then. The University's Vice-Provost wrote to me stating, “I know I speak for all in the University's administration when I write that we respect you and your opinions, and your rights to free expression.”...
+>
+> A week later, on April 21st, I was notified by the Dean that there was to be a cessation of scheduling additional circle dialogues, after the fourteen 2-hour sessions that had occurred; and that the University-wide statement on academic freedom, and University policies on using one's affiliation, had been distributed the Academic Council and Department chairs; the e-mail also expressed an expectation that in the new academic year there would be additional teaching and learning modules on academic freedom. To the best of my knowledge, however, no departmental-level communication and clarification was made to either faculty or students during the week that followed, or thereafter.
+
+Many things to say about this – but the thing that strikes me most about these responses, by the professor and by Harvard, is how *polite* they are, how fundamentally solicitous, even obsequious. Had I been in Tyler's shoes, I would have been sorely tempted to say: "y'all, these are my beliefs, and if you don't like them, you can pound sand. If you don't want to take my class, that's fine, I don't care. But we'll be keeping your tuition." I would have been *rude*: impolite, ill-mannered, disrespectful, abrupt.
+
+Rudeness has become very right-coded, [e.g.](https://x.com/CathyYoung63/status/1907918499575738577)
+
+![](images/rude-tweet.png)
+
+But a little rudeness — fearlessness, a love of battle, a disregard for norms that favor the status quo — would have gone a long way for [Columbia recently](https://setharielgreen.com/blog/columbia-is-scared-of-discovery/) (and probably [Harvard in the coming weeks](https://www.nytimes.com/2025/04/01/us/republicans-harvard-funding.html)). If you can't even tell some undergrads that they can go fuck themselves, how are you going to say it to Trump?
+
+Ah, these troubled institutions. They're [so nice. They're not good, they're not bad, they're just nice](https://youtu.be/W0XC2M465yU?si=RfkzFJ0QeKSAgdp2&t=84).[^1] They want everyone to be heard, everyone to be included.
+
+[^1]: Nietzsche might recognize this as a kind of [extreme version of slave morality](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm#:~:text=The%20revolt%20of%20the%20slaves%20in,we%20beautiful%20ones%2C%20we%20happy%20ones.%22), though the mapping doesn't work perfectly.
+
+I, by contrast, am on team [pardon my freedom](https://www.youtube.com/watch?v=rrajuEyRLxs), and have been since I was a teenager. A "like i give a fuck" attitude used to go hand in hand with libertinism, and they used to be left-coded.
+
+I cherish these virtues still" The idea that pleasure is good, in its rudest forms as well. That 'society' means putting up with people who offend and annoy us.[^2] And that defending these two principles sometimes means getting up in people's faces and telling them that their hurt feelings do not grant them a right to dictate our behavior.[^3]
+
+[^2]: [Fran Lebowitz says](https://bolstablog.wordpress.com/2008/11/20/smoke/#more-1614): "I understand, of course, that many people find smoking objectionable. That is their right. I would, I assure you, be the very last to criticize the annoyed. I myself find many-- even most-- things objectionable. Being offended is the natural consequence of leaving one's home. I do not like aftershave lotion, adults who roller-skate, children who speak French, or anyone who is unduly tan. I do not, however, go around enacting legislation and putting up signs. In private I avoid such people; in public they have the run of the place. I stay at home as much as possible, and so should they. When it is necessary, however, to go out of the house, they must be prepared, as I am, to deal with the unpleasant personal habits of others. That is what "public" means."
+
+[^3]:  [HPMOR-Harry says](https://hpmor.com/chapter/48): “The more you try to justify yourself to people like that, the more it acknowledges that they have the right to question you.”
