@@ -1,0 +1,14 @@
+---
+title: '''Regression to the meat'' newsletter'
+author: Seth Green
+date: '2025-05-15'
+slug: regression-to-the-meat-newsletter
+categories: []
+tags: []
+---
+
+First post [here](https://regressiontothemeat.substack.com/p/welcome-to-regression-to-the-meat).[^1]
+
+[^1]: My [reservations about Substack](https://setharielgreen.com/blog/substack-sucks/) notwithstanding 😃
+
+Would be glad to hear your thoughts!
