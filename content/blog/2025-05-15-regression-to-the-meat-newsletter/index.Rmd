@@ -7,7 +7,9 @@ categories: []
 tags: []
 ---
 
-My first post [here](https://regressiontothemeat.substack.com/p/welcome-to-regression-to-the-meat).[^1]
+It's <https://regressiontothemeat.substack.com/>.
+
+My first post is [here](https://regressiontothemeat.substack.com/p/welcome-to-regression-to-the-meat).[^1]
 
 [^1]: My [reservations about Substack](https://setharielgreen.com/blog/substack-sucks/) notwithstanding 😃
 
