@@ -1,10 +1,9 @@
 Hi I’m Seth!
 
-<div style="float: right; margin: 0 0 1rem 2rem; width: 49%; max-width: 400px; vertical-align: top;"
->
-  <img 
-    src="/./_index_files/homepage-photos/seth-compendium.png" 
-    alt="Prospect Park, Brooklyn, November 2024" 
+<div style="float: right; margin: 0 0 1rem 2rem; width: 49%; max-width: 400px; vertical-align: top;">
+  <img
+    src="/./_index_files/homepage-photos/seth-compendium.png"
+    alt="Photos of Seth"
     style="width: 100%; height: auto; border-radius: 6px;" />
 </div>
 
