@@ -54,7 +54,7 @@
 
 #### Animal welfare and food systems
 
--   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter about research to reduce meat consumption.
+-   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter about research to reduce meat consumption. For example posts, see [Scaled up, I expect defaults to reduce meat consumption by ~1-2 pp](https://regressiontothemeat.substack.com/p/scaled-up-i-expect-defaults-to-reduce), [Burdens of proof for dynamic norms interventions](https://regressiontothemeat.substack.com/p/burdens-of-proof-for-dynamic-norms), and [Eating vegetarian is not like voting](https://regressiontothemeat.substack.com/p/eating-vegetarian-is-not-like-voting).
 
 #### Everything else
 
