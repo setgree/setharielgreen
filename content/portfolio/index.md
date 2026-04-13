@@ -54,7 +54,7 @@
 
 #### Animal welfare and food systems
 
--   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter covering research on food systems and animal welfare.
+-   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter about research to reduce meat consumption.
 
 #### Everything else
 
