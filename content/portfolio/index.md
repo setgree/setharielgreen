@@ -67,6 +67,10 @@
 
 -   An [R package](https://github.com/setgree/PaluckMetaSOP) on the [Paluck Lab's](https://psych.princeton.edu/people/elizabeth-levy-paluck) approach to meta-analysis.
 
+### Media mentions
+
+My work has been featured in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/).
+
 ### Politics, cultural, and personal
 
 -   [Traveling North](https://journeys.appalachiantrail.org/issue/spring-summer-2022/traveling-north/), *Appalachian Trail Journeys*, spring/summer 2022.
