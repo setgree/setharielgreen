@@ -69,7 +69,7 @@
 
 ### Media mentions
 
-My work has been featured in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/).
+My work has been featured in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/). (The [contact meta](https://doi.org/10.1017/bpp.2018.25) has been mentioned [many times](https://cambridge.altmetric.com/details/70248650/news).)
 
 ### Politics, cultural, and personal
 
