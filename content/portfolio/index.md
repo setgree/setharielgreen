@@ -30,7 +30,7 @@
 
 -   [A Rigorous Look at Behavioral Nudges in Plant-Based Food Systems Change: What Works, What's Next.](https://www.youtube.com/watch?v=9hozYKqvDZg) Better Food Foundation webinar, hosted by Jennifer Channin, March 13, 2026.
 
--   [How I Learned to Love Shrimp.](https://www.buzzsprout.com/2122817/episodes/18730635) *Conversations with James Özden*, February 26, 2026.
+-   [Seth Green on why reducing meat consumption is hard and what actually works.](https://www.buzzsprout.com/2122817/episodes/18730635) *How I Learned to Love Shrimp*, hosted by James Özden, February 26, 2026.
 
 -   [2025 Highlights: AI, MAHA, Vegan Nudges, Cultivated Meat: Science of Activism.](https://rss.com/podcasts/veganreport/2473537/) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, January 21, 2026.
 
