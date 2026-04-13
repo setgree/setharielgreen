@@ -1,18 +1,18 @@
 ### Academic publications
 
-[Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233) | [Replication Package](https://doi.org/10.24433/CO.6020578.v2) | With Benny Smith and Maya Mathur (2025). *Appetite* 216.
+[Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233) | [Replication Package](https://doi.org/10.24433/CO.6020578.v2) with Benny Smith and Maya Mathur (2025). *Appetite* 216.
 
-[Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.31219/osf.io/z6rn2_v2) | [Replication Package](https://github.com/hsflabstanford/tacos-rct) | With Jessica Hope, Jacob Peacock, and Maya Mathur. Accepted at *Food Quality and Preference*.
+[Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.31219/osf.io/z6rn2_v2) | [Replication Package](https://github.com/hsflabstanford/tacos-rct) with Jessica Hope, Jacob Peacock, and Maya Mathur. Accepted at *Food Quality and Preference*.
 
-[Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978) | [Replication Package](https://doi.org/10.24433/CO.5471833.v2) | With Roni Porat, Ana Gantman, John-Henry Pezzuto, and Elizabeth Levy Paluck (2024). *Psychological Science in the Public Interest* 25(1): 4–29.
+[Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978) | [Replication Package](https://doi.org/10.24433/CO.5471833.v2) with Roni Porat, Ana Gantman, John-Henry Pezzuto, and Elizabeth Levy Paluck (2024). *Psychological Science in the Public Interest* 25(1): 4–29.
 
 [Five Observations on Five Years of Contact Hypothesis Research](https://doi.org/10.31235/osf.io/8mcb5) (2024). *SocArXiv* preprint.
 
-[Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872) | [Replication Package](https://github.com/Lakens/reproducing_registered_reports) | With Pepijn Obels, Daniël Lakens, Nicholas A. Coles, and Jaroslav Gottfried (2020). *Advances in Methods and Practices in Psychological Science* 3(2): 229–237.
+[Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872) | [Replication Package](https://github.com/Lakens/reproducing_registered_reports) with Pepijn Obels, Daniël Lakens, Nicholas A. Coles, and Jaroslav Gottfried (2020). *Advances in Methods and Practices in Psychological Science* 3(2): 229–237.
 
 [Computational reproducibility via containers in psychology](https://conferences.lnu.se/index.php/metapsychology/article/view/892) with April Clyburne-Sherin and Xu Fei (2019). *Meta-Psychology* 3.
 
-[The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25) | [Replication Package](https://doi.org/10.24433/CO.4024382.v7) | With Elizabeth Levy Paluck and Donald P. Green (2018). *Behavioural Public Policy* 3(2): 129–158.
+[The contact hypothesis re-evaluated](https://doi.org/10.1017/bpp.2018.25) | [Replication Package](https://doi.org/10.24433/CO.4024382.v7) with Elizabeth Levy Paluck and Donald P. Green (2018). *Behavioural Public Policy* 3(2): 129–158.
 
 ### Podcasts and media
 
