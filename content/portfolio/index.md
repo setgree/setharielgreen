@@ -1,14 +1,18 @@
 ### Academic publications
 
--   **Green, S.A.**; Smith, B; Mathur, MB (2024). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://osf.io/a7g95/). Preprint.
+-   **Green, S.A.**; Smith, B; Mathur, MB (2025). [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233). *Appetite, 216*.
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.6020578.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved).
 
--   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.)
+-   Hope, J.E., **Green, S.A.**, Peacock, J.R., & Mathur, M. [Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.31219/osf.io/z6rn2_v2). Accepted at *Food Quality and Preference*.
+
+    -   Code and data on [GitHub](https://github.com/hsflabstanford/tacos-rct).
+
+-   Porat, R., Gantman, A., **Green, S. A.**, Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978). *Psychological science in the public interest*, 25(1), 4-29.
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.5471833.v2), summary [on the EA forum](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not).
 
--   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://osf.io/preprints/socarxiv/8mcb5). Preprint.
+-   **Green, S.A.** (2024). [Five Observations on Five Years of Contact Hypothesis Research](https://doi.org/10.31235/osf.io/8mcb5). Preprint.
 
 -   Obels, P., Lakens, D., Coles, N. A., Gottfried, J., & **Green, S. A.** (2020). [Analysis of open data and computational reproducibility in registered reports in psychology](https://doi.org/10.1177/2515245920918872). *Advances in Methods and Practices in Psychological Science*, 3(2), 229-237.
 
@@ -20,22 +24,44 @@
 
     -   Code and data on [Code Ocean](https://doi.org/10.24433/CO.4024382.v7).
 
-### Some EA Forum Posts
+### Podcasts and media
+
+#### Animal welfare and food systems
+
+-   [A Rigorous Look at Behavioral Nudges in Plant-Based Food Systems Change: What Works, What's Next.](https://www.youtube.com/watch?v=9hozYKqvDZg) Better Food Foundation webinar, hosted by Jennifer Channin, March 13, 2026.
+
+-   [How I Learned to Love Shrimp.](https://www.buzzsprout.com/2122817/episodes/18730635) *Conversations with James Özden*, February 26, 2026.
+
+-   [2025 Highlights: AI, MAHA, Vegan Nudges, Cultivated Meat: Science of Activism.](https://rss.com/podcasts/veganreport/2473537/) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, January 21, 2026.
+
+-   [The Vegan Persuasion Problem: What Actually Works to End Animal Consumption?](https://www.ourhenhouse.org/ep873/) *Our Hen House*, Ep. 873, with Benny Smith, November 21, 2025.
+
+-   [Nothing Seems to Work: Science of Activism.](https://open.spotify.com/episode/1ZzIHoUYWrJVM9EMRbayy5) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, October 29, 2025.
+
+### Some EA Forum posts
+
+-   [Research report: adding a plant-based option (or two) doesn't change behavior](https://forum.effectivealtruism.org/posts/sXQrBxHuBxyxdkMp3/research-report-adding-a-plant-based-option-or-two-doesn-t)
+
+-   [Meaningfully reducing meat consumption is an unsolved problem: meta-analysis](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved)
+
+-   [Sexual violence prevention programs change ideas, not behaviors](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not)
 
 -   [My circuitous, undirected path to an EA job](https://forum.effectivealtruism.org/posts/ekbCzxh2SfA64GrxD/my-circuitous-undirected-path-to-an-ea-job)
 
--   [Extraordinary cost-effectiveness analyses call for supporting theory](https://forum.effectivealtruism.org/posts/fuohDWSqhCHcZHqeD/extraordinary-cost-effectiveness-analyses-call-for)
-
--   [Towards non-meat diets for domesticated dogs](https://forum.effectivealtruism.org/posts/zihL7a4xbTnCmuL2L/towards-non-meat-diets-for-domesticated-dogs)
-
--   [GiveWell should fund an SMC replication](https://forum.effectivealtruism.org/posts/E3nAGbeMoFnjpYawr/givewell-should-fund-an-smc-replication)
+[Full list on my EA Forum profile](https://forum.effectivealtruism.org/users/seth-ariel-green?from=post_header)
 
 ### Content marketing, documentation, & market research
+
+#### Animal welfare and food systems
+
+-   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter covering research on food systems and animal welfare.
+
+#### Everything else
 
 -   For [Glo Foundation](https://www.glodollar.org/), I published [thought](https://web.archive.org/web/20240221111740/https://www.glodollar.org/articles/glo-zero-poverty-and-the-sdgs) [leadership](https://web.archive.org/web/20240221120127/https://www.glodollar.org/articles/why-glo-foundation-donates-to-givedirectly), [product](https://www.glodollar.org/articles/treasuries) [explanations](https://web.archive.org/web/20240221120343/https://www.glodollar.org/articles/givedirectly), [quarterly](https://www.glodollar.org/articles/glo-q1-2023-update) [updates](https://www.glodollar.org/articles/glo-q2-2023-update), information for [job](https://www.glodollar.org/articles/how-we-work-at-glo) [applicants](https://www.glodollar.org/articles/how-to-make-your-job-application-to-glo-stand-out), [general purpose marketing](https://web.archive.org/web/20231129055038/https://www.glodollar.org/articles/embedded-philanthropy), social media [threads](https://twitter.com/glodollar/status/1710360692812021898) [and](https://twitter.com/glodollar/status/1580906280599724032) [stand](https://twitter.com/glodollar/status/1711762918214148500) [alone](https://twitter.com/glodollar/status/1706318040592191520) [posts](https://twitter.com/glodollar/status/1651247136179122178), and content for [external](https://discuss.octant.app/t/glo-dollar-a-fiat-backed-stablecoin-embedded-with-philanthropy/51) [forums](https://forum.effectivealtruism.org/posts/EAiwxZN4Jiyup8d9G/glo-dollar-an-ethical-stablecoin-model-potential-impact-and). I also [recorded](https://open.spotify.com/episode/67sgAVvKCVnot4yrvs40az?si=16344f2dc1a948a9&nd=1) [some](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-127-glo-and-the-life-you-can-save-how-blockchain-can-help-alleviate-extreme-poverty) [podcasts](https://podcasters.spotify.com/pod/show/watotocoding/episodes/Glo-Dollar---A-solution-to-extreme-poverty-e21m51q).
 -   For [Code Ocean](https://codeocean.com/), I co-authored the [white paper](https://open.lnu.se/index.php/metapsychology/article/view/892), [wrote](https://medium.com/codeocean/two-welcome-innovations-in-liu-and-salganik-2019-successes-and-struggles-with-computational-b4ef1a4311f2) [for](https://medium.com/codeocean/five-reproducibility-lessons-from-a-year-of-reviewing-compute-capsules-de71729ebd8a) [the](https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e) [company](https://medium.com/codeocean/multiple-languages-in-a-single-compute-capsule-e71719e448ab) [blog](https://medium.com/codeocean/stata-on-code-ocean-the-case-of-meta-ado-ac9c32be338a), guest wrote for a [partner's blog](https://www.cambridge.org/core/blog/2018/12/21/public-and-private-benefits-to-practicing-open-science/), occasionally [social](https://twitter.com/CodeOceanHQ/status/989193597294665729) [media](https://twitter.com/CodeOceanHQ/status/1024382224844632064) content, and about half of Code Ocean's [help pages](https://help.codeocean.com/en/). I also presented Code Ocean at conferences, e.g. [JupyterDay in the Triangle](https://twitter.com/GinnyGhezzo/status/1062409577101172736/photo/1) at UNC in 2018. (One person [said I was good](https://twitter.com/KLA2010/status/912389868730372097)!)
 -   I've contributed to the Ethereum Foundation's developer docs: [6619](https://github.com/ethereum/ethereum-org-website/pull/6619), [6651](https://github.com/ethereum/ethereum-org-website/pull/6651), [7759](https://github.com/ethereum/ethereum-org-website/pull/7759), [10741](https://github.com/ethereum/ethereum-org-website/pull/10741), [10756](https://github.com/ethereum/ethereum-org-website/pull/10756), [12390](https://github.com/ethereum/ethereum-org-website/pull/12390), and [12938](https://github.com/ethereum/ethereum-org-website/pull/12938).
--   For [IMA Financial Group](https://imacorp.com/), I contributed to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [few](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [different](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/).
+<!-- For [IMA Financial Group](https://imacorp.com/), I contributed to [a](https://imacorp.com/wp-content/uploads/2022/03/Q4_MIF_Cannabis_032222.pdf) [few](https://imacorp.com/wp-content/uploads/2022/01/Q4_MiF_Hospitality_012622.pdf) [different](https://imacorp.com/wp-content/uploads/2021/12/Q3_MIF_Real-Estate_122221.pdf) [reports](https://imacorp.com/insights-alerts-trends/hr-benefits-iats/hr-benefits-iats-april-06/). (links dead, omitting for now) -->
 
 ### Software
 
