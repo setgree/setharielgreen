@@ -16,8 +16,6 @@
 
 ### Podcasts and media
 
-#### Animal welfare and food systems
-
 -   [A Rigorous Look at Behavioral Nudges in Plant-Based Food Systems Change: What Works, What's Next.](https://www.youtube.com/watch?v=9hozYKqvDZg) Better Food Foundation webinar, hosted by Jennifer Channin, March 13, 2026.
 
 -   [Seth Green on why reducing meat consumption is hard and what actually works.](https://www.buzzsprout.com/2122817/episodes/18730635) *How I Learned to Love Shrimp*, hosted by James Özden, February 26, 2026.
@@ -28,23 +26,19 @@
 
 -   [Nothing Seems to Work: Science of Activism.](https://open.spotify.com/episode/1ZzIHoUYWrJVM9EMRbayy5) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, October 29, 2025.
 
-### Some EA Forum posts
+### Presentations and talks
 
--   [Research report: adding a plant-based option (or two) doesn't change behavior](https://forum.effectivealtruism.org/posts/sXQrBxHuBxyxdkMp3/research-report-adding-a-plant-based-option-or-two-doesn-t)
+I have presented my work at my [lab's seminar series](https://www.youtube.com/watch?v=oW2dZmUCVQU) at Stanford (June 2024), RECAP's monthly calls (September 2024, December 2025), the [Reducetarian Summit](https://www.reducetarian.org/summit-2025) in Atlanta (October 2025), the [NEST online seminar](https://www.linkedin.com/posts/leonie-carolin-peiffer_nest-activity-7429049450410450944-gT4c) (March 2026), and the [Food 4 Thought Innovations Festival](https://www.food4thoughtinnovations.org/stanford-festival) at Stanford (April 2026).
 
--   [Meaningfully reducing meat consumption is an unsolved problem: meta-analysis](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved)
+### EA Forum posts
 
--   [Sexual violence prevention programs change ideas, not behaviors](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not)
-
--   [My circuitous, undirected path to an EA job](https://forum.effectivealtruism.org/posts/ekbCzxh2SfA64GrxD/my-circuitous-undirected-path-to-an-ea-job)
-
-[Full list on my EA Forum profile](https://forum.effectivealtruism.org/users/seth-ariel-green?from=post_header)
+Favorite posts: [adding a plant-based option (or two) doesn't change behavior](https://forum.effectivealtruism.org/posts/sXQrBxHuBxyxdkMp3/research-report-adding-a-plant-based-option-or-two-doesn-t), [meaningfully reducing meat consumption is an unsolved problem](https://forum.effectivealtruism.org/posts/i5wnzz4uAgeF3ZRc5/meaningfully-reducing-meat-consumption-is-an-unsolved), [sexual violence prevention programs change ideas, not behaviors](https://forum.effectivealtruism.org/posts/uWh8N5DtbSLsuuTzL/sexual-violence-prevention-programs-change-ideas-not), and [my circuitous, undirected path to an EA job](https://forum.effectivealtruism.org/posts/ekbCzxh2SfA64GrxD/my-circuitous-undirected-path-to-an-ea-job) (full list on my [EA Forum profile](https://forum.effectivealtruism.org/users/seth-ariel-green?from=post_header)).
 
 ### Content marketing, documentation, & market research
 
 #### Animal welfare and food systems
 
--   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter about research to reduce meat consumption. For example posts, see [Scaled up, I expect defaults to reduce meat consumption by ~1-2 pp](https://regressiontothemeat.substack.com/p/scaled-up-i-expect-defaults-to-reduce), [Burdens of proof for dynamic norms interventions](https://regressiontothemeat.substack.com/p/burdens-of-proof-for-dynamic-norms), and [Eating vegetarian is not like voting](https://regressiontothemeat.substack.com/p/eating-vegetarian-is-not-like-voting).
+-   [Regression to the Meat](https://regressiontothemeat.substack.com) is my newsletter about research to reduce meat consumption. My personal favorites: [Scaled up, I expect defaults to reduce meat consumption by ~1-2 pp](https://regressiontothemeat.substack.com/p/scaled-up-i-expect-defaults-to-reduce), [Burdens of proof for dynamic norms interventions](https://regressiontothemeat.substack.com/p/burdens-of-proof-for-dynamic-norms), and [Eating vegetarian is not like voting](https://regressiontothemeat.substack.com/p/eating-vegetarian-is-not-like-voting).
 
 #### Everything else
 
@@ -59,15 +53,7 @@
 
 ### Media mentions
 
--   [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research)
-
--   [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/)
-
--   [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking)
-
--   [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/)
-
--   The [contact meta](https://doi.org/10.1017/bpp.2018.25) has been mentioned [many times](https://cambridge.altmetric.com/details/70248650/news).
+My work has been covered in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/). (The [contact meta](https://doi.org/10.1017/bpp.2018.25) has been cited [many times](https://cambridge.altmetric.com/details/70248650/news).)
 
 ### Politics, cultural, and personal
 
