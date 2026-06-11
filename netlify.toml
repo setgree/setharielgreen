@@ -15,3 +15,8 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+[[redirects]]
+from = "/date-me"
+to = "https://docs.google.com/document/d/1zyQGt7hMgV3iKj8vKlPMgS1ese2L3-ACGZixJAT0re0/edit?tab=t.0#heading=h.jltiiz4j3x0l"
+status = 301
