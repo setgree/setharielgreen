@@ -7,9 +7,6 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableGitInfo = true
 
-[security]
-  allowContent = ['.*']
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
