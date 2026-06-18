@@ -2,7 +2,7 @@
 
 -   [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233) | [Replication Package](https://doi.org/10.24433/CO.6020578.v2) with Benny Smith and Maya Mathur (2025). *Appetite* 216.
 
--   [Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.31219/osf.io/z6rn2_v2) | [Replication Package](https://github.com/hsflabstanford/tacos-rct) with Jessica Hope, Jacob Peacock, and Maya Mathur. Accepted at *Food Quality and Preference*.
+-   [Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.1016/j.foodqual.2026.105931) | [Replication Package](https://github.com/hsflabstanford/tacos-rct) with Jessica Hope, Jacob Peacock, and Maya Mathur (2026). *Food Quality and Preference* 105931.
 
 -   [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://doi.org/10.1177/15291006231221978) | [Replication Package](https://doi.org/10.24433/CO.5471833.v2) with Roni Porat, Ana Gantman, John-Henry Pezzuto, and Elizabeth Levy Paluck (2024). *Psychological Science in the Public Interest* 25(1): 4–29.
 
