@@ -1,6 +1,6 @@
 ### Academic publications
 
--   [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233) | [Replication Package](https://doi.org/10.24433/CO.6020578.v2) with Benny Smith and Maya Mathur (2025). *Appetite* 216.
+-   [Meaningfully reducing consumption of meat and animal products is an unsolved problem: A meta-analysis](https://doi.org/10.1016/j.appet.2025.108233) | [Replication Package](https://doi.org/10.24433/CO.6020578.v2) with Benny Smith and Maya Mathur (2026). *Appetite* 216.
 
 -   [Effects of adding plant-based menu options on meat selection frequency: A randomized controlled experiment](https://doi.org/10.1016/j.foodqual.2026.105931) | [Replication Package](https://github.com/hsflabstanford/tacos-rct) with Jessica Hope, Jacob Peacock, and Maya Mathur (2026). *Food Quality and Preference* 105931.
 
