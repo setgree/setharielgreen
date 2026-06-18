@@ -22,11 +22,9 @@
 
 -   [Seth Green on why reducing meat consumption is hard and what actually works.](https://www.buzzsprout.com/2122817/episodes/18730635) *How I Learned to Love Shrimp*, hosted by James Özden, February 26, 2026.
 
--   [2025 Highlights: AI, MAHA, Vegan Nudges, Cultivated Meat: Science of Activism.](https://rss.com/podcasts/veganreport/2473537/) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, January 21, 2026.
+-   *The Vegan Report*'s "Science of Activism" series with Rayane Laddi and Jacob Peacock: [Nothing Seems to Work](https://open.spotify.com/episode/1ZzIHoUYWrJVM9EMRbayy5) (October 29, 2025) and [2025 Highlights: AI, MAHA, Vegan Nudges, Cultivated Meat](https://rss.com/podcasts/veganreport/2473537/) (January 21, 2026).
 
 -   [The Vegan Persuasion Problem: What Actually Works to End Animal Consumption?](https://www.ourhenhouse.org/ep873/) *Our Hen House*, Ep. 873, with Benny Smith, November 21, 2025.
-
--   [Nothing Seems to Work: Science of Activism.](https://open.spotify.com/episode/1ZzIHoUYWrJVM9EMRbayy5) *The Vegan Report*, with Rayane Laddi and Jacob Peacock, October 29, 2025.
 
 ### Presentations and talks
 
