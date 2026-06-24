@@ -28,7 +28,7 @@
 
 ### Presentations & talks
 
-I have presented my work at my [lab's seminar series](https://www.youtube.com/watch?v=oW2dZmUCVQU) at Stanford (June 2024), RECAP's monthly calls (September 2024, December 2025), the [Reducetarian Summit](https://www.reducetarian.org/summit-2025) in Atlanta (October 2025), the [NEST online seminar](https://www.linkedin.com/posts/leonie-carolin-peiffer_nest-activity-7429049450410450944-gT4c) (March 2026), the [Food 4 Thought Innovations Festival](https://www.food4thoughtinnovations.org/stanford-festival) at Stanford (April 2026), and the [AVA Summit](https://substack.com/@setharielgreen/note/c-259121467) (May 2026).
+I have presented my work at my [lab's seminar series](https://www.youtube.com/watch?v=oW2dZmUCVQU) at Stanford (June 2024), [RECAP](https://www.recapresearch.org/)'s monthly calls (September 2024, December 2025), the [Reducetarian Summit](https://www.reducetarian.org/summit-2025) in Atlanta (October 2025), the [NEST online seminar](https://www.linkedin.com/posts/leonie-carolin-peiffer_nest-activity-7429049450410450944-gT4c) (March 2026), the [Food 4 Thought Innovations Festival](https://www.food4thoughtinnovations.org/stanford-festival) at Stanford (April 2026), and the [AVA Summit](https://substack.com/@setharielgreen/note/c-259121467) (May 2026).
 
 ### Media mentions
 
