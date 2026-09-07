@@ -1,0 +1,11 @@
+# Site-wide output options for blogdown-rendered .Rmd posts.
+# blogdown copies this file into each post's directory before knitting.
+# math_method: ~ suppresses rmarkdown's own math flag so we can pass pandoc's
+# current spelling ourselves; pandoc >= 3.11 deprecates the old --mathjax.
+blogdown::html_page:
+  math_method: ~
+  pandoc_args:
+    - -M
+    - link-citations=true
+    - --preserve-tabs
+    - --math-method=mathjax
