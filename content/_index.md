@@ -14,7 +14,7 @@ I live in Brooklyn, I am [vegan](https://setharielgreen.com/blog/i-m-an-ethical-
 I write a [newsletter](https://regressiontothemeat.substack.com/) about meat reduction research and a [personal blog](/blog).
 
   Here is my
-  [CV](https://www.dropbox.com/.../Seth_Green_extended_CV.pdf?...&dl=0).
+  [CV](https://www.dropbox.com/scl/fi/gcrf1q5aidkh87yzr4l5m/Seth_Green_CV.pdf?rlkey=03l6tm8bi4m75j15hmg308gye&dl=0).
 
   <!-- Uncomment when single:
   I also have a [date-me 
