@@ -32,7 +32,7 @@ I have presented my work at my [lab's seminar series](https://www.youtube.com/wa
 
 ### Media mentions
 
-My work has been covered in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), the [PHAIR blog](https://phairsociety.org/2026/04/29/reducing-meat-consumption-an-unsolved-problem/), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/). (The [contact meta](https://doi.org/10.1017/bpp.2018.25) has been mentioned [many times](https://cambridge.altmetric.com/details/70248650/news).)
+My work has been covered in [Vox](https://www.vox.com/future-perfect/417717/meat-reduction-vegetarian-research), [Green Queen Media](https://www.greenqueen.com.hk/plant-based-vegan-menu-options-choice-architecture-meat-chipotle/), [Psychology Today](https://www.psychologytoday.com/us/blog/animals-and-us/202603/is-it-harder-to-cut-back-on-meat-than-to-quit-smoking), the [PHAIR blog](https://phairsociety.org/2026/04/29/reducing-meat-consumption-an-unsolved-problem/), [Sentient Media](https://sentientmedia.org/can-nudges-towards-plant-based-stick/), and [Faunalytics](https://faunalytics.org/convincing-people-to-stop-eating-meat-isnt-easy/). (The [contact meta](https://doi.org/10.1017/bpp.2018.25) has been mentioned [many times](https://cambridge.altmetric.com/details/70248650/news).)
 
 ### EA Forum posts
 
