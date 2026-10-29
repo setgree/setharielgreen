@@ -16,7 +16,9 @@
 
 -   [Five Observations on Five Years of Contact Hypothesis Research](/papers/five-observations.pdf) (2024). *SocArXiv* preprint.
 
-### Podcasts & media
+### Essays, podcasts, & media
+
+-   [When it comes to CAFOs, there are no win-wins: Except for eating fewer animals.](https://issuu.com/18621/docs/the_bulletin_food_is_medicine_-_2026_q3) *The Bulletin* (Santa Clara County Medical Association), "Food Is Medicine" issue, Third Quarter 2026, pp. 38–39.
 
 -   [A Rigorous Look at Behavioral Nudges in Plant-Based Food Systems Change: What Works, What's Next.](https://www.youtube.com/watch?v=9hozYKqvDZg) Better Food Foundation webinar, hosted by Jennifer Channin, March 13, 2026.
 
@@ -28,7 +30,7 @@
 
 ### Presentations & talks
 
-I have presented my work at my [lab's seminar series](https://www.youtube.com/watch?v=oW2dZmUCVQU) at Stanford (June 2024), [RECAP](https://www.recapresearch.org/)'s monthly calls (September 2024, December 2025), the [Reducetarian Summit](https://www.reducetarian.org/summit-2025) in Atlanta (October 2025), the [NEST online seminar](https://www.linkedin.com/posts/leonie-carolin-peiffer_nest-activity-7429049450410450944-gT4c) (March 2026), the [Food 4 Thought Innovations Festival](https://www.food4thoughtinnovations.org/stanford-festival) at Stanford (April 2026), and the [AVA Summit](https://substack.com/@setharielgreen/note/c-259121467) (May 2026).
+I have presented my work at my [lab's seminar series](https://www.youtube.com/watch?v=oW2dZmUCVQU) at Stanford (June 2024), [RECAP](https://www.recapresearch.org/)'s monthly calls (September 2024, December 2025), the [Reducetarian Summit](https://www.reducetarian.org/summit-2025) in Atlanta (October 2025), the [NEST online seminar](https://www.linkedin.com/posts/leonie-carolin-peiffer_nest-activity-7429049450410450944-gT4c) (March 2026), the [Food 4 Thought Innovations Festival](https://www.food4thoughtinnovations.org/stanford-festival) at Stanford (April 2026), the [AVA Summit](https://substack.com/@setharielgreen/note/c-259121467) (May 2026), and the [Reducetarian Summit](https://www.reducetarian.org/summit-2026) in Raleigh (October 2026). My presentation slides are generally available [here](https://github.com/setgree/presentations).
 
 ### Media mentions
 
